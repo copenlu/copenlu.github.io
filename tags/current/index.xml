@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on CopeNLU</title>
+    <link>https://copenlu.github.io/tags/current/</link>
+    <description>Recent content in Current on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jan 2019 17:07:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Isabelle Augenstein</title>
+      <link>https://copenlu.github.io/people/isabelle/</link>
+      <pubDate>Sun, 20 Jan 2019 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/isabelle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Bjerva</title>
+      <link>https://copenlu.github.io/people/johannes/</link>
+      <pubDate>Sat, 19 Jan 2019 17:09:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/johannes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
