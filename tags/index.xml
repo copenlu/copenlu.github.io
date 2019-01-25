@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>Alumni</title>
-      <link>https://copenlu.github.io/tags/alumni/</link>
-      <pubDate>Fri, 18 Jan 2019 17:09:01 +0100</pubDate>
+      <title>Affiliated</title>
+      <link>https://copenlu.github.io/tags/affiliated/</link>
+      <pubDate>Sun, 21 Jan 2018 17:07:01 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/tags/alumni/</guid>
+      <guid>https://copenlu.github.io/tags/affiliated/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Current</title>
-      <link>https://copenlu.github.io/tags/current/</link>
-      <pubDate>Sun, 20 Jan 2019 17:07:01 +0100</pubDate>
+      <title>Alumni</title>
+      <link>https://copenlu.github.io/tags/alumni/</link>
+      <pubDate>Fri, 20 Jan 2017 17:09:01 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/tags/current/</guid>
+      <guid>https://copenlu.github.io/tags/alumni/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://copenlu.github.io/tags/members/</link>
+      <pubDate>Sun, 20 Jan 2019 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/members/</guid>
       <description></description>
     </item>
     

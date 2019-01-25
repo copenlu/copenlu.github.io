@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peoples on CopeNLU</title>
-    <link>https://copenlu.github.io/people/</link>
-    <description>Recent content in Peoples on CopeNLU</description>
+    <title>Members on CopeNLU</title>
+    <link>https://copenlu.github.io/tags/members/</link>
+    <description>Recent content in Members on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jan 2019 17:07:01 +0100</lastBuildDate>
     
-	<atom:link href="https://copenlu.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://copenlu.github.io/tags/members/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -71,51 +71,6 @@
       <pubDate>Tue, 15 Jan 2019 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/farhad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ryan Cotterell</title>
-      <link>https://copenlu.github.io/people/ryan/</link>
-      <pubDate>Sun, 21 Jan 2018 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/ryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yova Kementchedjhieva</title>
-      <link>https://copenlu.github.io/people/yova/</link>
-      <pubDate>Sat, 20 Jan 2018 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/yova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ana Valeria González</title>
-      <link>https://copenlu.github.io/people/ana/</link>
-      <pubDate>Fri, 19 Jan 2018 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/ana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mareike Hartmann</title>
-      <link>https://copenlu.github.io/people/mareike/</link>
-      <pubDate>Thu, 18 Jan 2018 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/mareike/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sune Debel</title>
-      <link>https://copenlu.github.io/people/sune/</link>
-      <pubDate>Fri, 20 Jan 2017 17:09:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/sune/</guid>
       <description></description>
     </item>
     
