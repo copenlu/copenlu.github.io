@@ -6,7 +6,7 @@
     <description>Recent content in Authors on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Admin</title>
       <link>https://copenlu.github.io/authors/admin/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anders Søgaard</title>
+      <link>https://copenlu.github.io/authors/anders-s%C3%B8gaard/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/anders-s%C3%B8gaard/</guid>
       <description></description>
     </item>
     
@@ -30,11 +39,38 @@
     </item>
     
     <item>
+      <title>Isabelle Augenstein</title>
+      <link>https://copenlu.github.io/authors/isabelle-augenstein/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/isabelle-augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Bjerva</title>
+      <link>https://copenlu.github.io/authors/johannes-bjerva/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/johannes-bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MS Nixon</title>
       <link>https://copenlu.github.io/authors/ms-nixon/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/ms-nixon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Ruder</title>
+      <link>https://copenlu.github.io/authors/sebastian-ruder/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/sebastian-ruder/</guid>
       <description></description>
     </item>
     

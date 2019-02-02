@@ -6,20 +6,18 @@
     <description>Recent content in Admin on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>https://copenlu.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Interested in joining us at the University of Copenhagen?</title>
+      <link>https://copenlu.github.io/post/why-ucph/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/post/getting-started/</guid>
-      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
-Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
- View the documentation Ask a question Request a feature or report a bug Updating?</description>
+      <guid>https://copenlu.github.io/post/why-ucph/</guid>
+      <description>The University of Copenhagen is a great place if you&amp;rsquo;re both interested in high-quality NLP research (we&amp;rsquo;re ranked 2nd in Europe and 14th in the world on CSRankings for NLP) and a high quality of life (Denmark has consistently been ranked one of the three happiest countries in the world, and ranks equally highly on the quality of life). In addition to this, Copenhagen is a lively, bustling capital, while still being small enough that one can cycle nearly everwhere within a short amount of time.</description>
     </item>
     
   </channel>

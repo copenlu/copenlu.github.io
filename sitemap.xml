@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/post/why-ucph/</loc>
+      <lastmod>2019-02-02T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/people/isabelle/</loc>
       <lastmod>2019-01-20T17:07:01+01:00</lastmod>
     </url>
@@ -76,6 +84,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2017_naacl_bjerva/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2017_naacl_augenstein/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/people/ryan/</loc>
       <lastmod>2018-01-21T17:07:01+01:00</lastmod>
     </url>
@@ -140,6 +164,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication_backup/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -164,15 +196,7 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/person-re-id/</loc>
+      <loc>https://copenlu.github.io/publication_backup/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -180,7 +204,7 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/publication/clothing-search/</loc>
+      <loc>https://copenlu.github.io/publication_backup/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -196,7 +220,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -214,7 +238,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-02-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,7 +247,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/admin/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-02-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -249,6 +273,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/anders-s%C3%B8gaard/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -258,7 +291,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-02-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -310,6 +343,24 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/johannes-bjerva/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/ms-nixon/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -347,7 +398,16 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/sebastian-ruder/</loc>
+      <lastmod>2018-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -356,7 +416,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-02-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
