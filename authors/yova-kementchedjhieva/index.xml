@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yova Kementchedjhieva on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/yova-kementchedjhieva/</link>
+    <description>Recent content in Yova Kementchedjhieva on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/yova-kementchedjhieva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Copenhagen at CoNLL--SIGMORPHON 2018: Multilingual Inflection in Context with Explicit Morphosyntactic Decoding</title>
+      <link>https://copenlu.github.io/publication/2018_sigmorphon_-kementchedjhieva/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_sigmorphon_-kementchedjhieva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

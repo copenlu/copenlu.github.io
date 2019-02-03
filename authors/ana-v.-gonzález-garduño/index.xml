@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana V. González-Garduño  on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/ana-v.-gonz%C3%A1lez-gardu%C3%B1o/</link>
+    <description>Recent content in Ana V. González-Garduño  on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/ana-v.-gonz%C3%A1lez-gardu%C3%B1o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A strong baseline for question relevancy ranking</title>
+      <link>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

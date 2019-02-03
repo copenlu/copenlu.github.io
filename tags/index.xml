@@ -39,29 +39,74 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://copenlu.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://copenlu.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Members</title>
       <link>https://copenlu.github.io/tags/members/</link>
       <pubDate>Sun, 20 Jan 2019 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/tags/members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fact-checking</title>
+      <link>https://copenlu.github.io/tags/fact-checking/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/fact-checking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>knowledge-bases</title>
+      <link>https://copenlu.github.io/tags/knowledge-bases/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/knowledge-bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>limited-data</title>
+      <link>https://copenlu.github.io/tags/limited-data/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/limited-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lld</title>
+      <link>https://copenlu.github.io/tags/lld/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/lld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multilingual-learning</title>
+      <link>https://copenlu.github.io/tags/multilingual-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/multilingual-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlu</title>
+      <link>https://copenlu.github.io/tags/nlu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/nlu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>question-answering</title>
+      <link>https://copenlu.github.io/tags/question-answering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/tags/question-answering/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casper Veistrup Helms on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/casper-veistrup-helms/</link>
+    <description>Recent content in Casper Veistrup Helms on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/casper-veistrup-helms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KU-MTL at SemEval-2018 Task 1: Multi-task Identification of Affect in Tweets</title>
+      <link>https://copenlu.github.io/publication/2018_naacl_nyegaard-signori/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_naacl_nyegaard-signori/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
