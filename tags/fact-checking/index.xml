@@ -17,7 +17,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/fact-checking/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
     </item>
     
   </channel>
