@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on CopeNLU</title>
+    <title>News on CopeNLU</title>
     <link>https://copenlu.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on CopeNLU</description>
+    <description>Recent content in News on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
@@ -12,14 +12,12 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>https://copenlu.github.io/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>28 Marie Skłodowska-Curie PhD Fellowships Available</title>
+      <link>https://copenlu.github.io/talk/2019_02_phd/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/talk/example/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
-  Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>https://copenlu.github.io/talk/2019_02_phd/</guid>
+      <description>28 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 February to 1 April 2019 for a start date in Autumn 2019. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.</description>
     </item>
     
   </channel>

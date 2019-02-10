@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>https://copenlu.github.io/home/news_old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/home/news_old/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://copenlu.github.io/home/news/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/home/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>https://copenlu.github.io/home/people/</link>
       <pubDate>Sun, 20 Jan 2019 00:00:00 +0100</pubDate>
