@@ -6,7 +6,7 @@
     <description>Recent content in multilingual-learning on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/multilingual-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Multilingual Learning</title>
       <link>https://copenlu.github.io/project/multilingual-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/multilingual-learning/</guid>
       <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones.</description>
