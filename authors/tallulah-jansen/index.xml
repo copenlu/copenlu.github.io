@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tallulah Jansen on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/tallulah-jansen/</link>
+    <description>Recent content in Tallulah Jansen on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/tallulah-jansen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Issue Framing in Online Discussion Fora</title>
+      <link>https://copenlu.github.io/publication/2019_naacl_hartmann/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_naacl_hartmann/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
