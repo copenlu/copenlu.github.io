@@ -25,4 +25,19 @@ Here's a short guide to where what content can be found:
 - Clone this repository
 - Open a new terminal and run `hugo server`, then open a browser window and navigate to `http://localhost:1313`
 - Edit the source code, the website will automatically refresh. If you add new folders or files as opposed to editing existing ones, you sometimes need to restart the server (i.e. terminate the hugo process and type `hugo server` again). If there are errors, an error log will be displayed. Often these are down to small syntax or naming mistakes, so stick to an existing template as closely as possible.
-- When you are done, follow the instructions on [deployment of Hugo Academic](https://sourcethemes.com/academic/docs/deployment/) to recompile the code and deploy the site.
+- When you are done, follow the instructions on [deployment of Hugo Academic](https://sourcethemes.com/academic/docs/deployment/) to recompile the code and deploy the site. Here's a short version for if you've already done this once:
+
+```
+rm -r public
+git submodule add -f -b master https://github.com/copenlu/copenlu.github.io public
+git add .
+git commit -m "My commit message"
+git push -u origin master
+hugo
+cd public
+git add .
+git commit -m "My commit message"
+git push origin master
+```
+
+- When you are done, follow the instructions on [deployment of Hugo Academic](https://sourcethemes.com/academic/docs/deployment/) to recompile the code and deploy the site. Here's a short version for if you've already done this once
