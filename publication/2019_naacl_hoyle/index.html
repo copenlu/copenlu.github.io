@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="When assigning quantitative labels to a dataset, different methodologies may rely on different scales. One such example is sentiment lexica, which can use binary, categorical, or continuous scales to quantify word polarity. Of high interest is thus the ability to unify these scores to both achieve maximal coverage over words and account for potential imprecision, while retaining score interpretability. We introduce a generative model of sentiment to combine these scores into a common latent representation. We realise this model with a novel multi-view VAE, which encodes and decodes conditioned on the data source. To evaluate the expressivity of this metric against others, we induce heuristic sentence-level annotators with these lexica. While existing weakly-supervised methods improve coverage by defining features for each lexicon, our latent representation is low-dimensional and easily interpretable. In a downstream weak labelling setup, our model outperforms individual lexica as well as straightforward combinations thereof across several tasks.">
+  <meta name="description" content="When assigning quantitative labels to a dataset, different methodologies may rely on different scales. In particular, when assigning polarities to words in a sentiment lexicon, annotators may use binary, categorical, or continuous labels. Naturally, it is of interest to unify these labels from disparate scales to both achieve maximal coverage over words and to create a single, more robust sentiment lexicon while retaining scale coherence. We introduce a generative model of sentiment lexica to combine disparate scales into a common latent representation. We realize this model with a novel multi-view variational autoencoder (VAE), called SentiVAE. We evaluate our approach via a downstream text classification task involving nine English-Language sentiment analysis datasets; our representation outperforms six individual sentiment lexica, as well as a straightforward combination thereof.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2019_naacl_hoyle/">
@@ -120,8 +120,8 @@
   
   <meta property="og:site_name" content="CopeNLU">
   <meta property="og:url" content="https://copenlu.github.io/publication/2019_naacl_hoyle/">
-  <meta property="og:title" content="Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder | CopeNLU">
-  <meta property="og:description" content="When assigning quantitative labels to a dataset, different methodologies may rely on different scales. One such example is sentiment lexica, which can use binary, categorical, or continuous scales to quantify word polarity. Of high interest is thus the ability to unify these scores to both achieve maximal coverage over words and account for potential imprecision, while retaining score interpretability. We introduce a generative model of sentiment to combine these scores into a common latent representation. We realise this model with a novel multi-view VAE, which encodes and decodes conditioned on the data source. To evaluate the expressivity of this metric against others, we induce heuristic sentence-level annotators with these lexica. While existing weakly-supervised methods improve coverage by defining features for each lexicon, our latent representation is low-dimensional and easily interpretable. In a downstream weak labelling setup, our model outperforms individual lexica as well as straightforward combinations thereof across several tasks."><meta property="og:image" content="https://copenlu.github.io/publication/2019_naacl_hoyle/featured.png">
+  <meta property="og:title" content="Combining Sentiment Lexica with a Multi-View Variational Autoencoder | CopeNLU">
+  <meta property="og:description" content="When assigning quantitative labels to a dataset, different methodologies may rely on different scales. In particular, when assigning polarities to words in a sentiment lexicon, annotators may use binary, categorical, or continuous labels. Naturally, it is of interest to unify these labels from disparate scales to both achieve maximal coverage over words and to create a single, more robust sentiment lexicon while retaining scale coherence. We introduce a generative model of sentiment lexica to combine disparate scales into a common latent representation. We realize this model with a novel multi-view variational autoencoder (VAE), called SentiVAE. We evaluate our approach via a downstream text classification task involving nine English-Language sentiment analysis datasets; our representation outperforms six individual sentiment lexica, as well as a straightforward combination thereof."><meta property="og:image" content="https://copenlu.github.io/publication/2019_naacl_hoyle/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-02-22T00:00:00&#43;01:00">
@@ -133,7 +133,7 @@
 
   
 
-  <title>Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder | CopeNLU</title>
+  <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -367,7 +367,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder</h1>
+  <h1 itemprop="name">Combining Sentiment Lexica with a Multi-View Variational Autoencoder</h1>
 
   
 
@@ -433,7 +433,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Combining%20Disparate%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f"
+         href="https://twitter.com/intent/tweet?text=Combining%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -447,21 +447,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f&amp;title=Combining%20Disparate%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f&amp;title=Combining%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f&amp;title=Combining%20Disparate%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f&amp;title=Combining%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Combining%20Disparate%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f">
+         href="mailto:?subject=Combining%20Sentiment%20Lexica%20with%20a%20Multi-View%20Variational%20Autoencoder&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_naacl_hoyle%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -503,7 +503,13 @@
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1904.02839" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -544,7 +550,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">When assigning quantitative labels to a dataset, different methodologies may rely on different scales. One such example is sentiment lexica, which can use binary, categorical, or continuous scales to quantify word polarity. Of high interest is thus the ability to unify these scores to both achieve maximal coverage over words and account for potential imprecision, while retaining score interpretability. We introduce a generative model of sentiment to combine these scores into a common latent representation. We realise this model with a novel multi-view VAE, which encodes and decodes conditioned on the data source. To evaluate the expressivity of this metric against others, we induce heuristic sentence-level annotators with these lexica. While existing weakly-supervised methods improve coverage by defining features for each lexicon, our latent representation is low-dimensional and easily interpretable. In a downstream weak labelling setup, our model outperforms individual lexica as well as straightforward combinations thereof across several tasks.</p>
+    <p class="pub-abstract" itemprop="text">When assigning quantitative labels to a dataset, different methodologies may rely on different scales. In particular, when assigning polarities to words in a sentiment lexicon, annotators may use binary, categorical, or continuous labels. Naturally, it is of interest to unify these labels from disparate scales to both achieve maximal coverage over words and to create a single, more robust sentiment lexicon while retaining scale coherence. We introduce a generative model of sentiment lexica to combine disparate scales into a common latent representation. We realize this model with a novel multi-view variational autoencoder (VAE), called SentiVAE. We evaluate our approach via a downstream text classification task involving nine English-Language sentiment analysis datasets; our representation outperforms six individual sentiment lexica, as well as a straightforward combination thereof.</p>
     
 
     
