@@ -6,10 +6,28 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
+      <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_acl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
+      <link>https://copenlu.github.io/publication/2019_acl_hoyle/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_acl_hoyle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Probabilistic Generative Model of Linguistic Typology</title>

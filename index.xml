@@ -10,6 +10,40 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>2 Papers Accepted to ACL 2019</title>
+      <link>https://copenlu.github.io/talk/2019_05_acl/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2019_05_acl/</guid>
+      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on uncovering probabilistic implications in typological knowledge bases, following up from our &lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_bjerva/&#34;&gt;NAACL 2019 paper on generative linguistic typology&lt;/a&gt;; whereas the other one is on unsupervised discovery of gendered language, utilising the &lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_hoyle/&#34;&gt;multi-view autoencoder introduced in our NAACL 219 paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2019_acl_bjerva/&#34;&gt;Uncovering Probabilistic Implications in Typological Knowledge Bases&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/yova-kementchedjhieva/&#34;&gt;Yova Kementchedjhieva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2019_acl_hoyle/&#34;&gt;Unsupervised Discovery of Gendered Language through Latent-Variable Modeling&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/alexander-hoyle/&#34;&gt;Alexander Hoyle&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lawrence-wolf-sonkin/&#34;&gt;Lawrence Wolf-Sonkin&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hanna-wallach/&#34;&gt;Hanna Wallach&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
+      <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_acl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
+      <link>https://copenlu.github.io/publication/2019_acl_hoyle/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_acl_hoyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Postdoc Position on Question Answering</title>
       <link>https://copenlu.github.io/talk/2019_02_postdoc/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
@@ -443,33 +477,6 @@ We are a very social and collaborative group, with weekly group meetings, breakf
       <pubDate>Sat, 19 Jan 2019 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/pepa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Giannis Bekoulis</title>
-      <link>https://copenlu.github.io/people/giannis/</link>
-      <pubDate>Thu, 17 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/giannis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luna De Bruyne</title>
-      <link>https://copenlu.github.io/people/luna/</link>
-      <pubDate>Wed, 16 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/luna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Farhad Nooralahzadeh</title>
-      <link>https://copenlu.github.io/people/farhad/</link>
-      <pubDate>Tue, 15 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/farhad/</guid>
       <description></description>
     </item>
     
