@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Luna De Bruyne</title>
-      <link>https://copenlu.github.io/people/luna/</link>
-      <pubDate>Wed, 16 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/luna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Farhad Nooralahzadeh</title>
       <link>https://copenlu.github.io/people/farhad/</link>
       <pubDate>Tue, 15 Jan 2019 17:07:01 +0100</pubDate>
@@ -57,11 +48,29 @@
     </item>
     
     <item>
-      <title>Zhong Xuan</title>
-      <link>https://copenlu.github.io/people/xuan/</link>
-      <pubDate>Tue, 15 Jan 2019 17:07:01 +0100</pubDate>
+      <title>Andreas Nugaard Holm</title>
+      <link>https://copenlu.github.io/people/andreas/</link>
+      <pubDate>Mon, 14 Jan 2019 17:07:01 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/people/xuan/</guid>
+      <guid>https://copenlu.github.io/people/andreas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NN PhD Student</title>
+      <link>https://copenlu.github.io/people/newphd/</link>
+      <pubDate>Mon, 14 Jan 2019 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/newphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NN PhD Student</title>
+      <link>https://copenlu.github.io/people/newphd2/</link>
+      <pubDate>Sun, 13 Jan 2019 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/newphd2/</guid>
       <description></description>
     </item>
     
