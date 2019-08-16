@@ -39,5 +39,3 @@ git add .
 git commit -m "My commit message"
 git push origin master
 ```
-
-- When you are done, follow the instructions on [deployment of Hugo Academic](https://sourcethemes.com/academic/docs/deployment/) to recompile the code and deploy the site. Here's a short version for if you've already done this once
