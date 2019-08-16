@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/talk/2019_08_phd/</loc>
+      <lastmod>2019-08-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2019_emnlp_augenstein/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2019_05_acl/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
     </url>
@@ -22,14 +38,6 @@
     
       <loc>https://copenlu.github.io/publication/2019_acl_hoyle/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/talk/2019_02_postdoc/</loc>
-      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -62,14 +70,6 @@
     
       <loc>https://copenlu.github.io/publication/2019_naacl_hartmann/</loc>
       <lastmod>2019-02-21T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/talk/2019_02_phd/</loc>
-      <lastmod>2019-02-15T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -118,14 +118,6 @@
     
       <loc>https://copenlu.github.io/people/pepa/</loc>
       <lastmod>2019-01-19T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/people/farhad/</loc>
-      <lastmod>2019-01-15T17:07:01+01:00</lastmod>
     </url>
     
   
@@ -372,6 +364,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/farhad/</loc>
+      <lastmod>2017-01-19T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/people/xuan/</loc>
       <lastmod>2017-01-19T17:07:01+01:00</lastmod>
     </url>
@@ -516,7 +516,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -676,6 +676,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/casper-hansen/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/casper-veistrup-helms/</loc>
       <lastmod>2018-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -686,6 +695,24 @@
     <url>
     
       <loc>https://copenlu.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/christian-hansen/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/christina-lioma/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -713,6 +740,15 @@
     
       <loc>https://copenlu.github.io/authors/dirk-weissenborn/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/dongsheng-wang/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -811,7 +847,16 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/jakob-grue-simonsen/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -920,6 +965,15 @@
     
       <loc>https://copenlu.github.io/authors/leon-derczynski/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/lucas-chaves-lima/</loc>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1045,7 +1099,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <lastmod>2019-08-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>25 Marie Skłodowska-Curie PhD Fellowships Available</title>
+      <link>https://copenlu.github.io/talk/2019_08_phd/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2019_08_phd/</guid>
+      <description>25 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 August to 1 October 2019 for a start date in Spring 2020. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.</description>
+    </item>
+    
+    <item>
       <title>2 Papers Accepted to ACL 2019</title>
       <link>https://copenlu.github.io/talk/2019_05_acl/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
@@ -19,15 +28,6 @@
       <guid>https://copenlu.github.io/talk/2019_05_acl/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on uncovering probabilistic implications in typological knowledge bases, following up from our NAACL 2019 paper on generative linguistic typology; whereas the other one is on unsupervised discovery of gendered language, utilising the multi-view autoencoder introduced in our NAACL 219 paper.
 Uncovering Probabilistic Implications in Typological Knowledge Bases. Johannes Bjerva, Yova Kementchedjhieva, Ryan Cotterell, Isabelle Augenstein.</description>
-    </item>
-    
-    <item>
-      <title>Postdoc Position on Question Answering</title>
-      <link>https://copenlu.github.io/talk/2019_02_postdoc/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_02_postdoc/</guid>
-      <description>A postdoc position on question answering is available in the CopeNLU group at the Department of Computer Science, University of Copenhagen. The postdoc position is partly funded by a Megagon Labs faculty research award for the project `Subjective Question Answering´. The position is restricted to two years initially, after which a contract renewal is possible given funding availability. The current call is open until 16 April, and the preferred project start date is 16 May or soon afterwards.</description>
     </item>
     
     <item>
@@ -40,15 +40,6 @@ Uncovering Probabilistic Implications in Typological Knowledge Bases. Johannes B
 A Probabilistic Generative Model of Linguistic Typology. Johannes Bjerva, Yova Kementchedjhieva, Ryan Cotterell, Isabelle Augenstein.
 Combining Disparate Sentiment Lexica with a Multi-View Variational Autoencoder. Alexander Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Ryan Cotterell, Isabelle Augenstein.
 Issue Framing in Online Discussion Fora.</description>
-    </item>
-    
-    <item>
-      <title>35 Marie Skłodowska-Curie PhD Fellowships Available</title>
-      <link>https://copenlu.github.io/talk/2019_02_phd/</link>
-      <pubDate>Fri, 15 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_02_phd/</guid>
-      <description>35 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 February to 1 April 2019 for a start date in Autumn 2019. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.</description>
     </item>
     
   </channel>

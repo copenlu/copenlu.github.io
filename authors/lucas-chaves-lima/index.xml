@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Chaves Lima on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/lucas-chaves-lima/</link>
+    <description>Recent content in Lucas Chaves Lima on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/lucas-chaves-lima/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
+      <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_emnlp_augenstein/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
