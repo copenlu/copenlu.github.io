@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2019_arxiv_bjerva/</loc>
+      <lastmod>2019-08-11T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2019_05_acl/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
     </url>
@@ -46,6 +54,14 @@
     
       <loc>https://copenlu.github.io/publication/2019_acl_hoyle/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2019_repl4nlp_augenstein/</loc>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -142,14 +158,6 @@
     
       <loc>https://copenlu.github.io/people/newphd/</loc>
       <lastmod>2019-01-14T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/people/newphd2/</loc>
-      <lastmod>2019-01-13T17:07:01+01:00</lastmod>
     </url>
     
   
@@ -551,7 +559,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/6/</loc>
-      <lastmod>2018-07-31T00:00:00+02:00</lastmod>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -588,6 +596,15 @@
     
       <loc>https://copenlu.github.io/authors/alexander-hoyle/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/alexis-conneau/</loc>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -677,6 +694,15 @@
     
       <loc>https://copenlu.github.io/authors/benjamin-riedel/</loc>
       <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/burcu-can/</loc>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -909,7 +935,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/johannes-bjerva/</loc>
-      <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <lastmod>2019-08-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -918,7 +944,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/johannes-welbl/</loc>
-      <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -945,7 +971,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/katharina-kann/</loc>
-      <lastmod>2018-07-31T00:00:00+02:00</lastmod>
+      <lastmod>2019-08-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1009,6 +1035,15 @@
     
       <loc>https://copenlu.github.io/authors/mareike-hartmann/</loc>
       <lastmod>2019-02-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/marek-rei/</loc>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1179,7 +1214,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/sebastian-ruder/</loc>
-      <lastmod>2019-01-31T00:00:00+01:00</lastmod>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1188,7 +1223,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/spandana-gella/</loc>
-      <lastmod>2018-07-31T00:00:00+02:00</lastmod>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1252,6 +1287,15 @@
     
       <loc>https://copenlu.github.io/authors/trevor-cohn/</loc>
       <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/xian-ren/</loc>
+      <lastmod>2019-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

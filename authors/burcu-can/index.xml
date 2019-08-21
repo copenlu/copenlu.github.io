@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spandana Gella on CopeNLU</title>
-    <link>https://copenlu.github.io/authors/spandana-gella/</link>
-    <description>Recent content in Spandana Gella on CopeNLU</description>
+    <title>Burcu Can on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/burcu-can/</link>
+    <description>Recent content in Burcu Can on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://copenlu.github.io/authors/spandana-gella/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://copenlu.github.io/authors/burcu-can/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_repl4nlp_augenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of The Third Workshop on Representation Learning for NLP</title>
-      <link>https://copenlu.github.io/publication/2018_repl4nlp_augenstein/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2018_repl4nlp_augenstein/</guid>
       <description></description>
     </item>
     
