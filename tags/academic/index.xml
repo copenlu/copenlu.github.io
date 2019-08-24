@@ -6,7 +6,7 @@
     <description>Recent content in Academic on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Interested in joining us at the University of Copenhagen?</title>
       <link>https://copenlu.github.io/post/why-ucph/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://copenlu.github.io/post/why-ucph/</guid>
-      <description>The University of Copenhagen is a great place if you&amp;rsquo;re both interested in high-quality NLP research (we&amp;rsquo;re ranked 2nd in Europe and 14th in the world on CSRankings for NLP) and a high quality of life (Denmark has consistently been ranked one of the three happiest countries in the world, and ranks equally highly on the quality of life). In addition to this, Copenhagen is a lively, bustling capital, while still being small enough that one can cycle nearly everwhere within a short amount of time.</description>
+      <description>The University of Copenhagen is a great place if you&amp;rsquo;re both interested in high-quality NLP research and a high quality of life.</description>
     </item>
     
   </channel>

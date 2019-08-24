@@ -6,7 +6,7 @@
     <description>Recent content in lld on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/lld/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,19 +14,19 @@
     <item>
       <title>Learning with Limited Labelled Data</title>
       <link>https://copenlu.github.io/project/limited-data/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://copenlu.github.io/project/limited-data/</guid>
-      <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.</description>
+      <description>Learning with limited labelled data, including multi-task learning, weakly supervised and zero-shot learning</description>
     </item>
     
     <item>
       <title>Multilingual Learning</title>
       <link>https://copenlu.github.io/project/multilingual-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://copenlu.github.io/project/multilingual-learning/</guid>
-      <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones.</description>
+      <description>Training models to work well for multiple languages, including low-resource ones</description>
     </item>
     
   </channel>

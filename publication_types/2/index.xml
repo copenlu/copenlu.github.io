@@ -6,7 +6,7 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>What do Language Representations Really Represent?</title>
       <link>https://copenlu.github.io/publication/2019_cl_bjerva/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_cl_bjerva/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Discourse-Aware Rumour Stance Classification in Social Media Using Sequential Classifiers</title>
       <link>https://copenlu.github.io/publication/2018_ipm_zubiaga/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 -0800</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_ipm_zubiaga/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Generalisation in Named Entity Recognition: A Quantitative Analysis</title>
       <link>https://copenlu.github.io/publication/2017_ipm_augenstein/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_ipm_augenstein/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>An Unsupervised Data-driven Method to Discover Equivalent Relations in Large Linked Datasets</title>
       <link>https://copenlu.github.io/publication/2017_swj_zhang/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0800</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_swj_zhang/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>https://copenlu.github.io/publication_backup/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
       
       <guid>https://copenlu.github.io/publication_backup/person-re-id/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
