@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction.">
+  <meta name="description" content="Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens &#39;BERT&#39; and &#39;ELMO&#39; in publications refer to neural network architectures rather than persons. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). Inspired by successes in computer vision, we tackle data drift by sequentially aligning learned representations. We evaluate on three challenging tasks varying in terms of time-scales, linguistic units, and domains. These tasks show our method outperforming several strong baselines, including using all available data. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2019_emnlp_augenstein/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/">
 
   
 
@@ -105,7 +105,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/publication/2019_emnlp_augenstein/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/">
 
   
   
@@ -119,21 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/publication/2019_emnlp_augenstein/">
-  <meta property="og:title" content="MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims | CopeNLU">
-  <meta property="og:description" content="We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction."><meta property="og:image" content="https://copenlu.github.io/publication/2019_emnlp_augenstein/featured.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/">
+  <meta property="og:title" content="Back to the Future -- Sequential Alignment of Text Representations | CopeNLU">
+  <meta property="og:description" content="Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens &#39;BERT&#39; and &#39;ELMO&#39; in publications refer to neural network architectures rather than persons. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). Inspired by successes in computer vision, we tackle data drift by sequentially aligning learned representations. We evaluate on three challenging tasks varying in terms of time-scales, linguistic units, and domains. These tasks show our method outperforming several strong baselines, including using all available data. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution."><meta property="og:image" content="https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-08-14T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2019-08-12T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-08-14T00:00:00&#43;02:00">
-  
-
+  <meta property="article:modified_time" content="2019-08-12T00:00:00&#43;02:00">
   
 
   
 
-  <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims | CopeNLU</title>
+  
+
+  <title>Back to the Future -- Sequential Alignment of Text Representations | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -367,7 +367,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</h1>
+  <h1 itemprop="name">Back to the Future -- Sequential Alignment of Text Representations</h1>
 
   
 
@@ -382,37 +382,17 @@
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
+        <a href="/authors/johannes-bjerva/">Johannes Bjerva</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/wouter-kouw/">Wouter Kouw</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
         <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/christina-lioma/">Christina Lioma</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/dongsheng-wang/">Dongsheng Wang</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/lucas-chaves-lima/">Lucas Chaves Lima</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/casper-hansen/">Casper Hansen</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/christian-hansen/">Christian Hansen</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/jakob-grue-simonsen/">Jakob Grue Simonsen</a>
       </span>
     </span>
     
@@ -421,9 +401,9 @@
 
   <span class="article-date">
     
-    <meta content="2019-08-14 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2019-08-14 00:00:00 &#43;0200 CEST" itemprop="dateModified">
-      14 Aug 2019
+    <meta content="2019-08-12 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2019-08-12 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      12 Aug 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -443,35 +423,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f"
+         href="https://twitter.com/intent/tweet?text=Back%20to%20the%20Future%20--%20Sequential%20Alignment%20of%20Text%20Representations&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_arxiv_bjerva_kouw%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_arxiv_bjerva_kouw%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f&amp;title=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_arxiv_bjerva_kouw%2f&amp;title=Back%20to%20the%20Future%20--%20Sequential%20Alignment%20of%20Text%20Representations"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f&amp;title=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_arxiv_bjerva_kouw%2f&amp;title=Back%20to%20the%20Future%20--%20Sequential%20Alignment%20of%20Text%20Representations"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f">
+         href="mailto:?subject=Back%20to%20the%20Future%20--%20Sequential%20Alignment%20of%20Text%20Representations&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_arxiv_bjerva_kouw%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -517,31 +497,23 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/1909.03242" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1909.03464" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2019_emnlp_augenstein/cite.bib">
+        data-filename="/publication/2019_arxiv_bjerva_kouw/cite.bib">
   Cite
 </button>
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://competitions.codalab.org/competitions/21163" target="_blank" rel="noopener">
-  Dataset
-</a>
-
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/limited-data/">
     Project
   </a>
   
@@ -568,7 +540,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction.</p>
+    <p class="pub-abstract" itemprop="text">Language evolves over time in many ways relevant to natural language processing tasks. For example, recent occurrences of tokens &lsquo;BERT&rsquo; and &lsquo;ELMO&rsquo; in publications refer to neural network architectures rather than persons. This type of temporal signal is typically overlooked, but is important if one aims to deploy a machine learning model over an extended period of time. In particular, language evolution causes data drift between time-steps in sequential decision-making tasks. Examples of such tasks include prediction of paper acceptance for yearly conferences (regular intervals) or author stance prediction for rumours on Twitter (irregular intervals). Inspired by successes in computer vision, we tackle data drift by sequentially aligning learned representations. We evaluate on three challenging tasks varying in terms of time-scales, linguistic units, and domains. These tasks show our method outperforming several strong baselines, including using all available data. We argue that, due to its low computational expense, sequential alignment is a practical solution to dealing with language evolution.</p>
     
 
     
@@ -579,8 +551,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#3">
+              Manuscript
             </a>
             
           </div>
@@ -597,7 +569,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)</div>
+          <div class="col-12 col-md-9">CoRR, abs/1909.03464</div>
         </div>
       </div>
       <div class="col-md-1"></div>

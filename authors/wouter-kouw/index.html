@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction.">
+  <meta name="description" content="Copenhagen University NLU research group">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2019_emnlp_augenstein/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/authors/wouter-kouw/">
 
   
 
@@ -97,15 +97,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/authors/wouter-kouw/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/authors/wouter-kouw/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/publication/2019_emnlp_augenstein/">
+  <link rel="canonical" href="https://copenlu.github.io/authors/wouter-kouw/">
 
   
   
@@ -119,21 +119,19 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/publication/2019_emnlp_augenstein/">
-  <meta property="og:title" content="MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims | CopeNLU">
-  <meta property="og:description" content="We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction."><meta property="og:image" content="https://copenlu.github.io/publication/2019_emnlp_augenstein/featured.png">
+  <meta property="og:url" content="https://copenlu.github.io/authors/wouter-kouw/">
+  <meta property="og:title" content="Wouter Kouw | CopeNLU">
+  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-08-14T00:00:00&#43;02:00">
-  
-  <meta property="article:modified_time" content="2019-08-14T00:00:00&#43;02:00">
+  <meta property="og:updated_time" content="2019-08-12T00:00:00&#43;02:00">
   
 
   
 
   
 
-  <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims | CopeNLU</title>
+  <title>Wouter Kouw | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,9 +344,7 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-  
 
 
 
@@ -365,292 +361,38 @@
 
   
   
-  
-<div class="article-container pt-3">
-  <h1 itemprop="name">MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</h1>
-
-  
-
   
     
+  
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">Wouter Kouw</h1>
 
-<div class="article-metadata">
+  
 
   
-  
-  
-  <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/christina-lioma/">Christina Lioma</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/dongsheng-wang/">Dongsheng Wang</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/lucas-chaves-lima/">Lucas Chaves Lima</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/casper-hansen/">Casper Hansen</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/christian-hansen/">Christian Hansen</a>
-      </span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/jakob-grue-simonsen/">Jakob Grue Simonsen</a>
-      </span>
-    </span>
+</div>
+
+
+
+<section id="about" class="home-section">
+  <div class="container">
     
+    
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li>
+          <a href="https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/">Back to the Future -- Sequential Alignment of Text Representations</a>
+        </li>
+        
+      </ul>
+    </div>
   </div>
-  
-
-  <span class="article-date">
-    
-    <meta content="2019-08-14 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2019-08-14 00:00:00 &#43;0200 CEST" itemprop="dateModified">
-      14 Aug 2019
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-  
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f&amp;title=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f&amp;title=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=MultiFC%3a%20A%20Real-World%20Multi-Domain%20Dataset%20for%20Evidence-Based%20Fact%20Checking%20of%20Claims&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2019_emnlp_augenstein%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-  
-
-</div>
-
-    
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-  
-    
-  
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/1909.03242" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2019_emnlp_augenstein/cite.bib">
-  Cite
-</button>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1" href="https://competitions.codalab.org/competitions/21163" target="_blank" rel="noopener">
-  Dataset
-</a>
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We contribute the largest publicly available dataset of naturally occurring factual claims for the purpose of automatic claim verification. It is collected from 26 fact checking websites in English, paired with textual sources and rich metadata, and labelled for veracity by human expert journalists. We present an in-depth analysis of the dataset, highlighting characteristics and challenges. Further, we present results for automatic veracity prediction, both with established baselines and with a novel method for joint ranking of evidence pages and predicting veracity that outperforms all baselines. Significant performance increases are achieved by encoding evidence, and by modelling metadata. Our best-performing model achieves a Macro F1 of 49.2%, showing that this is a challenging testbed for claim veracity prediction.</p>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP)</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            August, 2019
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-sm-none space-below"></div>
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-
-
-
-    
-
-
-
-
-
-
-  
-  
-    
-  
-  
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
+</section>
 
 
 <div class="container">
