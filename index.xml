@@ -42,11 +42,20 @@
     </item>
     
     <item>
-      <title>X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_abdou/</link>
+      <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
+      <link>https://copenlu.github.io/publication/2019_arxiv_bingel/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2019_arxiv_abdou/</guid>
+      <guid>https://copenlu.github.io/publication/2019_arxiv_bingel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension</title>
+      <link>https://copenlu.github.io/publication/2019_deeplo_abdou/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_deeplo_abdou/</guid>
       <description></description>
     </item>
     
@@ -464,15 +473,6 @@ We are a very social and collaborative group, with weekly group meetings, breakf
 
 &lt;p&gt;We are always open to short or longer-term visitors to the group, but do &lt;strong&gt;not&lt;/strong&gt; provide internships for Bachelor&amp;rsquo;s or Master&amp;rsquo;s students. Funding for visits can typically not be provided, with the expection of invited speakers who give a talk in the &lt;a href=&#34;https://meetup.com/Natural-Language-Processing-Copenhagen-Meetup/&#34; target=&#34;_blank&#34;&gt;Copenhagen NLP meetup series&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>What do Language Representations Really Represent?</title>
-      <link>https://copenlu.github.io/publication/2019_cl_bjerva/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_cl_bjerva/</guid>
-      <description></description>
     </item>
     
   </channel>
