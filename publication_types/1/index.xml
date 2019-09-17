@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Transductive Auxiliary Task Self-Training for Neural Multi-Task Models</title>
+      <link>https://copenlu.github.io/publication/2019_deeplo_bjerva/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_deeplo_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
       <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
@@ -103,10 +112,10 @@
     
     <item>
       <title> Copenhagen at CoNLL--SIGMORPHON 2018: Multilingual Inflection in Context with Explicit Morphosyntactic Decoding</title>
-      <link>https://copenlu.github.io/publication/2018_sigmorphon_-kementchedjhieva/</link>
+      <link>https://copenlu.github.io/publication/2018_sigmorphon_kementchedjhieva/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2018_sigmorphon_-kementchedjhieva/</guid>
+      <guid>https://copenlu.github.io/publication/2018_sigmorphon_kementchedjhieva/</guid>
       <description></description>
     </item>
     
