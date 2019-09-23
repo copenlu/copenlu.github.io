@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mareike Hartmann on CopeNLU</title>
-    <link>https://copenlu.github.io/authors/mareike-hartmann/</link>
-    <description>Recent content in Mareike Hartmann on CopeNLU</description>
+    <title>Yevgeniy Golovchenko on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/yevgeniy-golovchenko/</link>
+    <description>Recent content in Yevgeniy Golovchenko on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://copenlu.github.io/authors/mareike-hartmann/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://copenlu.github.io/authors/yevgeniy-golovchenko/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Issue Framing in Online Discussion Fora</title>
-      <link>https://copenlu.github.io/publication/2019_naacl_hartmann/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_naacl_hartmann/</guid>
       <description></description>
     </item>
     
