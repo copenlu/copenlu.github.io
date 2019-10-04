@@ -6,24 +6,24 @@
     <description>Recent content in Joachim Bingel on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/joachim-bingel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_bingel/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://copenlu.github.io/publication/2019_convai_bingel/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2019_arxiv_bingel/</guid>
+      <guid>https://copenlu.github.io/publication/2019_convai_bingel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent multi-task architecture learning</title>
       <link>https://copenlu.github.io/publication/2019_aaai_ruder/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_aaai_ruder/</guid>
       <description></description>

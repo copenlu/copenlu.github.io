@@ -6,7 +6,7 @@
     <description>Recent content in limited-data on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/limited-data/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Learning with Limited Labelled Data</title>
       <link>https://copenlu.github.io/project/limited-data/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/project/limited-data/</guid>
       <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.</description>

@@ -6,7 +6,7 @@
     <description>Recent content in nlu on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/nlu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Knowledge Base Population</title>
       <link>https://copenlu.github.io/project/knowledge-bases/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
       <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Question Answering</title>
       <link>https://copenlu.github.io/project/question-answering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/project/question-answering/</guid>
       <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.</description>
@@ -32,7 +32,7 @@
     <item>
       <title>Stance Detection and Fact Checking</title>
       <link>https://copenlu.github.io/project/fact-checking/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/project/fact-checking/</guid>
       <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>

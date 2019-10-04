@@ -6,7 +6,7 @@
     <description>Recent content in Peoples on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jan 2019 17:07:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 17:07:01 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Isabelle Augenstein</title>
       <link>https://copenlu.github.io/people/isabelle/</link>
-      <pubDate>Sun, 20 Jan 2019 17:07:01 +0100</pubDate>
+      <pubDate>Sun, 20 Jan 2019 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/isabelle/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Johannes Bjerva</title>
       <link>https://copenlu.github.io/people/johannes/</link>
-      <pubDate>Sat, 19 Jan 2019 17:09:01 +0100</pubDate>
+      <pubDate>Sat, 19 Jan 2019 17:09:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/johannes/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Pepa Atanasova</title>
       <link>https://copenlu.github.io/people/pepa/</link>
-      <pubDate>Sat, 19 Jan 2019 17:07:01 +0100</pubDate>
+      <pubDate>Sat, 19 Jan 2019 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/pepa/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Andreas Nugaard Holm</title>
       <link>https://copenlu.github.io/people/andreas/</link>
-      <pubDate>Mon, 14 Jan 2019 17:07:01 +0100</pubDate>
+      <pubDate>Mon, 14 Jan 2019 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/andreas/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Dustin Wright</title>
       <link>https://copenlu.github.io/people/dustin/</link>
-      <pubDate>Mon, 14 Jan 2019 17:07:01 +0100</pubDate>
+      <pubDate>Mon, 14 Jan 2019 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/dustin/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Ryan Cotterell</title>
       <link>https://copenlu.github.io/people/ryan/</link>
-      <pubDate>Sun, 21 Jan 2018 17:07:01 +0100</pubDate>
+      <pubDate>Sun, 21 Jan 2018 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/ryan/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Yova Kementchedjhieva</title>
       <link>https://copenlu.github.io/people/yova/</link>
-      <pubDate>Sat, 20 Jan 2018 17:07:01 +0100</pubDate>
+      <pubDate>Sat, 20 Jan 2018 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/yova/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Ana Valeria González</title>
       <link>https://copenlu.github.io/people/ana/</link>
-      <pubDate>Fri, 19 Jan 2018 17:07:01 +0100</pubDate>
+      <pubDate>Fri, 19 Jan 2018 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/ana/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Mareike Hartmann</title>
       <link>https://copenlu.github.io/people/mareike/</link>
-      <pubDate>Thu, 18 Jan 2018 17:07:01 +0100</pubDate>
+      <pubDate>Thu, 18 Jan 2018 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/mareike/</guid>
       <description></description>
@@ -95,16 +95,34 @@
     <item>
       <title>Andrea Lekkas</title>
       <link>https://copenlu.github.io/people/andrea/</link>
-      <pubDate>Wed, 17 Jan 2018 17:07:01 +0100</pubDate>
+      <pubDate>Wed, 17 Jan 2018 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/andrea/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Nils Rethmeier</title>
+      <link>https://copenlu.github.io/people/nils/</link>
+      <pubDate>Tue, 16 Jan 2018 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Zhao</title>
+      <link>https://copenlu.github.io/people/wei/</link>
+      <pubDate>Fri, 20 Jan 2017 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Farhad Nooralahzadeh</title>
       <link>https://copenlu.github.io/people/farhad/</link>
-      <pubDate>Thu, 19 Jan 2017 17:07:01 +0100</pubDate>
+      <pubDate>Thu, 19 Jan 2017 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/farhad/</guid>
       <description></description>
@@ -113,7 +131,7 @@
     <item>
       <title>Zhong Xuan</title>
       <link>https://copenlu.github.io/people/xuan/</link>
-      <pubDate>Thu, 19 Jan 2017 17:07:01 +0100</pubDate>
+      <pubDate>Thu, 19 Jan 2017 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/xuan/</guid>
       <description></description>
@@ -122,7 +140,7 @@
     <item>
       <title>Luna De Bruyne</title>
       <link>https://copenlu.github.io/people/luna/</link>
-      <pubDate>Wed, 18 Jan 2017 17:07:01 +0100</pubDate>
+      <pubDate>Wed, 18 Jan 2017 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/luna/</guid>
       <description></description>
@@ -131,7 +149,7 @@
     <item>
       <title>Giannis Bekoulis</title>
       <link>https://copenlu.github.io/people/giannis/</link>
-      <pubDate>Tue, 17 Jan 2017 17:07:01 +0100</pubDate>
+      <pubDate>Tue, 17 Jan 2017 17:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/giannis/</guid>
       <description></description>
@@ -140,7 +158,7 @@
     <item>
       <title>Sune Debel</title>
       <link>https://copenlu.github.io/people/sune/</link>
-      <pubDate>Mon, 16 Jan 2017 17:09:01 +0100</pubDate>
+      <pubDate>Mon, 16 Jan 2017 17:09:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/sune/</guid>
       <description></description>

@@ -6,13 +6,13 @@
     <description>Recent content in CopeNLU on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>25 Marie Skłodowska-Curie PhD Fellowships Available</title>
       <link>https://copenlu.github.io/talk/2019_08_phd/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/talk/2019_08_phd/</guid>
       <description>&lt;p&gt;25 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 August to 1 October 2019 for a start date in Spring 2020. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.&lt;/p&gt;
@@ -26,7 +26,7 @@
     <item>
       <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
       <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_emnlp_augenstein/</guid>
       <description></description>
@@ -35,7 +35,7 @@
     <item>
       <title>Mapping (Dis-)Information Flow about the MH17 Plane Crash</title>
       <link>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</guid>
       <description></description>
@@ -44,7 +44,7 @@
     <item>
       <title>Back to the Future -- Sequential Alignment of Text Representations</title>
       <link>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</guid>
       <description></description>
@@ -52,17 +52,26 @@
     
     <item>
       <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_bingel/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
+      <link>https://copenlu.github.io/publication/2019_convai_bingel/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2019_arxiv_bingel/</guid>
+      <guid>https://copenlu.github.io/publication/2019_convai_bingel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval-Based Goal-Oriented Dialogue Generation</title>
+      <link>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension</title>
       <link>https://copenlu.github.io/publication/2019_deeplo_abdou/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_deeplo_abdou/</guid>
       <description></description>
@@ -71,7 +80,7 @@
     <item>
       <title>Transductive Auxiliary Task Self-Training for Neural Multi-Task Models</title>
       <link>https://copenlu.github.io/publication/2019_deeplo_bjerva/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_deeplo_bjerva/</guid>
       <description></description>
@@ -80,7 +89,7 @@
     <item>
       <title>2 Papers Accepted to ACL 2019</title>
       <link>https://copenlu.github.io/talk/2019_05_acl/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/talk/2019_05_acl/</guid>
       <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on uncovering probabilistic implications in typological knowledge bases, following up from our &lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_bjerva/&#34;&gt;NAACL 2019 paper on generative linguistic typology&lt;/a&gt;; whereas the other one is on unsupervised discovery of gendered language, utilising the &lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_hoyle/&#34;&gt;multi-view autoencoder introduced in our NAACL 219 paper&lt;/a&gt;.&lt;/p&gt;
@@ -96,7 +105,7 @@
     <item>
       <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
       <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_acl_bjerva/</guid>
       <description></description>
@@ -105,7 +114,7 @@
     <item>
       <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
       <link>https://copenlu.github.io/publication/2019_acl_hoyle/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_acl_hoyle/</guid>
       <description></description>
@@ -114,7 +123,7 @@
     <item>
       <title>Proceedings of The Fourth Workshop on Representation Learning for NLP</title>
       <link>https://copenlu.github.io/publication/2019_repl4nlp_augenstein/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_repl4nlp_augenstein/</guid>
       <description></description>
@@ -123,7 +132,7 @@
     <item>
       <title>3 Papers Accepted to NAACL 2019</title>
       <link>https://copenlu.github.io/talk/2019_02_naacl/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2019_02_naacl/</guid>
       <description>&lt;p&gt;3 papers by CopeNLU authors are accepted to appear at NAACL 2019. Topics span from population of typological knowledge bases and weak supervision from disparate lexica to frame detection in online fora.&lt;/p&gt;
@@ -142,7 +151,7 @@
     <item>
       <title>A Probabilistic Generative Model of Linguistic Typology</title>
       <link>https://copenlu.github.io/publication/2019_naacl_bjerva/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_bjerva/</guid>
       <description></description>
@@ -151,18 +160,9 @@
     <item>
       <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder</title>
       <link>https://copenlu.github.io/publication/2019_naacl_hoyle/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_hoyle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Issue Framing in Online Discussion Fora</title>
-      <link>https://copenlu.github.io/publication/2019_naacl_hartmann/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_naacl_hartmann/</guid>
       <description></description>
     </item>
     

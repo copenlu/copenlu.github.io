@@ -6,7 +6,7 @@
     <description>Recent content in News on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>25 Marie Skłodowska-Curie PhD Fellowships Available</title>
       <link>https://copenlu.github.io/talk/2019_08_phd/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/talk/2019_08_phd/</guid>
       <description>25 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 August to 1 October 2019 for a start date in Spring 2020. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>2 Papers Accepted to ACL 2019</title>
       <link>https://copenlu.github.io/talk/2019_05_acl/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/talk/2019_05_acl/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on uncovering probabilistic implications in typological knowledge bases, following up from our NAACL 2019 paper on generative linguistic typology; whereas the other one is on unsupervised discovery of gendered language, utilising the multi-view autoencoder introduced in our NAACL 219 paper.
@@ -33,7 +33,7 @@ Uncovering Probabilistic Implications in Typological Knowledge Bases. Johannes B
     <item>
       <title>3 Papers Accepted to NAACL 2019</title>
       <link>https://copenlu.github.io/talk/2019_02_naacl/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2019_02_naacl/</guid>
       <description>3 papers by CopeNLU authors are accepted to appear at NAACL 2019. Topics span from population of typological knowledge bases and weak supervision from disparate lexica to frame detection in online fora.
