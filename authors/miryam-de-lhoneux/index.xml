@@ -6,7 +6,7 @@
     <description>Recent content in Miryam de Lhoneux on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/miryam-de-lhoneux/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Parameter sharing between dependency parsers for related languages</title>
       <link>https://copenlu.github.io/publication/2018_emnlp_de-lhoneux/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_emnlp_de-lhoneux/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Nightmare at test time: How punctuation prevents parsers from generalizing</title>
       <link>https://copenlu.github.io/publication/2018_blackbox_soegaard/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_blackbox_soegaard/</guid>
       <description></description>

@@ -6,7 +6,7 @@
     <description>Recent content in Publications on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
       <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_emnlp_augenstein/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Mapping (Dis-)Information Flow about the MH17 Plane Crash</title>
       <link>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Back to the Future -- Sequential Alignment of Text Representations</title>
       <link>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
       <link>https://copenlu.github.io/publication/2019_convai_bingel/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_convai_bingel/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Retrieval-Based Goal-Oriented Dialogue Generation</title>
       <link>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension</title>
       <link>https://copenlu.github.io/publication/2019_deeplo_abdou/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_deeplo_abdou/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Transductive Auxiliary Task Self-Training for Neural Multi-Task Models</title>
       <link>https://copenlu.github.io/publication/2019_deeplo_bjerva/</link>
-      <pubDate>Sun, 11 Aug 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_deeplo_bjerva/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
       <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_acl_bjerva/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
       <link>https://copenlu.github.io/publication/2019_acl_hoyle/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_acl_hoyle/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Proceedings of The Fourth Workshop on Representation Learning for NLP</title>
       <link>https://copenlu.github.io/publication/2019_repl4nlp_augenstein/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_repl4nlp_augenstein/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>A Probabilistic Generative Model of Linguistic Typology</title>
       <link>https://copenlu.github.io/publication/2019_naacl_bjerva/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_bjerva/</guid>
       <description></description>
@@ -113,7 +113,7 @@
     <item>
       <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder</title>
       <link>https://copenlu.github.io/publication/2019_naacl_hoyle/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_hoyle/</guid>
       <description></description>
@@ -122,7 +122,7 @@
     <item>
       <title>Issue Framing in Online Discussion Fora</title>
       <link>https://copenlu.github.io/publication/2019_naacl_hartmann/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_hartmann/</guid>
       <description></description>
@@ -131,7 +131,7 @@
     <item>
       <title>What do Language Representations Really Represent?</title>
       <link>https://copenlu.github.io/publication/2019_cl_bjerva/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_cl_bjerva/</guid>
       <description></description>
@@ -140,7 +140,7 @@
     <item>
       <title>Latent multi-task architecture learning</title>
       <link>https://copenlu.github.io/publication/2019_aaai_ruder/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_aaai_ruder/</guid>
       <description></description>
@@ -149,7 +149,7 @@
     <item>
       <title>A strong baseline for question relevancy ranking</title>
       <link>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</guid>
       <description></description>
@@ -158,7 +158,7 @@
     <item>
       <title>Parameter sharing between dependency parsers for related languages</title>
       <link>https://copenlu.github.io/publication/2018_emnlp_de-lhoneux/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_emnlp_de-lhoneux/</guid>
       <description></description>
@@ -167,7 +167,7 @@
     <item>
       <title> Copenhagen at CoNLL--SIGMORPHON 2018: Multilingual Inflection in Context with Explicit Morphosyntactic Decoding</title>
       <link>https://copenlu.github.io/publication/2018_sigmorphon_kementchedjhieva/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_sigmorphon_kementchedjhieva/</guid>
       <description></description>
@@ -176,7 +176,7 @@
     <item>
       <title>Nightmare at test time: How punctuation prevents parsers from generalizing</title>
       <link>https://copenlu.github.io/publication/2018_blackbox_soegaard/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_blackbox_soegaard/</guid>
       <description></description>
@@ -185,7 +185,7 @@
     <item>
       <title>Jack the Reader – A Machine Reading Framework</title>
       <link>https://copenlu.github.io/publication/2018_acl_weissenborn/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_acl_weissenborn/</guid>
       <description></description>
@@ -194,7 +194,7 @@
     <item>
       <title>Character-level Supervision for Low-resource POS Tagging</title>
       <link>https://copenlu.github.io/publication/2018_deeplo_kann/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_deeplo_kann/</guid>
       <description></description>
@@ -203,7 +203,7 @@
     <item>
       <title>Proceedings of The Third Workshop on Representation Learning for NLP</title>
       <link>https://copenlu.github.io/publication/2018_repl4nlp_augenstein/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_repl4nlp_augenstein/</guid>
       <description></description>
@@ -212,7 +212,7 @@
     <item>
       <title>From Phonology to Syntax: Unsupervised Linguistic Typology at Different Levels with Language Embeddings</title>
       <link>https://copenlu.github.io/publication/2018_naacl_bjerva/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_naacl_bjerva/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Multi-Task Learning of Pairwise Sequence Classification Tasks over      Disparate Label Spaces</title>
       <link>https://copenlu.github.io/publication/2018_naacl_augenstein/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_naacl_augenstein/</guid>
       <description></description>
@@ -230,7 +230,7 @@
     <item>
       <title>KU-MTL at SemEval-2018 Task 1: Multi-task Identification of Affect in Tweets</title>
       <link>https://copenlu.github.io/publication/2018_naacl_nyegaard-signori/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_naacl_nyegaard-signori/</guid>
       <description></description>
@@ -239,7 +239,7 @@
     <item>
       <title>Discourse-Aware Rumour Stance Classification in Social Media Using Sequential Classifiers</title>
       <link>https://copenlu.github.io/publication/2018_ipm_zubiaga/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_ipm_zubiaga/</guid>
       <description></description>
@@ -248,7 +248,7 @@
     <item>
       <title>Tracking Typological Traits of Uralic Languages in Distributed Language Representations</title>
       <link>https://copenlu.github.io/publication/2018_iwclul_bjerva/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2018_iwclul_bjerva/</guid>
       <description></description>
@@ -257,7 +257,7 @@
     <item>
       <title>A Supervised Approach to Extractive Summarisation of Scientific Papers</title>
       <link>https://copenlu.github.io/publication/2017_conll_collins/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_conll_collins/</guid>
       <description></description>
@@ -266,7 +266,7 @@
     <item>
       <title>A simple but tough-to-beat baseline for the Fake News Challenge stance detection task</title>
       <link>https://copenlu.github.io/publication/2017_arxiv_riedel/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_arxiv_riedel/</guid>
       <description></description>
@@ -275,7 +275,7 @@
     <item>
       <title>Generalisation in Named Entity Recognition: A Quantitative Analysis</title>
       <link>https://copenlu.github.io/publication/2017_ipm_augenstein/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_ipm_augenstein/</guid>
       <description></description>
@@ -284,7 +284,7 @@
     <item>
       <title>Multi-Task Learning of Keyphrase Boundary Classification</title>
       <link>https://copenlu.github.io/publication/2017_acl_augenstein/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_acl_augenstein/</guid>
       <description></description>
@@ -293,7 +293,7 @@
     <item>
       <title>SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications</title>
       <link>https://copenlu.github.io/publication/2017_semeval_augenstein/</link>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_semeval_augenstein/</guid>
       <description></description>
@@ -302,7 +302,7 @@
     <item>
       <title>Sequential Approach to Rumour Stance Classification</title>
       <link>https://copenlu.github.io/publication/2017_winlp_kochkina/</link>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_winlp_kochkina/</guid>
       <description></description>
@@ -311,7 +311,7 @@
     <item>
       <title>Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM</title>
       <link>https://copenlu.github.io/publication/2017_semeval_kochkina/</link>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_semeval_kochkina/</guid>
       <description></description>
@@ -320,7 +320,7 @@
     <item>
       <title>An Unsupervised Data-driven Method to Discover Equivalent Relations in Large Linked Datasets</title>
       <link>https://copenlu.github.io/publication/2017_swj_zhang/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2017_swj_zhang/</guid>
       <description></description>
