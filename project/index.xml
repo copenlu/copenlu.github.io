@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Knowledge Base Population</title>
-      <link>https://copenlu.github.io/project/knowledge-bases/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
-      <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text.</description>
-    </item>
-    
-    <item>
       <title>Learning with Limited Labelled Data</title>
       <link>https://copenlu.github.io/project/limited-data/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -35,7 +26,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/multilingual-learning/</guid>
-      <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones.</description>
+      <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones. We research methods for enabling information sharing between multiple languages, and also study how to utilise typological knowledge bases to this end. We are currently involved in two larger funded projects on this.
+Multi3Generation is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.</description>
     </item>
     
     <item>
@@ -54,6 +46,25 @@
       
       <guid>https://copenlu.github.io/project/fact-checking/</guid>
       <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
+    </item>
+    
+    <item>
+      <title>Gender Bias Detection</title>
+      <link>https://copenlu.github.io/project/gender-bias/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/gender-bias/</guid>
+      <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
+Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Base Population</title>
+      <link>https://copenlu.github.io/project/knowledge-bases/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
+      <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text.</description>
     </item>
     
   </channel>

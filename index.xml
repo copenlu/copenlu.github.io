@@ -10,6 +10,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>4 papers to be presented at EMNLP 2019</title>
+      <link>https://copenlu.github.io/talk/2019_11_emnlp/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2019_11_emnlp/</guid>
+      <description>&lt;p&gt;4 papers by CopeNLU authors are to be presented at EMNLP 2019 and co-located events, on fact checking and disinformation, as well as on multi-task and multi-lingual learning.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;publication/2019_emnlp_augenstein/&#34;&gt;MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen. In Proceedings of &lt;a href=&#34;https://www.emnlp-ijcnlp2019.org/&#34;&gt;EMNLP-IJCNLP 2019&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;publication/2019_nlp4if_hartmann/&#34;&gt;Mapping (Dis-)Information Flow about the MH17 Plane Crash&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/mareike-hartmann/&#34;&gt;Mareike Hartmann&lt;/a&gt;, Yevgeniy Golovchenko, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of the 2019 Workshop on NLP4IF: censorship, disinformation, and propaganda (&lt;a href=&#34;http://www.netcopia.net/nlp4if/&#34;&gt;NLP4IF&lt;/a&gt; at EMNLP-IJCNLP 2019).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;publication/2019_deeplo_abdou/&#34;&gt;X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension&lt;/a&gt;.
+Mostafa Abdou, Cezar Sas, Rahul Aralikatte, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, Anders Søgaard. In Proceedings of the 2nd Workshop on Deep Learning for Low-Resource NLP (&lt;a href=&#34;https://sites.google.com/view/deeplo19/home&#34;&gt;DeepLo&lt;/a&gt; at EMNLP-IJCNLP 2019).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;publication/2019_deeplo_bjerva/&#34;&gt;Transductive Auxiliary Task Self-Training for Neural Multi-Task Models&lt;/a&gt;.
+&lt;a href=&#34;authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, Katharina Kann, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of the 2nd Workshop on Deep Learning for Low-Resource NLP (&lt;a href=&#34;https://sites.google.com/view/deeplo19/home&#34;&gt;DeepLo&lt;/a&gt; at EMNLP-IJCNLP 2019).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD Fellowship on Gender Bias and Stance Detection available</title>
       <link>https://copenlu.github.io/talk/2019_10_phd/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0100</pubDate>
@@ -164,15 +186,6 @@ Note that even though TALENT is a &lt;a href=&#34;https://talent.ku.dk/calls-and
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_hartmann/&#34;&gt;Issue Framing in Online Discussion Fora&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/mareike-hartmann/&#34;&gt;Mareike Hartmann&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/tallulah-jansen/&#34;&gt;Tallulah Jansen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/anders-søgaard/&#34;&gt;Anders Søgaard&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Probabilistic Generative Model of Linguistic Typology</title>
-      <link>https://copenlu.github.io/publication/2019_naacl_bjerva/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_naacl_bjerva/</guid>
-      <description></description>
     </item>
     
   </channel>

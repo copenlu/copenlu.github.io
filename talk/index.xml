@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>4 papers to be presented at EMNLP 2019</title>
+      <link>https://copenlu.github.io/talk/2019_11_emnlp/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2019_11_emnlp/</guid>
+      <description>4 papers by CopeNLU authors are to be presented at EMNLP 2019 and co-located events, on fact checking and disinformation, as well as on multi-task and multi-lingual learning.
+MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims. Isabelle Augenstein, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen. In Proceedings of EMNLP-IJCNLP 2019.
+Mapping (Dis-)Information Flow about the MH17 Plane Crash. Mareike Hartmann, Yevgeniy Golovchenko, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
       <title>PhD Fellowship on Gender Bias and Stance Detection available</title>
       <link>https://copenlu.github.io/talk/2019_10_phd/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0100</pubDate>
