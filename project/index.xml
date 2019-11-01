@@ -17,7 +17,9 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/limited-data/</guid>
-      <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.</description>
+      <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.
+This is a cross-cutting theme in most of our research. Two funded projects specifically addressing this are Multi3Generation and Andreas Nugaard Holm&amp;rsquo;s industrial PhD project with BASE Life Science, supported by Innovation Fund Denmark.
+Multi3Generation is a COST Action that funds collaboration of researchers in Europe and abroad.</description>
     </item>
     
     <item>
@@ -26,7 +28,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/multilingual-learning/</guid>
-      <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones. We research methods for enabling information sharing between multiple languages, and also study how to utilise typological knowledge bases to this end. We are currently involved in two larger funded projects on this.
+      <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones. We research methods for enabling information sharing between multiple languages, and also study how to utilise typological knowledge bases to this end. We are currently involved in three larger funded projects on this.
 Multi3Generation is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.</description>
     </item>
     
@@ -36,7 +38,8 @@ Multi3Generation is a COST Action that funds collaboration of researchers in Eur
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/question-answering/</guid>
-      <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.</description>
+      <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.
+We are currently involved in two funded projects related to this theme: a project on subjectivity in question answering, funded by a faculty research award from Megagon Labs; as well a PhD fellowship grant on conversational question answering for customer support from BotXO, which Ana Valeria Gonzalez works on.</description>
     </item>
     
     <item>
@@ -64,7 +67,8 @@ Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual 
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
-      <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text.</description>
+      <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text, as well as automatic completion of typological knowledge bases.
+We are currently involved in one longer-term project related to this, namely a research project funded by the Swedish Research Council coordinated by Robert Östling.</description>
     </item>
     
   </channel>

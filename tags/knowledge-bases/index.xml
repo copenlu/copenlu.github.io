@@ -17,7 +17,8 @@
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
-      <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text.</description>
+      <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text, as well as automatic completion of typological knowledge bases.
+We are currently involved in one longer-term project related to this, namely a research project funded by the Swedish Research Council coordinated by Robert Östling.</description>
     </item>
     
   </channel>
