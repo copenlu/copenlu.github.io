@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Back to the Future -- Sequential Alignment of Text Representations</title>
+      <link>https://copenlu.github.io/publication/2019_aaai_bjerva_kouw/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_aaai_bjerva_kouw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>4 papers to be presented at EMNLP 2019</title>
       <link>https://copenlu.github.io/talk/2019_11_emnlp/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
@@ -82,15 +91,6 @@ Note that even though TALENT is a &lt;a href=&#34;https://talent.ku.dk/calls-and
     </item>
     
     <item>
-      <title>Back to the Future -- Sequential Alignment of Text Representations</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
       <link>https://copenlu.github.io/publication/2019_convai_bingel/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
@@ -101,10 +101,10 @@ Note that even though TALENT is a &lt;a href=&#34;https://talent.ku.dk/calls-and
     
     <item>
       <title>Retrieval-Based Goal-Oriented Dialogue Generation</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</link>
+      <link>https://copenlu.github.io/publication/2019_convai_gonzalez/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</guid>
+      <guid>https://copenlu.github.io/publication/2019_convai_gonzalez/</guid>
       <description></description>
     </item>
     

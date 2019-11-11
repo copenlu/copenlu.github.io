@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Back to the Future -- Sequential Alignment of Text Representations</title>
+      <link>https://copenlu.github.io/publication/2019_aaai_bjerva_kouw/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_aaai_bjerva_kouw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
       <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
@@ -30,15 +39,6 @@
     </item>
     
     <item>
-      <title>Back to the Future -- Sequential Alignment of Text Representations</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_arxiv_bjerva_kouw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
       <link>https://copenlu.github.io/publication/2019_convai_bingel/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
@@ -49,10 +49,10 @@
     
     <item>
       <title>Retrieval-Based Goal-Oriented Dialogue Generation</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</link>
+      <link>https://copenlu.github.io/publication/2019_convai_gonzalez/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2019_arxiv_gonzalez/</guid>
+      <guid>https://copenlu.github.io/publication/2019_convai_gonzalez/</guid>
       <description></description>
     </item>
     
