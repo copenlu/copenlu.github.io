@@ -4,7 +4,23 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/publication/2019_aaai_bjerva_kouw/</loc>
+      <loc>https://copenlu.github.io/publication/2019_arxiv_rethmeier/</loc>
+      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2019_arxiv_debruyne/</loc>
+      <lastmod>2019-11-20T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2020_aaai_bjerva_kouw/</loc>
       <lastmod>2019-11-11T00:00:00+01:00</lastmod>
     </url>
     
@@ -622,7 +638,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2017-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -971,7 +987,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2019-11-11T00:00:00+01:00</lastmod>
+      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1105,6 +1121,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/luna-de-bruyne/</loc>
+      <lastmod>2019-11-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/ms-nixon/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1204,6 +1229,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/nils-rethmeier/</loc>
+      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/pasquale-minervini/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1224,6 +1258,15 @@
     
       <loc>https://copenlu.github.io/people/</loc>
       <lastmod>2019-01-20T17:07:01+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/pepa-atanasova/</loc>
+      <lastmod>2019-11-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1377,6 +1420,15 @@
     
       <loc>https://copenlu.github.io/authors/trevor-cohn/</loc>
       <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/vageesh-kumar-saxena/</loc>
+      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
