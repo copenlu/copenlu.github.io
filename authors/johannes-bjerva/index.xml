@@ -6,10 +6,19 @@
     <description>Recent content in Johannes Bjerva on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/johannes-bjerva/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_nooralahzadeh/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_nooralahzadeh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Back to the Future -- Sequential Alignment of Text Representations</title>
