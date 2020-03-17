@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Postdoc Position on Question Answering</title>
+      <link>https://copenlu.github.io/talk/2020_03_postdoc/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2020_03_postdoc/</guid>
+      <description>A postdoc position on natural language understanding is available in the CopeNLU group at the Department of Computer Science, University of Copenhagen. The postdoc position is partly funded by a Megagon Labs faculty research award for the project `Subjective Question Answering´. The position is restricted to one year initially, after which a contract renewal is possible. The call will be open until the position is filled, and the start date is 1 May 2020 or as soon as possible afterwards.</description>
+    </item>
+    
+    <item>
       <title>4 papers to be presented at EMNLP 2019</title>
       <link>https://copenlu.github.io/talk/2019_11_emnlp/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
@@ -20,24 +29,6 @@
       <description>4 papers by CopeNLU authors are to be presented at EMNLP 2019 and co-located events, on fact checking and disinformation, as well as on multi-task and multi-lingual learning.
 MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims. Isabelle Augenstein, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen. In Proceedings of EMNLP-IJCNLP 2019.
 Mapping (Dis-)Information Flow about the MH17 Plane Crash. Mareike Hartmann, Yevgeniy Golovchenko, Isabelle Augenstein.</description>
-    </item>
-    
-    <item>
-      <title>PhD Fellowship on Gender Bias and Stance Detection available</title>
-      <link>https://copenlu.github.io/talk/2019_10_phd/</link>
-      <pubDate>Thu, 31 Oct 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_10_phd/</guid>
-      <description>A PhD fellowship on gender bias and stance detection is available in CopeNLU. The position is funded by a basic research project on the same topic funded by the Independent Research Fund Denmark (DFF). The fellowship offers the applicant employment as a PhD fellow for a period of three years. The successful candidate will be advised by Isabelle Augenstein and co-advised by Ryan Cotterell (ETH Zurich). Funding for bilateral visits is available.</description>
-    </item>
-    
-    <item>
-      <title>25 Marie Skłodowska-Curie PhD Fellowships Available</title>
-      <link>https://copenlu.github.io/talk/2019_08_phd/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_08_phd/</guid>
-      <description>25 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 August to 1 October 2019 for a start date in Spring 2020. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.</description>
     </item>
     
     <item>

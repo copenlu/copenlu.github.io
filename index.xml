@@ -10,6 +10,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Postdoc Position on Question Answering</title>
+      <link>https://copenlu.github.io/talk/2020_03_postdoc/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2020_03_postdoc/</guid>
+      <description>&lt;p&gt;A postdoc position on natural language understanding is available in the CopeNLU group at the &lt;a href=&#34;https://di.ku.dk/english/about/&#34;&gt;Department of Computer Science, University of Copenhagen&lt;/a&gt;. The postdoc position is partly funded by a &lt;a href=&#34;http://www.megagon.ai&#34;&gt;Megagon Labs&lt;/a&gt;  faculty research award for the project `Subjective Question Answering´. The position is restricted to one year initially, after which a contract renewal is possible. The call will be open until the position is filled, and the start date is 1 May 2020 or as soon as possible afterwards. If you are interested in the position, please send a short introduction as well as a CV to &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34; target=&#34;_blank&#34;&gt;augenstein@di.ku.dk&lt;/a&gt;. You are also welcome to get in touch to informally to discuss further details about the position first. Applications from researchers of underrepresented groups in machine learning are particularly encouraged.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 year, renewal possible&lt;br /&gt;
+&lt;strong&gt;Application deadline&lt;/strong&gt;: none &amp;ndash; the position remains open until filled&lt;br /&gt;
+&lt;strong&gt;Position available from&lt;/strong&gt;: 1 May 2020&lt;br /&gt;
+&lt;strong&gt;Salary&lt;/strong&gt;: from DKK 426.625 including annual supplement (+ pension up to DKK 72.952)&lt;br /&gt;
+&lt;strong&gt;Place&lt;/strong&gt;: CopeNLU lab, Machine Learning Section, Department of Computer Science, University of Copenhagen, Denmark&lt;br /&gt;
+&lt;strong&gt;Research areas&lt;/strong&gt;: Natural Language Processing, Machine Learning, Question Answering, Low-Resource Learning&lt;br /&gt;
+&lt;strong&gt;Applications&lt;/strong&gt;: Candidates should submit a CV and a cover letter by email&lt;br /&gt;
+&lt;strong&gt;Contact&lt;/strong&gt;: Isabelle Augenstein &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34; target=&#34;_blank&#34;&gt;augenstein@di.ku.dk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more about reasons to join us in our &lt;a href=&#34;post/why-ucph/&#34;&gt;recent blog post&lt;/a&gt;. Before applying, you are very welcome get in touch to informally discuss further details about the position. We particularly welcome applications from researchers of underrepresented groups in NLP.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fact Check-Worthiness Detection as Positive Unlabelled Learning</title>
       <link>https://copenlu.github.io/publication/2020_arxiv_wright/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0100</pubDate>
@@ -86,38 +107,6 @@ Mostafa Abdou, Cezar Sas, Rahul Aralikatte, &lt;a href=&#34;https://copenlu.gith
     </item>
     
     <item>
-      <title>PhD Fellowship on Gender Bias and Stance Detection available</title>
-      <link>https://copenlu.github.io/talk/2019_10_phd/</link>
-      <pubDate>Thu, 31 Oct 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_10_phd/</guid>
-      <description>&lt;p&gt;A PhD fellowship on gender bias and stance detection is available in CopeNLU. The position is funded by a &lt;a href=&#34;https://dff.dk/en/grants/database?instrument:list=all&amp;filed_method:list=all&amp;period:list=all&amp;set_language=en&amp;SearchableText=gender-biased&#34;&gt;basic research project on the same topic&lt;/a&gt; funded by the &lt;a href=&#34;https://dff.dk/en&#34;&gt;Independent Research Fund Denmark (DFF)&lt;/a&gt;. The fellowship offers the applicant employment as a PhD fellow for a period of three years. The successful candidate will be advised by Isabelle Augenstein and co-advised by &lt;a href=&#34;https://scholar.google.de/citations?hl=en&amp;user=DexOqtoAAAAJ&#34;&gt;Ryan Cotterell&lt;/a&gt; (ETH Zurich). Funding for bilateral visits is available. The call is open until 1 December 2019 for a start in Spring 2020.&lt;/p&gt;
-
-&lt;p&gt;Candidates are expected to hold a Master&amp;rsquo;s degree in computer science or a related relevant area or be near completion for one. There are no restrictions on citizenship, and a language certificate is not required at application time.
-Candidates from traditionally underrepresented minorities in natural language processing are particularly encouraged to apply.&lt;/p&gt;
-
-&lt;p&gt;Read more about reasons to join us in our &lt;a href=&#34;post/why-ucph/&#34;&gt;recent blog post&lt;/a&gt;. Before applying, you are welcome to get in touch to informally if you have questions about the call. When you&amp;rsquo;re ready, you can &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&amp;departmentId=18970&amp;ProjectId=150660&amp;MediaId=5&amp;SkipAdvertisement=false&#34;&gt;apply here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in joining CopeNLU as a PhD student, but would prefer to research a different topic, please keep an eye on the &lt;a href=&#34;https://talent.ku.dk/calls-and-deadlines/&#34;&gt;TALENT PhD fellowship website&lt;/a&gt;, which offers successful candidates the opportunity to propose any research topic. The next call for this is expected to be published on 2 January 2020 for a start in Summer 2020.
-Note that even though TALENT is a &lt;a href=&#34;https://talent.ku.dk/calls-and-deadlines/1st-call-for-proposals/&#34;&gt;very competitive program&lt;/a&gt;, CopeNLU&amp;rsquo;s &lt;a href=&#34;https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ&#34;&gt;Pepa Atanasova&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=OGk5UnYAAAAJ&amp;hl=en&#34;&gt;Dustin Wright&lt;/a&gt; hold such fellowships, so we are in a good position to advise on application procedures.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>25 Marie Skłodowska-Curie PhD Fellowships Available</title>
-      <link>https://copenlu.github.io/talk/2019_08_phd/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_08_phd/</guid>
-      <description>&lt;p&gt;25 Marie Skłodowska-Curie PhD fellowships are available at the University of Copenhagen Faculty of Science via the TALENT program. The fellowship offers applicants employment as PhD fellows for a period of three years on a research topic of the fellow&amp;rsquo;s choice. The current call is open from 15 August to 1 October 2019 for a start date in Spring 2020. Candidates are required to have completed a Master&amp;rsquo;s degree at the time of application, to not have resided in Denmark in the past 12 months, and to have a recent English language certificate.&lt;/p&gt;
-
-&lt;p&gt;Read more about the fellowship on the &lt;a href=&#34;https://talent.ku.dk/&#34;&gt;program website&lt;/a&gt;, and more about reasons to join us in our &lt;a href=&#34;post/why-ucph/&#34;&gt;recent blog post&lt;/a&gt;. Before applying, please get in touch to informally discuss possible topics. Note that eligibility criteria are enforced strictly, so if you are in doubt about whether you are eligible, please also enquire about this beforehand. When you&amp;rsquo;re ready, you can &lt;a href=&#34;https://employment.ku.dk/phd/?show=149792&#34;&gt;apply here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The current call is the second invitation for proposals. Even though TALENT is a &lt;a href=&#34;https://talent.ku.dk/calls-and-deadlines/1st-call-for-proposals/&#34;&gt;very competitive program&lt;/a&gt;, CopeNLU&amp;rsquo;s &lt;a href=&#34;https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ&#34;&gt;Pepa Atanasova&lt;/a&gt; holds one such fellowship, so we are in a good position to advise on application procedures.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
       <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
@@ -169,6 +158,22 @@ Note that even though TALENT is a &lt;a href=&#34;https://talent.ku.dk/calls-and
       
       <guid>https://copenlu.github.io/publication/2019_deeplo_bjerva/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2 Papers Accepted to ACL 2019</title>
+      <link>https://copenlu.github.io/talk/2019_05_acl/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2019_05_acl/</guid>
+      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on uncovering probabilistic implications in typological knowledge bases, following up from our &lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_bjerva/&#34;&gt;NAACL 2019 paper on generative linguistic typology&lt;/a&gt;; whereas the other one is on unsupervised discovery of gendered language, utilising the &lt;a href=&#34;https://copenlu.github.io/publication/2019_naacl_hoyle/&#34;&gt;multi-view autoencoder introduced in our NAACL 219 paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2019_acl_bjerva/&#34;&gt;Uncovering Probabilistic Implications in Typological Knowledge Bases&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/yova-kementchedjhieva/&#34;&gt;Yova Kementchedjhieva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2019_acl_hoyle/&#34;&gt;Unsupervised Discovery of Gendered Language through Latent-Variable Modeling&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/alexander-hoyle/&#34;&gt;Alexander Hoyle&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lawrence-wolf-sonkin/&#34;&gt;Lawrence Wolf-Sonkin&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hanna-wallach/&#34;&gt;Hanna Wallach&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
