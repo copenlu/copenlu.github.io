@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -30,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="Most existing work on automated fact checking is concerned with predicting the veracity of claims based on metadata, social network spread, language used in claims, and, more recently, evidence supporting or denying claims. A crucial piece of the puzzle that is still missing is to understand how to automate the most elaborate part of the process -- generating justifications for verdicts on claims. This paper provides the first study of how these explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction. Our results indicate that optimising both objectives at the same time, rather than training them separately, improves the performance of a fact checking system. The results of a manual evaluation further suggest that the informativeness, coverage and overall quality of the generated explanations are also improved in the multi-task model.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/tags/members/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2020_acl_atanasova/">
 
   
 
@@ -99,15 +97,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/tags/members/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/tags/members/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/tags/members/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2020_acl_atanasova/">
 
   
   
@@ -121,19 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/tags/members/">
-  <meta property="og:title" content="Members | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2020_acl_atanasova/">
+  <meta property="og:title" content="Generating Fact Checking Explanations | CopeNLU">
+  <meta property="og:description" content="Most existing work on automated fact checking is concerned with predicting the veracity of claims based on metadata, social network spread, language used in claims, and, more recently, evidence supporting or denying claims. A crucial piece of the puzzle that is still missing is to understand how to automate the most elaborate part of the process -- generating justifications for verdicts on claims. This paper provides the first study of how these explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction. Our results indicate that optimising both objectives at the same time, rather than training them separately, improves the performance of a fact checking system. The results of a manual evaluation further suggest that the informativeness, coverage and overall quality of the generated explanations are also improved in the multi-task model."><meta property="og:image" content="https://copenlu.github.io/publication/2020_acl_atanasova/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2019-01-20T17:07:01&#43;01:00">
+  <meta property="article:published_time" content="2020-04-04T00:00:00&#43;02:00">
+  
+  <meta property="article:modified_time" content="2020-04-04T00:00:00&#43;02:00">
   
 
   
 
   
 
-  <title>Members | CopeNLU</title>
+  <title>Generating Fact Checking Explanations | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,8 +346,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -363,71 +364,266 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Generating Fact Checking Explanations</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/jakob-grue-simonsen/">Jakob Grue Simonsen</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/christina-lioma/">Christina Lioma</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2020-04-04 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2020-04-04 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      4 Apr 2020
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Generating%20Fact%20Checking%20Explanations&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_acl_atanasova%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_acl_atanasova%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_acl_atanasova%2f&amp;title=Generating%20Fact%20Checking%20Explanations"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_acl_atanasova%2f&amp;title=Generating%20Fact%20Checking%20Explanations"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Generating%20Fact%20Checking%20Explanations&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_acl_atanasova%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2020_acl_atanasova/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Most existing work on automated fact checking is concerned with predicting the veracity of claims based on metadata, social network spread, language used in claims, and, more recently, evidence supporting or denying claims. A crucial piece of the puzzle that is still missing is to understand how to automate the most elaborate part of the process &ndash; generating justifications for verdicts on claims. This paper provides the first study of how these explanations can be generated automatically based on available claim context, and how this task can be modeled jointly with veracity prediction. Our results indicate that optimising both objectives at the same time, rather than training them separately, improves the performance of a fact checking system. The results of a manual evaluation further suggest that the informativeness, coverage and overall quality of the generated explanations are also improved in the multi-task model.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 2020 Annual Conference of the Association for Computational Linguistics (ACL)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            April, 2020
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Members</h1>
-
   
 
-  
+
+
+
+
+
+
+
+  </div>
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/people/isabelle/">Isabelle Augenstein</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/people/johannes/">Johannes Bjerva</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/people/pepa/">Pepa Atanasova</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/people/andreas/">Andreas Nugaard Holm</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/people/dustin/">Dustin Wright</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/people/oscar/">Oscar Kjell</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-
-  
-
-</div>
 <div class="container">
   <footer class="site-footer">
   
@@ -582,6 +778,4 @@
 
   </body>
 </html>
-
-
 

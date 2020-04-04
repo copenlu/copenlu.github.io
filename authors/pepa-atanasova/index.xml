@@ -6,10 +6,19 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generating Fact Checking Explanations</title>
+      <link>https://copenlu.github.io/publication/2020_acl_atanasova/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_acl_atanasova/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Joint Emotion Label Space Modelling for Affect Lexica</title>
