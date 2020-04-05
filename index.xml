@@ -10,6 +10,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>2 Papers Accepted to ACL 2020</title>
+      <link>https://copenlu.github.io/talk/2020_04_acl/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2020_04_acl/</guid>
+      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_acl_atanasova/&#34;&gt;Generating Fact Checking Explanations&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_acl_a/&#34;&gt;2kenize: Tying Subword Sequences for Chinese Script Conversion&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/pranav-a/&#34;&gt;Pranav A&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Generating Fact Checking Explanations</title>
       <link>https://copenlu.github.io/publication/2020_acl_atanasova/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
@@ -25,27 +41,6 @@
       
       <guid>https://copenlu.github.io/publication/2020_acl_a/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Postdoc Position on Question Answering</title>
-      <link>https://copenlu.github.io/talk/2020_03_postdoc/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2020_03_postdoc/</guid>
-      <description>&lt;p&gt;A postdoc position on natural language understanding is available in the CopeNLU group at the &lt;a href=&#34;https://di.ku.dk/english/about/&#34;&gt;Department of Computer Science, University of Copenhagen&lt;/a&gt;. The postdoc position is partly funded by a &lt;a href=&#34;http://www.megagon.ai&#34;&gt;Megagon Labs&lt;/a&gt;  faculty research award for the project `Subjective Question Answering´. The position is restricted to one year initially, after which a contract renewal is possible. The call will be open until the position is filled, and the start date is 1 May 2020 or as soon as possible afterwards. If you are interested in the position, please send a short introduction as well as a CV to &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34; target=&#34;_blank&#34;&gt;augenstein@di.ku.dk&lt;/a&gt;. You are also welcome to get in touch to informally to discuss further details about the position first. Applications from researchers of underrepresented groups in machine learning are particularly encouraged.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 1 year, renewal possible&lt;br /&gt;
-&lt;strong&gt;Application deadline&lt;/strong&gt;: none &amp;ndash; the position remains open until filled&lt;br /&gt;
-&lt;strong&gt;Position available from&lt;/strong&gt;: 1 May 2020&lt;br /&gt;
-&lt;strong&gt;Salary&lt;/strong&gt;: from DKK 426.625 including annual supplement (+ pension up to DKK 72.952)&lt;br /&gt;
-&lt;strong&gt;Place&lt;/strong&gt;: CopeNLU lab, Machine Learning Section, Department of Computer Science, University of Copenhagen, Denmark&lt;br /&gt;
-&lt;strong&gt;Research areas&lt;/strong&gt;: Natural Language Processing, Machine Learning, Question Answering, Low-Resource Learning&lt;br /&gt;
-&lt;strong&gt;Applications&lt;/strong&gt;: Candidates should submit a CV and a cover letter by email&lt;br /&gt;
-&lt;strong&gt;Contact&lt;/strong&gt;: Isabelle Augenstein &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34; target=&#34;_blank&#34;&gt;augenstein@di.ku.dk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Read more about reasons to join us in our &lt;a href=&#34;post/why-ucph/&#34;&gt;recent blog post&lt;/a&gt;. Before applying, you are very welcome get in touch to informally discuss further details about the position. We particularly welcome applications from researchers of underrepresented groups in NLP.&lt;/p&gt;
-</description>
     </item>
     
     <item>

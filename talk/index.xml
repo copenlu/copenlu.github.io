@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Postdoc Position on Question Answering</title>
-      <link>https://copenlu.github.io/talk/2020_03_postdoc/</link>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+      <title>2 Papers Accepted to ACL 2020</title>
+      <link>https://copenlu.github.io/talk/2020_04_acl/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/talk/2020_03_postdoc/</guid>
-      <description>A postdoc position on natural language understanding is available in the CopeNLU group at the Department of Computer Science, University of Copenhagen. The postdoc position is partly funded by a Megagon Labs faculty research award for the project `Subjective Question Answering´. The position is restricted to one year initially, after which a contract renewal is possible. The call will be open until the position is filled, and the start date is 1 May 2020 or as soon as possible afterwards.</description>
+      <guid>https://copenlu.github.io/talk/2020_04_acl/</guid>
+      <description>2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts.</description>
     </item>
     
     <item>
