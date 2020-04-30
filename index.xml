@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_bjerva/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2 Papers Accepted to ACL 2020</title>
       <link>https://copenlu.github.io/talk/2020_04_acl/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
@@ -152,15 +161,6 @@ Mostafa Abdou, Cezar Sas, Rahul Aralikatte, &lt;a href=&#34;https://copenlu.gith
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_convai_gonzalez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension</title>
-      <link>https://copenlu.github.io/publication/2019_deeplo_abdou/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_deeplo_abdou/</guid>
       <description></description>
     </item>
     
