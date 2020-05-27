@@ -6,10 +6,19 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in (Un-)Supervised NLP</title>
+      <link>https://copenlu.github.io/publication/2020_uai_rethmeier/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_uai_rethmeier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
@@ -62,15 +71,6 @@
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_socialnlp_debnath/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in (Un-)Supervised NLP</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_rethmeier/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_arxiv_rethmeier/</guid>
       <description></description>
     </item>
     

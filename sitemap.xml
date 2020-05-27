@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2020_uai_rethmeier/</loc>
+      <lastmod>2020-05-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2020_arxiv_bjerva/</loc>
       <lastmod>2020-04-30T00:00:00+02:00</lastmod>
     </url>
@@ -54,14 +62,6 @@
     
       <loc>https://copenlu.github.io/publication/2020_socialnlp_debnath/</loc>
       <lastmod>2020-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2019_arxiv_rethmeier/</loc>
-      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -701,7 +701,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/2/</loc>
-      <lastmod>2019-02-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-05-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1104,7 +1104,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2020-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2020-05-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1374,7 +1374,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/nils-rethmeier/</loc>
-      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
+      <lastmod>2020-05-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1581,7 +1581,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/vageesh-kumar-saxena/</loc>
-      <lastmod>2019-12-02T00:00:00+01:00</lastmod>
+      <lastmod>2020-05-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
