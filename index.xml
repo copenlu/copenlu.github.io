@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Inducing Language-Agnostic Multilingual Representations</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_zhao/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disembodied Machine Learning: On the Illusion of Objectivity in NLP</title>
+      <link>https://copenlu.github.io/publication/2020_openreview_waseem/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_openreview_waseem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in (Un-)Supervised NLP</title>
       <link>https://copenlu.github.io/publication/2020_uai_rethmeier/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
@@ -143,24 +161,6 @@ Mostafa Abdou, Cezar Sas, Rahul Aralikatte, &lt;a href=&#34;https://copenlu.gith
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Domain Transfer in Dialogue Systems without Turn-Level Supervision</title>
-      <link>https://copenlu.github.io/publication/2019_convai_bingel/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_convai_bingel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retrieval-Based Goal-Oriented Dialogue Generation</title>
-      <link>https://copenlu.github.io/publication/2019_convai_gonzalez/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_convai_gonzalez/</guid>
       <description></description>
     </item>
     

@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2020_arxiv_zhao/</loc>
+      <lastmod>2020-08-22T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2020_openreview_waseem/</loc>
+      <lastmod>2020-06-22T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2020_uai_rethmeier/</loc>
       <lastmod>2020-05-20T00:00:00+02:00</lastmod>
     </url>
@@ -236,14 +252,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/people/johannes/</loc>
-      <lastmod>2019-01-19T17:09:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/people/pepa/</loc>
       <lastmod>2019-01-19T17:07:01+01:00</lastmod>
     </url>
@@ -261,6 +269,14 @@
     <url>
     
       <loc>https://copenlu.github.io/people/dustin/</loc>
+      <lastmod>2019-01-14T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/nils/</loc>
       <lastmod>2019-01-14T17:07:01+01:00</lastmod>
     </url>
     
@@ -428,14 +444,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/people/nils/</loc>
-      <lastmod>2018-01-16T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/people/ran/</loc>
       <lastmod>2018-01-15T17:07:01+01:00</lastmod>
     </url>
@@ -510,6 +518,14 @@
     
       <loc>https://copenlu.github.io/publication/2017_swj_zhang/</loc>
       <lastmod>2017-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/johannes/</loc>
+      <lastmod>2017-01-23T17:09:01+01:00</lastmod>
     </url>
     
   
@@ -718,7 +734,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2020-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -790,7 +806,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/alumni/</loc>
-      <lastmod>2017-01-22T17:07:01+01:00</lastmod>
+      <lastmod>2017-01-23T17:09:01+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1112,7 +1128,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2020-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1148,7 +1164,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/joachim-bingel/</loc>
-      <lastmod>2019-08-12T00:00:00+02:00</lastmod>
+      <lastmod>2020-06-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1157,7 +1173,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/johannes-bjerva/</loc>
-      <lastmod>2020-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2020-08-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1516,8 +1532,26 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/smarika-lulz/</loc>
+      <lastmod>2020-06-22T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/spandana-gella/</loc>
       <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/steffen-eger/</loc>
+      <lastmod>2020-08-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1624,6 +1658,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/wei-zhao/</loc>
+      <lastmod>2020-08-22T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/wouter-kouw/</loc>
       <lastmod>2019-11-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1653,6 +1696,15 @@
     
       <loc>https://copenlu.github.io/authors/yova-kementchedjhieva/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/zeerak-waseem/</loc>
+      <lastmod>2020-06-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
