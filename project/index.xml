@@ -6,7 +6,7 @@
     <description>Recent content in Projects on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,30 @@
     <item>
       <title>Learning with Limited Labelled Data</title>
       <link>https://copenlu.github.io/project/limited-data/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/limited-data/</guid>
       <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.
 This is a cross-cutting theme in most of our research. Two funded projects specifically addressing this are Multi3Generation and Andreas Nugaard Holm&amp;rsquo;s industrial PhD project with BASE Life Science, supported by Innovation Fund Denmark.
 Multi3Generation is a COST Action that funds collaboration of researchers in Europe and abroad.</description>
+    </item>
+    
+    <item>
+      <title>Stance Detection and Fact Checking</title>
+      <link>https://copenlu.github.io/project/fact-checking/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/fact-checking/</guid>
+      <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
+    </item>
+    
+    <item>
+      <title>Explainable Machine Learning</title>
+      <link>https://copenlu.github.io/project/explainability/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/explainability/</guid>
+      <description>We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.</description>
     </item>
     
     <item>
@@ -40,15 +58,6 @@ Multi3Generation is a COST Action that funds collaboration of researchers in Eur
       <guid>https://copenlu.github.io/project/question-answering/</guid>
       <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.
 We are currently involved in two funded projects related to this theme: a project on subjectivity in question answering, funded by a faculty research award from Megagon Labs; as well a PhD fellowship grant on conversational question answering for customer support from BotXO, which Ana Valeria Gonzalez works on.</description>
-    </item>
-    
-    <item>
-      <title>Stance Detection and Fact Checking</title>
-      <link>https://copenlu.github.io/project/fact-checking/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/fact-checking/</guid>
-      <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
     </item>
     
     <item>

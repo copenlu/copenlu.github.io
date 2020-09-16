@@ -6,10 +6,37 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Diagnostic Study of Explainability Techniques for Text Classification</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Label Cohesive and Well-Formed Adversarial Claims</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Hop Fact Checking of Political Claims</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Fact Checking Explanations</title>

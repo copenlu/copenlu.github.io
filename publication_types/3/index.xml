@@ -6,10 +6,28 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Hop Fact Checking of Political Claims</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_allein/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inducing Language-Agnostic Multilingual Representations</title>
@@ -26,33 +44,6 @@
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_openreview_waseem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_bjerva/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_bjerva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fact Check-Worthiness Detection as Positive Unlabelled Learning</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_wright/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_nooralahzadeh/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_nooralahzadeh/</guid>
       <description></description>
     </item>
     

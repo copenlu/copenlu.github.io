@@ -6,10 +6,82 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Diagnostic Study of Explainability Techniques for Text Classification</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Label Cohesive and Well-Formed Adversarial Claims</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_bjerva/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer Based Multi-Source Domain Adaptation</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_wright_transformer/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_wright_transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fact Check-Worthiness Detection as Positive Unlabelled Learning</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_wright_claim/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_wright_claim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can We Do to Improve Peer Review in NLP?</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_rogers/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in (Un-)Supervised NLP</title>
+      <link>https://copenlu.github.io/publication/2020_uai_rethmeier/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_uai_rethmeier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Fact Checking Explanations</title>

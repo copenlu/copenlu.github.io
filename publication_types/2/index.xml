@@ -6,19 +6,10 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in (Un-)Supervised NLP</title>
-      <link>https://copenlu.github.io/publication/2020_uai_rethmeier/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_uai_rethmeier/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>What do Language Representations Really Represent?</title>

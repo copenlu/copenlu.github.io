@@ -6,10 +6,19 @@
     <description>Recent content in fact-checking on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/fact-checking/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stance Detection and Fact Checking</title>
+      <link>https://copenlu.github.io/project/fact-checking/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/fact-checking/</guid>
+      <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
+    </item>
     
     <item>
       <title>2 Papers Accepted to ACL 2020</title>
@@ -18,15 +27,6 @@
       
       <guid>https://copenlu.github.io/talk/2020_04_acl/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts.</description>
-    </item>
-    
-    <item>
-      <title>Stance Detection and Fact Checking</title>
-      <link>https://copenlu.github.io/project/fact-checking/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/fact-checking/</guid>
-      <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
     </item>
     
   </channel>

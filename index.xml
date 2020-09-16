@@ -10,6 +10,149 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>7 Papers Accepted to EMNLP 2020</title>
+      <link>https://copenlu.github.io/talk/2020_09_emnlp/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2020_09_emnlp/</guid>
+      <description>&lt;p&gt;7 CopeNLU papers are accepted to appear at EMNLP 2020. The topics of these include fact checking, explainability, domain adaptation, transfer learning, QA and improving peer review.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/&#34;&gt;A Diagnostic Study of Explainability Techniques for Text Classification&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/&#34;&gt;Generating Label Cohesive and Well-Formed Adversarial Claims&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;&amp;#42;, &lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;&amp;#42;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_wright_transformer/&#34;&gt;Transformer Based Multi-Source Domain Adaptation&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_bjerva/&#34;&gt;SubjQA: A Dataset for Subjectivity and Review Comprehension&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nikita-bhutani/&#34;&gt;Nikita Bhutani&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/behzad-golshan/&#34;&gt;Behzad Golshan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/wang-chiew-tan/&#34;&gt;Wang-Chiew Tan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/&#34;&gt;Zero-Shot Cross-Lingual Transfer with Meta Learning&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/farhad-nooralahzadeh/&#34;&gt;Farhad Nooralahzadeh&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/giannis-bekoulis/&#34;&gt;Giannis Bekoulis&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_wright_claim/&#34;&gt;Fact Check-Worthiness Detection as Positive Unlabelled Learning&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Findings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_emnlp_rogers/&#34;&gt;What Can We Do to Improve Peer Review in NLP?&lt;/a&gt;
+&lt;a href=&#34;https://copenlu.github.io/authors/anna-rogers/&#34;&gt;Anna Rogers&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Findings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;*equal contributions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Diagnostic Study of Explainability Techniques for Text Classification</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Label Cohesive and Well-Formed Adversarial Claims</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_bjerva/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer Based Multi-Source Domain Adaptation</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_wright_transformer/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_wright_transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fact Check-Worthiness Detection as Positive Unlabelled Learning</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_wright_claim/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_wright_claim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Can We Do to Improve Peer Review in NLP?</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_rogers/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Hop Fact Checking of Political Claims</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_allein/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Limited Labelled Data</title>
+      <link>https://copenlu.github.io/project/limited-data/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/limited-data/</guid>
+      <description>&lt;p&gt;Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.&lt;/p&gt;
+
+&lt;p&gt;This is a cross-cutting theme in most of our research. Two funded projects specifically addressing this are Multi3Generation and &lt;a href=&#34;https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ&#34;&gt;Andreas Nugaard Holm&lt;/a&gt;&amp;rsquo;s industrial PhD project with &lt;a href=&#34;https://www.baselifescience.com/&#34;&gt;BASE Life Science&lt;/a&gt;, supported by &lt;a href=&#34;https://innovationsfonden.dk/en&#34;&gt;Innovation Fund Denmark&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.cost.eu/actions/CA18231/#tabs%7CName:overview&#34;&gt;Multi3Generation&lt;/a&gt; is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.&lt;/p&gt;
+
+&lt;p&gt;Andreas Nugaard Holm&amp;rsquo;s industrial PhD project focuses on transfer learning and domain adaptation for scientific text.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stance Detection and Fact Checking</title>
+      <link>https://copenlu.github.io/project/fact-checking/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/fact-checking/</guid>
+      <description>&lt;p&gt;We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation.
+Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.&lt;/p&gt;
+
+&lt;p&gt;We are also researching the relationship between attitudes towards entities on social media and gender bias as part of a &lt;a href=&#34;https://dff.dk/en/grants/database?instrument:list=all&amp;filed_method:list=all&amp;period:list=all&amp;set_language=en&amp;SearchableText=gender-biased&#34;&gt;project funded by DFF&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Inducing Language-Agnostic Multilingual Representations</title>
       <link>https://copenlu.github.io/publication/2020_arxiv_zhao/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0200</pubDate>
@@ -33,134 +176,6 @@
       <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_uai_rethmeier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_bjerva/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_bjerva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2 Papers Accepted to ACL 2020</title>
-      <link>https://copenlu.github.io/talk/2020_04_acl/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2020_04_acl/</guid>
-      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_acl_atanasova/&#34;&gt;Generating Fact Checking Explanations&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2020_acl_a/&#34;&gt;2kenize: Tying Subword Sequences for Chinese Script Conversion&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/pranav-a/&#34;&gt;Pranav A&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Generating Fact Checking Explanations</title>
-      <link>https://copenlu.github.io/publication/2020_acl_atanasova/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_acl_atanasova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2kenize: Tying Subword Sequences for Chinese Script Conversion</title>
-      <link>https://copenlu.github.io/publication/2020_acl_a/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_acl_a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fact Check-Worthiness Detection as Positive Unlabelled Learning</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_wright/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_nooralahzadeh/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_nooralahzadeh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Textual Similarity of Sentences with Emojis</title>
-      <link>https://copenlu.github.io/publication/2020_socialnlp_debnath/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_socialnlp_debnath/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Emotion Label Space Modelling for Affect Lexica</title>
-      <link>https://copenlu.github.io/publication/2019_arxiv_debruyne/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_arxiv_debruyne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Back to the Future -- Sequential Alignment of Text Representations</title>
-      <link>https://copenlu.github.io/publication/2020_aaai_bjerva_kouw/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_aaai_bjerva_kouw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>4 papers to be presented at EMNLP 2019</title>
-      <link>https://copenlu.github.io/talk/2019_11_emnlp/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2019_11_emnlp/</guid>
-      <description>&lt;p&gt;4 papers by CopeNLU authors are to be presented at EMNLP 2019 and co-located events, on fact checking and disinformation, as well as on multi-task and multi-lingual learning.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;publication/2019_emnlp_augenstein/&#34;&gt;MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen. In Proceedings of &lt;a href=&#34;https://www.emnlp-ijcnlp2019.org/&#34;&gt;EMNLP-IJCNLP 2019&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;publication/2019_nlp4if_hartmann/&#34;&gt;Mapping (Dis-)Information Flow about the MH17 Plane Crash&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/mareike-hartmann/&#34;&gt;Mareike Hartmann&lt;/a&gt;, Yevgeniy Golovchenko, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of the 2019 Workshop on NLP4IF: censorship, disinformation, and propaganda (&lt;a href=&#34;http://www.netcopia.net/nlp4if/&#34;&gt;NLP4IF&lt;/a&gt; at EMNLP-IJCNLP 2019).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;publication/2019_deeplo_abdou/&#34;&gt;X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension&lt;/a&gt;.
-Mostafa Abdou, Cezar Sas, Rahul Aralikatte, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, Anders Søgaard. In Proceedings of the 2nd Workshop on Deep Learning for Low-Resource NLP (&lt;a href=&#34;https://sites.google.com/view/deeplo19/home&#34;&gt;DeepLo&lt;/a&gt; at EMNLP-IJCNLP 2019).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;publication/2019_deeplo_bjerva/&#34;&gt;Transductive Auxiliary Task Self-Training for Neural Multi-Task Models&lt;/a&gt;.
-&lt;a href=&#34;authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, Katharina Kann, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of the 2nd Workshop on Deep Learning for Low-Resource NLP (&lt;a href=&#34;https://sites.google.com/view/deeplo19/home&#34;&gt;DeepLo&lt;/a&gt; at EMNLP-IJCNLP 2019).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
-      <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_emnlp_augenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping (Dis-)Information Flow about the MH17 Plane Crash</title>
-      <link>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2019_nlp4if_hartmann/</guid>
       <description></description>
     </item>
     
