@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="It is challenging to automatically evaluate the answer of a QA model at inference time. Although many models provide confidence scores, and simple heuristics can go a long way towards indicating answer correctness, such measures are heavily dataset-dependent and are unlikely to generalise. In this work, we begin by investigating the hidden representations of questions, answers, and contexts in transformer-based QA architectures. We observe a consistent pattern in the answer representations, which we show can be used to automatically evaluate whether or not a predicted answer span is correct. Our method does not require any labelled data and outperforms strong heuristic baselines, across 2 datasets and 7 domains. We are able to predict whether or not a model&#39;s answer is correct with 91.37% accuracy on SQuAD, and 80.7% accuracy on SubjQA. We expect that this method will have broad applications, e.g., in semi-automatic development of QA datasets.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/authors/arnav-arora/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/">
 
   
 
@@ -97,15 +97,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/authors/arnav-arora/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/authors/arnav-arora/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/authors/arnav-arora/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/">
 
   
   
@@ -119,19 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/authors/arnav-arora/">
-  <meta property="og:title" content="Arnav Arora | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/">
+  <meta property="og:title" content="Unsupervised Evaluation for Question Answering with Transformers | CopeNLU">
+  <meta property="og:description" content="It is challenging to automatically evaluate the answer of a QA model at inference time. Although many models provide confidence scores, and simple heuristics can go a long way towards indicating answer correctness, such measures are heavily dataset-dependent and are unlikely to generalise. In this work, we begin by investigating the hidden representations of questions, answers, and contexts in transformer-based QA architectures. We observe a consistent pattern in the answer representations, which we show can be used to automatically evaluate whether or not a predicted answer span is correct. Our method does not require any labelled data and outperforms strong heuristic baselines, across 2 datasets and 7 domains. We are able to predict whether or not a model&#39;s answer is correct with 91.37% accuracy on SQuAD, and 80.7% accuracy on SubjQA. We expect that this method will have broad applications, e.g., in semi-automatic development of QA datasets."><meta property="og:image" content="https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-09-12T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2020-09-13T00:00:00&#43;02:00">
+  
+  <meta property="article:modified_time" content="2020-09-13T00:00:00&#43;02:00">
   
 
   
 
   
 
-  <title>Arnav Arora | CopeNLU</title>
+  <title>Unsupervised Evaluation for Question Answering with Transformers | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -344,7 +346,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
+  
 
 
 
@@ -361,38 +365,258 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Unsupervised Evaluation for Question Answering with Transformers</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Arnav Arora</h1>
+
+<div class="article-metadata">
 
   
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/lukas-muttenthaler/">Lukas Muttenthaler</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/johannes-bjerva/">Johannes Bjerva</a>
+      </span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2020-09-13 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2020-09-13 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      13 Sep 2020
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Unsupervised%20Evaluation%20for%20Question%20Answering%20with%20Transformers&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_blackboxnlp_muttenthaler%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_blackboxnlp_muttenthaler%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_blackboxnlp_muttenthaler%2f&amp;title=Unsupervised%20Evaluation%20for%20Question%20Answering%20with%20Transformers"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_blackboxnlp_muttenthaler%2f&amp;title=Unsupervised%20Evaluation%20for%20Question%20Answering%20with%20Transformers"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Unsupervised%20Evaluation%20for%20Question%20Answering%20with%20Transformers&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2020_blackboxnlp_muttenthaler%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2020_blackboxnlp_muttenthaler/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/question-answering/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<section id="about" class="home-section">
-  <div class="container">
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">It is challenging to automatically evaluate the answer of a QA model at inference time. Although many models provide confidence scores, and simple heuristics can go a long way towards indicating answer correctness, such measures are heavily dataset-dependent and are unlikely to generalise. In this work, we begin by investigating the hidden representations of questions, answers, and contexts in transformer-based QA architectures. We observe a consistent pattern in the answer representations, which we show can be used to automatically evaluate whether or not a predicted answer span is correct. Our method does not require any labelled data and outperforms strong heuristic baselines, across 2 datasets and 7 domains. We are able to predict whether or not a model&rsquo;s answer is correct with 91.37% accuracy on SQuAD, and 80.7% accuracy on SubjQA. We expect that this method will have broad applications, e.g., in semi-automatic development of QA datasets.</p>
     
+
     
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2020_arxiv_ostrowski/">Multi-Hop Fact Checking of Political Claims</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 3rd Workshop on Analyzing and interpreting neural networks for NLP (BlackboxNLP at EMNLP)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            September, 2020
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
+
 
 
 <div class="container">

@@ -75,9 +75,18 @@
     </item>
     
     <item>
+      <title>Unsupervised Evaluation for Question Answering with Transformers</title>
+      <link>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Hop Fact Checking of Political Claims</title>
       <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>Time-Aware Evidence Ranking for Fact-Checking</title>
       <link>https://copenlu.github.io/publication/2020_arxiv_allein/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
       <description></description>
