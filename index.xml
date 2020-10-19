@@ -115,6 +115,15 @@
     </item>
     
     <item>
+      <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>
+      <link>https://copenlu.github.io/publication/2020_sigtyp_bjerva/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_sigtyp_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unsupervised Evaluation for Question Answering with Transformers</title>
       <link>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</link>
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
@@ -168,15 +177,6 @@ Fact checking using textual data can be framed very similarly, namely as if an e
 
 &lt;p&gt;We are also researching the relationship between attitudes towards entities on social media and gender bias as part of a &lt;a href=&#34;https://dff.dk/en/grants/database?instrument:list=all&amp;filed_method:list=all&amp;period:list=all&amp;set_language=en&amp;SearchableText=gender-biased&#34;&gt;project funded by DFF&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Inducing Language-Agnostic Multilingual Representations</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_zhao/</link>
-      <pubDate>Sat, 22 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_zhao/</guid>
-      <description></description>
     </item>
     
   </channel>
