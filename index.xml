@@ -10,6 +10,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>EMNLP 2020 Beer Garden Meetup</title>
+      <link>https://copenlu.github.io/post/eth-ucph-party/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/post/eth-ucph-party/</guid>
+      <description>&lt;p&gt;Yes, we all have planned to be under palm trees of Punta Cana now and to sip drinks with umbrellas. Let&amp;rsquo;s make a new plan: beer garden on Thursday evening (20:00 CET). All ETH Rycolab and UCPH CopeNLU research group members &amp;amp; friends are invited to join our Gather.Town beer garden to mingle with one another. Sign up &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdXXHt_VRtNEvy_z5CYQsD14aMbsV-KXfI6-p0aowyFkVEIpw/viewform?vc=0&amp;amp;c=0&amp;amp;w=1&amp;amp;flr=0&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to get the invitation link. The number of spots is limited!&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/post/eth-ucph-party/gallery/eth.png&#34; &gt;
+  &lt;img src=&#34;https://copenlu.github.io/post/eth-ucph-party/gallery/eth.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/post/eth-ucph-party/gallery/ku_co_uk_v.jpg&#34; &gt;
+  &lt;img src=&#34;https://copenlu.github.io/post/eth-ucph-party/gallery/ku_co_uk_v.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data</title>
       <link>https://copenlu.github.io/publication/2020_arxiv_rethmeier/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
@@ -163,19 +213,6 @@
 &lt;p&gt;&lt;a href=&#34;https://www.cost.eu/actions/CA18231/#tabs%7CName:overview&#34;&gt;Multi3Generation&lt;/a&gt; is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.&lt;/p&gt;
 
 &lt;p&gt;Andreas Nugaard Holm&amp;rsquo;s industrial PhD project focuses on transfer learning and domain adaptation for scientific text.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stance Detection and Fact Checking</title>
-      <link>https://copenlu.github.io/project/fact-checking/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/fact-checking/</guid>
-      <description>&lt;p&gt;We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation.
-Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.&lt;/p&gt;
-
-&lt;p&gt;We are also researching the relationship between attitudes towards entities on social media and gender bias as part of a &lt;a href=&#34;https://dff.dk/en/grants/database?instrument:list=all&amp;filed_method:list=all&amp;period:list=all&amp;set_language=en&amp;SearchableText=gender-biased&#34;&gt;project funded by DFF&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
