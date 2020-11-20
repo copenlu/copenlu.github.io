@@ -10,6 +10,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Positions available in context of Sapere Aude Research Leader Fellowship on Explainable Stance Detection</title>
+      <link>https://copenlu.github.io/talk/2020_10_phd/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2020_10_phd/</guid>
+      <description>&lt;p&gt;Two PhD fellowships and one postdoctoral position on explainable stance detection are available in CopeNLU. The PhD fellowships are offered in the context of a &lt;a href=&#34;TBD&#34;&gt;DFF Sapere Aude research leader fellowship&lt;/a&gt; on `Learning to Explain Attitudes on Social Media (EXPANSE)´. Sapere Aude is a program by the &lt;a href=&#34;https://dff.dk/en&#34;&gt;Independent Research Fund Denmark (DFF)&lt;/a&gt; to support the most talented younger researchers in Denmark with funding for blue-skies research to build up or expand their research groups.&lt;/p&gt;
+
+&lt;p&gt;The EXPANSE project studies attitudes voiced on social media, examining what is said, and explaining it by examining why, how and by whom attitudes are stated. Currently, the only criterion commonly taken into account when researching and developing not just such stance detection, but Natural Language Processing models in general, is predictive performance, e.g. how well models can predict labels such as &amp;lsquo;positive&amp;rsquo;, &amp;lsquo;negative&amp;rsquo; or &amp;lsquo;neutral&amp;rsquo;. This does not provide any insights into why and how models arrive at certain predictions, which is crucial for utilising predictions for decision making. By contrast, this project will examine explainability as a success criterion, in an interdisciplinary approach which combines Natural Language Processing research with sociological theories.&lt;/p&gt;
+
+&lt;p&gt;In addition to the principle investigator, the two PhD students and the postdoc, the project team will also include interdisciplinary collaborators from sociology.
+More information about the project can also be found in &lt;a href=&#34;https://dff.dk/en/grants/research-leaders-2020/researchleader-14&#34;&gt;the official announcement on DFF&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Candidates are expected to hold a Master&amp;rsquo;s degree in computer science or a related relevant area or be near completion for one. There are no restrictions on citizenship, and a language certificate is not required at application time.
+Candidates from traditionally underrepresented minorities in natural language processing are particularly encouraged to apply.&lt;/p&gt;
+
+&lt;p&gt;Read more about reasons to join us &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. Before applying, you are welcome to get in touch to informally if you have questions about the call. The official call for PhD positions and application link is expected to be available on the UCPH job portal shortly. In the meantime, you can express your interest by leaving your contact details &lt;a href=&#34;https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kc6sgtkevo5FlcuZ17FkylVUMExWNlJISkVVVlkzMVdKVEpOSUZCMkhOMi4u&#34;&gt;here&lt;/a&gt; &amp;ndash; the application link will be sent to everyone who has informally expressed an interest.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EMNLP 2020 Beer Garden Meetup</title>
       <link>https://copenlu.github.io/post/eth-ucph-party/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0100</pubDate>
@@ -198,22 +218,6 @@
       
       <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Learning with Limited Labelled Data</title>
-      <link>https://copenlu.github.io/project/limited-data/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/limited-data/</guid>
-      <description>&lt;p&gt;Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.&lt;/p&gt;
-
-&lt;p&gt;This is a cross-cutting theme in most of our research. Two funded projects specifically addressing this are Multi3Generation and &lt;a href=&#34;https://scholar.google.co.uk/citations?user=CLOC3rEAAAAJ&#34;&gt;Andreas Nugaard Holm&lt;/a&gt;&amp;rsquo;s industrial PhD project with &lt;a href=&#34;https://www.baselifescience.com/&#34;&gt;BASE Life Science&lt;/a&gt;, supported by &lt;a href=&#34;https://innovationsfonden.dk/en&#34;&gt;Innovation Fund Denmark&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.cost.eu/actions/CA18231/#tabs%7CName:overview&#34;&gt;Multi3Generation&lt;/a&gt; is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.&lt;/p&gt;
-
-&lt;p&gt;Andreas Nugaard Holm&amp;rsquo;s industrial PhD project focuses on transfer learning and domain adaptation for scientific text.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
