@@ -6,10 +6,19 @@
     <description>Recent content in Dustin Wright on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/dustin-wright/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_holm/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_holm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Label Cohesive and Well-Formed Adversarial Claims</title>

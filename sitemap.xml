@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2020_arxiv_holm/</loc>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2020_arxiv_lekkas/</loc>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2020_10_phd/</loc>
       <lastmod>2020-11-19T00:00:00+01:00</lastmod>
     </url>
@@ -660,6 +676,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/shailza/</loc>
+      <lastmod>2017-01-22T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/debjit/</loc>
+      <lastmod>2017-01-21T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/people/wei/</loc>
       <lastmod>2017-01-21T17:07:01+01:00</lastmod>
     </url>
@@ -838,7 +870,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2020-10-02T00:00:00+02:00</lastmod>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -954,6 +986,24 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/andrea-lekkas/</loc>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/andreas-nugaard-holm/</loc>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/andrew-mccallum/</loc>
       <lastmod>2017-06-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1017,7 +1067,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/barbara-plank/</loc>
-      <lastmod>2018-07-31T00:00:00+02:00</lastmod>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1142,7 +1192,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dustin-wright/</loc>
-      <lastmod>2020-09-15T00:00:00+02:00</lastmod>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1295,7 +1345,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2020-10-02T00:00:00+02:00</lastmod>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1638,6 +1688,15 @@
     
       <loc>https://copenlu.github.io/authors/pepa-atanasova/</loc>
       <lastmod>2020-09-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/peter-schneider-kamp/</loc>
+      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

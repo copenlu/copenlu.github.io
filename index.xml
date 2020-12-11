@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_holm/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_holm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Sense Language Modelling</title>
+      <link>https://copenlu.github.io/publication/2020_arxiv_lekkas/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_arxiv_lekkas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Positions available in context of Sapere Aude Research Leader Fellowship on Explainable Stance Detection</title>
       <link>https://copenlu.github.io/talk/2020_10_phd/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0100</pubDate>
@@ -199,24 +217,6 @@ Candidates from traditionally underrepresented minorities in natural language pr
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Hop Fact Checking of Political Claims</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_allein/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
       <description></description>
     </item>
     
