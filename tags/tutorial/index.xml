@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on CopeNLU</title>
+    <link>https://copenlu.github.io/tags/tutorial/</link>
+    <description>Recent content in Tutorial on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ALPS 2021 tutorial &#39;Explainability for NLP&#39;</title>
+      <link>https://copenlu.github.io/post/explainability_tutorial/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/post/explainability_tutorial/</guid>
+      <description>We gave a tutorial on &amp;lsquo;Explainability for NLP&amp;rsquo; at the first ALPS (Advanced Language Processing) winter school: http://lig-alps.imag.fr/index.php/schedule/ The tutorial introduces the concepts of &amp;lsquo;model understanding&amp;rsquo; as well as &amp;lsquo;decision understanding&amp;rsquo; and provides examples of approaches from the areas of fact checking and text classification.
+Exercises for both model understanding and decision understanding are available here: https://github.com/copenlu/ALPS_2021</description>
+    </item>
+    
+  </channel>
+</rss>

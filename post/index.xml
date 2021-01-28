@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>ALPS 2021 tutorial &#39;Explainability for NLP&#39;</title>
+      <link>https://copenlu.github.io/post/explainability_tutorial/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/post/explainability_tutorial/</guid>
+      <description>We gave a tutorial on &amp;lsquo;Explainability for NLP&amp;rsquo; at the first ALPS (Advanced Language Processing) winter school: http://lig-alps.imag.fr/index.php/schedule/ The tutorial introduces the concepts of &amp;lsquo;model understanding&amp;rsquo; as well as &amp;lsquo;decision understanding&amp;rsquo; and provides examples of approaches from the areas of fact checking and text classification.
+Exercises for both model understanding and decision understanding are available here: https://github.com/copenlu/ALPS_2021</description>
+    </item>
+    
+    <item>
       <title>EMNLP 2020 Beer Garden Meetup</title>
       <link>https://copenlu.github.io/post/eth-ucph-party/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0100</pubDate>
