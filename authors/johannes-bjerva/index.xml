@@ -6,10 +6,19 @@
     <description>Recent content in Johannes Bjerva on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/johannes-bjerva/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does Typological Blinding Impede Cross-Lingual Sharing?</title>
+      <link>https://copenlu.github.io/publication/2021_eacl_bjerva/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_eacl_bjerva/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
