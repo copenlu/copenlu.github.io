@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_rethmeier/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_rethmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ALPS 2021 tutorial &#39;Explainability for NLP&#39;</title>
       <link>https://copenlu.github.io/post/explainability_tutorial/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
@@ -214,15 +223,6 @@ Candidates from traditionally underrepresented minorities in natural language pr
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_emnlp_wright_claim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Can We Do to Improve Peer Review in NLP?</title>
-      <link>https://copenlu.github.io/publication/2020_emnlp_rogers/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_emnlp_rogers/</guid>
       <description></description>
     </item>
     
