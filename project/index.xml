@@ -71,6 +71,15 @@ Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual 
     </item>
     
     <item>
+      <title>Scholarly Data Processing</title>
+      <link>https://copenlu.github.io/project/scholarly-data/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/scholarly-data/</guid>
+      <description>We are working on studying methods to automatically process scholarly data. This is to assist researchers in finding publications (e.g. by extracting content from papers automatically, which can be used to populate knowledge bases), writing better papers (e.g. by suggesting which sentences need citations, improving peer review), or tracking their impact (e.g. by tracking which papers are highly cited and how this relates to meta-data, such as venues or authors).</description>
+    </item>
+    
+    <item>
       <title>Knowledge Base Population</title>
       <link>https://copenlu.github.io/project/knowledge-bases/</link>
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>

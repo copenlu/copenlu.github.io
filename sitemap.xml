@@ -844,6 +844,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/project/scholarly-data/</loc>
+      <lastmod>2016-04-26T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/project/knowledge-bases/</loc>
       <lastmod>2016-03-27T00:00:00+01:00</lastmod>
     </url>
@@ -2108,6 +2116,15 @@
     
       <loc>https://copenlu.github.io/tags/question-answering/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/tags/scholarly-data/</loc>
+      <lastmod>2016-04-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
