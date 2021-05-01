@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</loc>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2021_arxiv_stanczak/</loc>
       <lastmod>2021-04-15T00:00:00+02:00</lastmod>
     </url>
@@ -158,14 +166,6 @@
     
       <loc>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</loc>
       <lastmod>2020-09-13T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</loc>
-      <lastmod>2020-09-12T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -900,7 +900,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2021-01-28T00:00:00+01:00</lastmod>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1089,7 +1089,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/arnav-arora/</loc>
-      <lastmod>2020-09-12T00:00:00+02:00</lastmod>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1393,7 +1393,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2021-04-15T00:00:00+02:00</lastmod>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1753,7 +1753,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/pepa-atanasova/</loc>
-      <lastmod>2020-09-15T00:00:00+02:00</lastmod>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1798,7 +1798,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2021-01-28T00:00:00+01:00</lastmod>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2032,7 +2032,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/wojciech-ostrowski/</loc>
-      <lastmod>2020-09-12T00:00:00+02:00</lastmod>
+      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

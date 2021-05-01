@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Multi-Hop Fact Checking of Political Claims</title>
+      <link>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
       <link>https://copenlu.github.io/publication/2021_arxiv_stanczak/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0200</pubDate>
@@ -152,15 +161,6 @@
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Hop Fact Checking of Political Claims</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
       <description></description>
     </item>
     

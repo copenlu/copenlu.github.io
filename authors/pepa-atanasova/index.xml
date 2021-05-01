@@ -6,10 +6,19 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Hop Fact Checking of Political Claims</title>
+      <link>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Diagnostic Study of Explainability Techniques for Text Classification</title>
@@ -26,15 +35,6 @@
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Hop Fact Checking of Political Claims</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_ostrowski/</guid>
       <description></description>
     </item>
     
