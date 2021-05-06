@@ -6,10 +6,20 @@
     <description>Recent content in fact-checking on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/fact-checking/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper Accepted to IJCAI 2021</title>
+      <link>https://copenlu.github.io/talk/2021_04_ijcai/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_04_ijcai/</guid>
+      <description>A paper by CopeNLU author is accepted to appear at IJCAI 2021. The paper studies how to perform complex claim verification on naturally occurring political claims with multiple hops over evidence chunks.
+Multi-Hop Fact Checking of Political Claims. Wojciech Ostrowski, Arnav Arora, Pepa Atanasova, Isabelle Augenstein.</description>
+    </item>
     
     <item>
       <title>Stance Detection and Fact Checking</title>
@@ -26,7 +36,7 @@
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/talk/2020_04_acl/</guid>
-      <description>2 papers by CopeNLU authors are accepted to appear at ACL 2019. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts.</description>
+      <description>2 papers by CopeNLU authors are accepted to appear at ACL 2020. One paper is on explainable fact checking, providing the first study of how fact checking explanations can be generated automatically based on claim content, and how this task can be modelled jointly with veracity prediction; whereas the other one is on script conversion, proposing a novel Chinese character conversion model that can disambiguate between mappings and convert between Chinese scripts.</description>
     </item>
     
   </channel>

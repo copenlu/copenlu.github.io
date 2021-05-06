@@ -6,10 +6,21 @@
     <description>Recent content in scholarly-data on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/scholarly-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2 Papers Accepted to ACL 2021</title>
+      <link>https://copenlu.github.io/talk/2021_04_acl/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_04_acl/</guid>
+      <description>2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.
+Is Sparse Attention more Interpretable?. Clara Meister, Stefan Lazov, Isabelle Augenstein, Ryan Cotterell.
+. Dustin Wright, Isabelle Augenstein.</description>
+    </item>
     
     <item>
       <title>Scholarly Data Processing</title>

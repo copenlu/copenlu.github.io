@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2021_acl_wright_citeworth/</loc>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_acl_meister_sparse/</loc>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/talk/2021_04_ijcai/</loc>
+      <lastmod>2021-05-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</loc>
       <lastmod>2021-04-30T00:00:00+02:00</lastmod>
     </url>
@@ -14,6 +38,14 @@
     
       <loc>https://copenlu.github.io/publication/2021_arxiv_stanczak/</loc>
       <lastmod>2021-04-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/talk/2021_04_acl/</loc>
+      <lastmod>2021-04-05T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -38,6 +70,14 @@
     
       <loc>https://copenlu.github.io/publication/2021_eacl_bjerva/</loc>
       <lastmod>2021-01-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/talk/2021_01_eacl/</loc>
+      <lastmod>2021-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -900,7 +940,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1203,6 +1243,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/clara-meister/</loc>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1240,7 +1289,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dustin-wright/</loc>
-      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1393,7 +1442,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1798,7 +1847,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1834,7 +1883,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/ryan-cotterell/</loc>
-      <lastmod>2021-04-15T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1889,6 +1938,15 @@
     
       <loc>https://copenlu.github.io/authors/spandana-gella/</loc>
       <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/stefan-lazov/</loc>
+      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2094,8 +2152,17 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/tags/explainability/</loc>
+      <lastmod>2021-05-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/tags/fact-checking/</loc>
-      <lastmod>2020-08-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2122,7 +2189,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/limited-data/</loc>
-      <lastmod>2020-08-31T00:00:00+02:00</lastmod>
+      <lastmod>2021-05-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2140,7 +2207,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/multilingual-learning/</loc>
-      <lastmod>2020-04-05T00:00:00+02:00</lastmod>
+      <lastmod>2021-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2167,7 +2234,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/scholarly-data/</loc>
-      <lastmod>2016-04-26T00:00:00+02:00</lastmod>
+      <lastmod>2021-04-05T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

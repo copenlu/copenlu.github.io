@@ -6,10 +6,41 @@
     <description>Recent content in limited-data on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/limited-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper Accepted to IJCAI 2021</title>
+      <link>https://copenlu.github.io/talk/2021_04_ijcai/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_04_ijcai/</guid>
+      <description>A paper by CopeNLU author is accepted to appear at IJCAI 2021. The paper studies how to perform complex claim verification on naturally occurring political claims with multiple hops over evidence chunks.
+Multi-Hop Fact Checking of Political Claims. Wojciech Ostrowski, Arnav Arora, Pepa Atanasova, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
+      <title>2 Papers Accepted to ACL 2021</title>
+      <link>https://copenlu.github.io/talk/2021_04_acl/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_04_acl/</guid>
+      <description>2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.
+Is Sparse Attention more Interpretable?. Clara Meister, Stefan Lazov, Isabelle Augenstein, Ryan Cotterell.
+. Dustin Wright, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted to EACL 2021</title>
+      <link>https://copenlu.github.io/talk/2021_01_eacl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_01_eacl/</guid>
+      <description>A paper by CopeNLU author is accepted to appear at EACL 2021. The paper aims to bridge the gap between high- and low-resource languages by investigating to what degree cross-lingual models share structural information about languages.
+Does Typological Blinding Impede Cross-Lingual Sharing?. Johannes Bjerva, Isabelle Augenstein.</description>
+    </item>
     
     <item>
       <title>Learning with Limited Labelled Data</title>
