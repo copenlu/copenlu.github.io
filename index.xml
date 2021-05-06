@@ -66,7 +66,7 @@
       <guid>https://copenlu.github.io/talk/2021_04_acl/</guid>
       <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_acl_meister_sparse/&#34;&gt;Is Sparse Attention more Interpretable?&lt;/a&gt;.
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_acl_meister_sparse/&#34;&gt;Is Sparse Attention more Interpretable?&lt;/a&gt;
 &lt;a href=&#34;https://copenlu.github.io/authors/clara-meister/&#34;&gt;Clara Meister&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/stefan-lazov/&#34;&gt;Stefan Lazov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_acl_wright_citeworth/&#34;&gt;CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding&lt;/a&gt;.
