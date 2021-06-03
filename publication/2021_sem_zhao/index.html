@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -30,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="Cross-lingual representations have the potential to make NLP techniques available to the vast majority of languages in the world. However, they currently require large pretraining corpora, or assume access to typologically similar languages. In this work, we address these obstacles by removing language identity signals from multilingual embeddings. We examine three approaches for this: (i) re-aligning the vector spaces of target languages (all together) to a pivot source language; (ii) removing languages-specific means and variances, which yields better discriminativeness of embeddings as a by-product; and (iii) normalizing input texts by removing morphological contractions and sentence reordering, thus yielding language-agnostic representations. We evaluate on the tasks of XNLI and reference-free MT evaluation across 19 selected languages. Our experiments demonstrate the language agnostic behavior of our multilingual representations, allowing better zero-shot cross-lingual transfer to distant and low-resource languages, and decrease the performance gap by 8.9 points (M-BERT) and 18.2 points (XLM-R) on average across all tasks and languages. We particularly show that vector normalization can lead to more consistent gains and is complementary to input normalization and recently popular vector space re-alignment. We make our codes and models available.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication_types/1/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2021_sem_zhao/">
 
   
 
@@ -99,15 +97,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/publication_types/1/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/publication_types/1/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/publication_types/1/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2021_sem_zhao/">
 
   
   
@@ -121,19 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/publication_types/1/">
-  <meta property="og:title" content="1 | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2021_sem_zhao/">
+  <meta property="og:title" content="Inducing Language-Agnostic Multilingual Representations | CopeNLU">
+  <meta property="og:description" content="Cross-lingual representations have the potential to make NLP techniques available to the vast majority of languages in the world. However, they currently require large pretraining corpora, or assume access to typologically similar languages. In this work, we address these obstacles by removing language identity signals from multilingual embeddings. We examine three approaches for this: (i) re-aligning the vector spaces of target languages (all together) to a pivot source language; (ii) removing languages-specific means and variances, which yields better discriminativeness of embeddings as a by-product; and (iii) normalizing input texts by removing morphological contractions and sentence reordering, thus yielding language-agnostic representations. We evaluate on the tasks of XNLI and reference-free MT evaluation across 19 selected languages. Our experiments demonstrate the language agnostic behavior of our multilingual representations, allowing better zero-shot cross-lingual transfer to distant and low-resource languages, and decrease the performance gap by 8.9 points (M-BERT) and 18.2 points (XLM-R) on average across all tasks and languages. We particularly show that vector normalization can lead to more consistent gains and is complementary to input normalization and recently popular vector space re-alignment. We make our codes and models available."><meta property="og:image" content="https://copenlu.github.io/publication/2021_sem_zhao/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2018-06-01T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2021-05-29T00:00:00&#43;02:00">
+  
+  <meta property="article:modified_time" content="2021-05-29T00:00:00&#43;02:00">
   
 
   
 
   
 
-  <title>1 | CopeNLU</title>
+  <title>Inducing Language-Agnostic Multilingual Representations | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,8 +346,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -364,100 +365,285 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Inducing Language-Agnostic Multilingual Representations</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">1</h1>
 
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
+<div class="article-metadata">
 
   
   
-  <div>
-    <h2><a href="/publication/2018_naacl_nyegaard-signori/">KU-MTL at SemEval-2018 Task 1: Multi-task Identification of Affect in Tweets</a></h2>
-    <div class="article-style">
-      
-      We take a multi-task learning approach to the shared Task 1 at SemEval-2018. The general idea concerning the model structure is to use as little external data as possible in order to preserve the task relatedness and reduce complexity. We employ …
-      
-    </div>
-  </div>
   
   <div>
-    <h2><a href="/publication/2018_iwclul_bjerva/">Tracking Typological Traits of Uralic Languages in Distributed Language Representations</a></h2>
-    <div class="article-style">
-      
-      *English Abstract*: Although linguistic typology has a long history, computational approaches have only recently gained popularity. The use of distributed representations in computational linguistics has also become increasingly popular. A recent …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/2017_conll_collins/">A Supervised Approach to Extractive Summarisation of Scientific Papers</a></h2>
-    <div class="article-style">
-      
-      Automatic summarisation is a popular approach to reduce a document to its main arguments. Recent research in the area has focused on neural approaches to summarisation, which can be very data-hungry. However, few large datasets exist and none for the …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/2017_acl_augenstein/">Multi-Task Learning of Keyphrase Boundary Classification</a></h2>
-    <div class="article-style">
-      
-      Keyphrase boundary classification (KBC) is the task of detecting keyphrases in scientific articles and labelling them with respect to predefined types. Although important in practice, this task is so far underexplored, partly due to the lack of …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/2017_semeval_augenstein/">SemEval 2017 Task 10: ScienceIE - Extracting Keyphrases and Relations from Scientific Publications</a></h2>
-    <div class="article-style">
-      
-      We describe the SemEval task of extracting keyphrases and relations between them from scientific documents, which is crucial for understanding which publications describe which processes, tasks and materials. Although this was a new task, we had a …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/2017_semeval_kochkina/">Turing at SemEval-2017 Task 8: Sequential Approach to Rumour Stance Classification with Branch-LSTM</a></h2>
-    <div class="article-style">
-      
-      This paper describes team Turing's submission to SemEval 2017 RumourEval: Determining rumour veracity and support for rumours (SemEval 2017 Task 8, Subtask A). Subtask A addresses the challenge of rumour stance classification, which involves …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication_backup/clothing-search/">Mobile visual clothing search</a></h2>
-    <div class="article-style">
-      
-      We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query …
-      
-    </div>
-  </div>
-  
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/wei-zhao/">Wei Zhao</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/steffen-eger/">Steffen Eger</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/johannes-bjerva/">Johannes Bjerva</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
     
-    <li class="page-item"><a class="page-link" href="/publication_types/1/page/4/">&laquo;</a></li>
+  </div>
+  
+
+  <span class="article-date">
     
-    
+    <meta content="2021-05-29 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2021-05-29 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      29 May 2021
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Inducing%20Language-Agnostic%20Multilingual%20Representations&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_sem_zhao%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_sem_zhao%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_sem_zhao%2f&amp;title=Inducing%20Language-Agnostic%20Multilingual%20Representations"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_sem_zhao%2f&amp;title=Inducing%20Language-Agnostic%20Multilingual%20Representations"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Inducing%20Language-Agnostic%20Multilingual%20Representations&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_sem_zhao%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
   </ul>
-</nav>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2008.09112" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2021_sem_zhao/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/AIPHES/Language-Agnostic-Contextualized-Encoders" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/limited-data/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/multilingual-learning/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
 
 
 </div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Cross-lingual representations have the potential to make NLP techniques available to the vast majority of languages in the world. However, they currently require large pretraining corpora, or assume access to typologically similar languages. In this work, we address these obstacles by removing language identity signals from multilingual embeddings. We examine three approaches for this: (i) re-aligning the vector spaces of target languages (all together) to a pivot source language; (ii) removing languages-specific means and variances, which yields better discriminativeness of embeddings as a by-product; and (iii) normalizing input texts by removing morphological contractions and sentence reordering, thus yielding language-agnostic representations. We evaluate on the tasks of XNLI and reference-free MT evaluation across 19 selected languages. Our experiments demonstrate the language agnostic behavior of our multilingual representations, allowing better zero-shot cross-lingual transfer to distant and low-resource languages, and decrease the performance gap by 8.9 points (M-BERT) and 18.2 points (XLM-R) on average across all tasks and languages. We particularly show that vector normalization can lead to more consistent gains and is complementary to input normalization and recently popular vector space re-alignment. We make our codes and models available.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 10th Joint Conference on Lexical and Computational Semantics (*SEM)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            May, 2021
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
@@ -612,6 +798,4 @@
 
   </body>
 </html>
-
-
 

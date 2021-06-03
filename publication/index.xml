@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Determining the Credibility of Science Communication</title>
+      <link>https://copenlu.github.io/publication/2021_sdp_augenstein/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_sdp_augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inducing Language-Agnostic Multilingual Representations</title>
+      <link>https://copenlu.github.io/publication/2021_sem_zhao/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_sem_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding</title>
       <link>https://copenlu.github.io/publication/2021_acl_wright_citeworth/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0200</pubDate>
@@ -188,15 +206,6 @@
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inducing Language-Agnostic Multilingual Representations</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_zhao/</link>
-      <pubDate>Sat, 22 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_zhao/</guid>
       <description></description>
     </item>
     
