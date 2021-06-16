@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Emotion lexica are commonly used resources to combat data poverty in automatic emotion detection. However, methodological issues emerge when employing them: lexica are often not very extensive, and the way they are constructed can vary widely -- from lab conditions to crowdsourced approaches and distant supervision. Furthermore, both categorical frameworks and dimensional frameworks coexist, in which theorists provide many different sets of categorical labels or dimensional axes. The heterogenous nature of the resulting emotion detection resources results in a need for a unified approach to utilising them. This paper contributes to the field of emotion analysis in NLP by a) presenting the first study to unify existing emotion detection resources automatically and thus learn more about the relationships between them; b) exploring the use of existing lexica for the above-mentioned task; c) presenting an approach to automatically combining emotion lexica, namely by a multi-view variational auto-encoder (VAE), which facilitates the mapping of datasets into a joint emotion label space. We test the utility of joint emotion lexica by using them as additional features in state-of-the art emotion detection models. Our overall findings are that emotion lexica can offer complementary information to even extremely large pre-trained models such as BERT. The performance of our models is comparable to state-of-the art models that are specifically engineered for certain datasets, and even outperform the state-of-the art on four datasets.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/people/shailza/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2021_csl_debruyne/">
 
   
 
@@ -105,7 +105,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/people/shailza/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2021_csl_debruyne/">
 
   
   
@@ -119,21 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/people/shailza/">
-  <meta property="og:title" content="Shailza Jolly | CopeNLU">
-  <meta property="og:description" content=""><meta property="og:image" content="https://copenlu.github.io/people/shailza/featured.jpg">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2021_csl_debruyne/">
+  <meta property="og:title" content="Joint Emotion Label Space Modelling for Affect Lexica | CopeNLU">
+  <meta property="og:description" content="Emotion lexica are commonly used resources to combat data poverty in automatic emotion detection. However, methodological issues emerge when employing them: lexica are often not very extensive, and the way they are constructed can vary widely -- from lab conditions to crowdsourced approaches and distant supervision. Furthermore, both categorical frameworks and dimensional frameworks coexist, in which theorists provide many different sets of categorical labels or dimensional axes. The heterogenous nature of the resulting emotion detection resources results in a need for a unified approach to utilising them. This paper contributes to the field of emotion analysis in NLP by a) presenting the first study to unify existing emotion detection resources automatically and thus learn more about the relationships between them; b) exploring the use of existing lexica for the above-mentioned task; c) presenting an approach to automatically combining emotion lexica, namely by a multi-view variational auto-encoder (VAE), which facilitates the mapping of datasets into a joint emotion label space. We test the utility of joint emotion lexica by using them as additional features in state-of-the art emotion detection models. Our overall findings are that emotion lexica can offer complementary information to even extremely large pre-trained models such as BERT. The performance of our models is comparable to state-of-the art models that are specifically engineered for certain datasets, and even outperform the state-of-the art on four datasets."><meta property="og:image" content="https://copenlu.github.io/publication/2021_csl_debruyne/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-01-26T17:07:01&#43;01:00">
+  <meta property="article:published_time" content="2021-06-16T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2017-01-26T17:07:01&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2021-06-16T00:00:00&#43;02:00">
   
 
   
 
-  <title>Shailza Jolly | CopeNLU</title>
+  
+
+  <title>Joint Emotion Label Space Modelling for Affect Lexica | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,8 +346,7 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
@@ -362,180 +361,49 @@
 
 
 
-
-<div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/people/shailza/featured_hud0b8a0554d8b6a3b46031072dcca1244_554225_800x0_resize_q75_box.jpg');"></div>
   
-</div>
 
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Joint Emotion Label Space Modelling for Affect Lexica</h1>
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">Shailza Jolly</h1>
+  
 
-        
-
-        
+  
+    
 
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
   
-
-  <span class="article-date">
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/luna-de-bruyne/">Luna De Bruyne</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
     
-    <meta content="2017-01-26 17:07:01 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2017-01-26 17:07:01 &#43;0100 CET" itemprop="dateModified">
-      26 Jan 2017
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  <a class="btn btn-outline-primary my-1" href="https://shailzajolly.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Shailza%20Jolly&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f&amp;title=Shailza%20Jolly"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f&amp;title=Shailza%20Jolly"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Shailza%20Jolly&amp;body=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/people/shailza/featured_hud0b8a0554d8b6a3b46031072dcca1244_554225_680x500_fill_q90_box_smart1.jpg" itemprop="image" alt="">
-        
-      </div>
-    </div>
   </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Shailza Jolly</h1>
-
-  
-
-  
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
   
 
   <span class="article-date">
     
-    <meta content="2017-01-26 17:07:01 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2017-01-26 17:07:01 &#43;0100 CET" itemprop="dateModified">
-      26 Jan 2017
+    <meta content="2021-06-16 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2021-06-16 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      16 Jun 2021
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -555,35 +423,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Shailza%20Jolly&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f"
+         href="https://twitter.com/intent/tweet?text=Joint%20Emotion%20Label%20Space%20Modelling%20for%20Affect%20Lexica&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_csl_debruyne%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_csl_debruyne%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f&amp;title=Shailza%20Jolly"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_csl_debruyne%2f&amp;title=Joint%20Emotion%20Label%20Space%20Modelling%20for%20Affect%20Lexica"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f&amp;title=Shailza%20Jolly"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_csl_debruyne%2f&amp;title=Joint%20Emotion%20Label%20Space%20Modelling%20for%20Affect%20Lexica"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Shailza%20Jolly&amp;body=https%3a%2f%2fcopenlu.github.io%2fpeople%2fshailza%2f">
+         href="mailto:?subject=Joint%20Emotion%20Label%20Space%20Modelling%20for%20Affect%20Lexica&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2021_csl_debruyne%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -595,6 +463,13 @@
 
 </div>
 
+    
+
+
+
+
+
+
 
   
 
@@ -603,20 +478,12 @@
 
 
 
-
   
-
-
-
-
-
 
 
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="https://shailzajolly.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
-  
   
 
 
@@ -626,13 +493,30 @@
 
 
   
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/abs/1911.08782" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2021_csl_debruyne/cite.bib">
+  Cite
+</button>
 
 
 
 
 
-
-
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/limited-data/">
+    Project
+  </a>
+  
 
 
 
@@ -647,71 +531,99 @@
 </div>
 
 
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Emotion lexica are commonly used resources to combat data poverty in automatic emotion detection. However, methodological issues emerge when employing them: lexica are often not very extensive, and the way they are constructed can vary widely &ndash; from lab conditions to crowdsourced approaches and distant supervision. Furthermore, both categorical frameworks and dimensional frameworks coexist, in which theorists provide many different sets of categorical labels or dimensional axes. The heterogenous nature of the resulting emotion detection resources results in a need for a unified approach to utilising them. This paper contributes to the field of emotion analysis in NLP by a) presenting the first study to unify existing emotion detection resources automatically and thus learn more about the relationships between them; b) exploring the use of existing lexica for the above-mentioned task; c) presenting an approach to automatically combining emotion lexica, namely by a multi-view variational auto-encoder (VAE), which facilitates the mapping of datasets into a joint emotion label space. We test the utility of joint emotion lexica by using them as additional features in state-of-the art emotion detection models. Our overall findings are that emotion lexica can offer complementary information to even extremely large pre-trained models such as BERT. The performance of our models is comparable to state-of-the art models that are specifically engineered for certain datasets, and even outperform the state-of-the art on four datasets.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
-
+    <div class="d-md-none space-below"></div>
     
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/alumni/">Alumni</a>
-  
-</div>
-
-
-
     
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/people/yova/">Yova Kementchedjhieva</a></li>
-        
-        <li><a href="/people/ana/">Ana Valeria González</a></li>
-        
-        <li><a href="/people/andrea/">Andrea Lekkas</a></li>
-        
-        <li><a href="/people/johannes/">Johannes Bjerva</a></li>
-        
-        <li><a href="/people/liesbeth/">Liesbeth Allein</a></li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Computer Speech and Language</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            June, 2021
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
+
+
+
     
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
 
 
   </div>
-</article>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">
