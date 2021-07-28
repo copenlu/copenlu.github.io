@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_rogers/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Joint Emotion Label Space Modelling for Affect Lexica</title>
       <link>https://copenlu.github.io/publication/2021_csl_debruyne/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
@@ -151,15 +160,6 @@ The tutorial introduces the concepts of &amp;lsquo;model understanding&amp;rsquo
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_arxiv_holm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Sense Language Modelling</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_lekkas/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_lekkas/</guid>
       <description></description>
     </item>
     
