@@ -10,6 +10,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>3 Papers Accepted to EMNLP 2021</title>
+      <link>https://copenlu.github.io/talk/2021_08_emnlp/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_08_emnlp/</guid>
+      <description>&lt;p&gt;3 papers by CopeNLU authors are accepted to appear at EMNLP 2021. The topics of these include stance detection, exaggeration detection, and counterfactually augmented data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_emlnp_hardalov/&#34;&gt;Cross-Domain Label-Adaptive Stance Detection&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/momchil-hardalov&#34;&gt;Momchil Hardalov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/preslav-nakov/&#34;&gt;Preslav Nakov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_emlnp_sen/&#34;&gt;How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/indira-sen/&#34;&gt;Indira Sen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/mattia-samory /&#34;&gt;Mattia Samory&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/fabian-flöck/&#34;&gt; Fabian Flöck&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/claudia-wagner/&#34;&gt;Claudia Wagner&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_emlnp_wright/&#34;&gt;Semi-Supervised Exaggeration Detection of Health Science Press Releases&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Label-Adaptive Stance Detection</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_hardalov/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_sen/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Exaggeration Detection of Health Science Press Releases</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_wright/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
       <link>https://copenlu.github.io/publication/2021_arxiv_rogers/</link>
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0200</pubDate>
@@ -111,55 +157,11 @@
     </item>
     
     <item>
-      <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_rethmeier/</link>
-      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_sarwar/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_arxiv_rethmeier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ALPS 2021 tutorial &#39;Explainability for NLP&#39;</title>
-      <link>https://copenlu.github.io/post/explainability_tutorial/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/post/explainability_tutorial/</guid>
-      <description>&lt;p&gt;We gave a tutorial on &amp;lsquo;Explainability for NLP&amp;rsquo; at the first ALPS (Advanced Language Processing) winter school: &lt;a href=&#34;http://lig-alps.imag.fr/index.php/schedule/&#34; target=&#34;_blank&#34;&gt;http://lig-alps.imag.fr/index.php/schedule/&lt;/a&gt;
-The tutorial introduces the concepts of &amp;lsquo;model understanding&amp;rsquo; as well as &amp;lsquo;decision understanding&amp;rsquo; and provides examples of approaches from the areas of fact checking and text classification.&lt;/p&gt;
-
-&lt;p&gt;Exercises for both model understanding and decision understanding are available here: &lt;a href=&#34;https://github.com/copenlu/ALPS_2021&#34; target=&#34;_blank&#34;&gt;https://github.com/copenlu/ALPS_2021&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does Typological Blinding Impede Cross-Lingual Sharing?</title>
-      <link>https://copenlu.github.io/publication/2021_eacl_bjerva/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_eacl_bjerva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper Accepted to EACL 2021</title>
-      <link>https://copenlu.github.io/talk/2021_01_eacl/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2021_01_eacl/</guid>
-      <description>&lt;p&gt;A paper by CopeNLU author is accepted to appear at EACL 2021. The paper aims to bridge the gap between high- and low-resource languages by investigating to what degree cross-lingual models share structural information about languages.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_EACL_Bjerva/&#34;&gt;Does Typological Blinding Impede Cross-Lingual Sharing?&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/johannes-bjerva/&#34;&gt;Johannes Bjerva&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_holm/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_holm/</guid>
+      <guid>https://copenlu.github.io/publication/2021_arxiv_sarwar/</guid>
       <description></description>
     </item>
     

@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>Cross-Domain Label-Adaptive Stance Detection</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_hardalov/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_sen/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Exaggeration Detection of Health Science Press Releases</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_wright/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
       <link>https://copenlu.github.io/publication/2021_arxiv_rogers/</link>
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0200</pubDate>
@@ -80,6 +107,33 @@
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_arxiv_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_sarwar/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_sarwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_hardalov_survey/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_hardalov_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Abusive Language on Online Platforms: A Critical Analysis</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_nakov_survey/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_nakov_survey/</guid>
       <description></description>
     </item>
     

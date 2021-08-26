@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>3 Papers Accepted to EMNLP 2021</title>
+      <link>https://copenlu.github.io/talk/2021_08_emnlp/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_08_emnlp/</guid>
+      <description>3 papers by CopeNLU authors are accepted to appear at EMNLP 2021. The topics of these include stance detection, exaggeration detection, and counterfactually augmented data.
+Cross-Domain Label-Adaptive Stance Detection. Momchil Hardalov, Arnav Arora, Preslav Nakov, Isabelle Augenstein. In Proceedings of EMNLP.
+How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?. Indira Sen, Mattia Samory, Fabian Flöck, Claudia Wagner, Isabelle Augenstein. In Proceedings of EMNLP.
+Semi-Supervised Exaggeration Detection of Health Science Press Releases.</description>
+    </item>
+    
+    <item>
       <title>Paper Accepted to IJCAI 2021</title>
       <link>https://copenlu.github.io/talk/2021_04_ijcai/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>

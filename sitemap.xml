@@ -4,6 +4,38 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/talk/2021_08_emnlp/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_emlnp_hardalov/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_emlnp_sen/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_emlnp_wright/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2021_arxiv_rogers/</loc>
       <lastmod>2021-07-27T00:00:00+02:00</lastmod>
     </url>
@@ -78,6 +110,30 @@
     
       <loc>https://copenlu.github.io/talk/2021_04_acl/</loc>
       <lastmod>2021-04-05T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_arxiv_sarwar/</loc>
+      <lastmod>2021-03-31T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_arxiv_hardalov_survey/</loc>
+      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2021_arxiv_nakov_survey/</loc>
+      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -948,7 +1004,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2021-05-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1055,6 +1111,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/ameya-bhatawdekar/</loc>
+      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/ana-v.-gonz%C3%A1lez-gardu%C3%B1o-/</loc>
       <lastmod>2018-10-31T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1137,7 +1202,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/arnav-arora/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1260,8 +1325,26 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/claudia-wagner/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/dimitrina-zlatkova/</loc>
+      <lastmod>2021-03-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1297,7 +1380,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dustin-wright/</loc>
-      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1352,6 +1435,15 @@
     
       <loc>https://copenlu.github.io/authors/eva-blomqvist/</loc>
       <lastmod>2017-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/fabian-fl%C3%B6ck/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1422,6 +1514,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/guillaume-bouchard/</loc>
+      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/hanna-wallach/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1449,8 +1550,17 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/indira-sen/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2021-07-27T00:00:00+02:00</lastmod>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1550,6 +1660,15 @@
     
       <loc>https://copenlu.github.io/authors/kris-cao/</loc>
       <lastmod>2018-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/kyle-dent/</loc>
+      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1710,6 +1829,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/mattia-samory/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/tags/members/</loc>
       <lastmod>2019-01-20T17:07:01+01:00</lastmod>
       <priority>0</priority>
@@ -1730,6 +1858,15 @@
     
       <loc>https://copenlu.github.io/authors/miryam-de-lhoneux/</loc>
       <lastmod>2018-10-30T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/momchil-hardalov/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1854,6 +1991,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/preslav-nakov/</loc>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/project/</loc>
       <lastmod>2020-08-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1864,7 +2010,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2021-05-30T00:00:00+02:00</lastmod>
+      <lastmod>2021-08-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1937,6 +2083,15 @@
     
       <loc>https://copenlu.github.io/authors/sebastian-ruder/</loc>
       <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/sheikh-muhammad-sarwar/</loc>
+      <lastmod>2021-03-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2079,6 +2234,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/vibha-nayak/</loc>
+      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/victor-petr%C3%A9n-bach-hansen/</loc>
       <lastmod>2019-08-12T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -2135,6 +2299,15 @@
     
       <loc>https://copenlu.github.io/authors/yevgeniy-golovchenko/</loc>
       <lastmod>2019-08-13T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/yoan-dinkov/</loc>
+      <lastmod>2021-03-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

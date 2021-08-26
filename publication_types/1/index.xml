@@ -6,10 +6,37 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cross-Domain Label-Adaptive Stance Detection</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_hardalov/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_sen/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Exaggeration Detection of Health Science Press Releases</title>
+      <link>https://copenlu.github.io/publication/2021_emlnp_wright/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_emlnp_wright/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Determining the Credibility of Science Communication</title>
