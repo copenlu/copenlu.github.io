@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2021_jws_allein/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_jws_allein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3 Papers Accepted to EMNLP 2021</title>
       <link>https://copenlu.github.io/talk/2021_08_emnlp/</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
@@ -66,10 +75,10 @@
     
     <item>
       <title>Joint Emotion Label Space Modelling for Affect Lexica</title>
-      <link>https://copenlu.github.io/publication/2021_csl_debruyne/</link>
+      <link>https://copenlu.github.io/publication/2022_csl_debruyne/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_csl_debruyne/</guid>
+      <guid>https://copenlu.github.io/publication/2022_csl_debruyne/</guid>
       <description></description>
     </item>
     
@@ -154,15 +163,6 @@
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_acl_wright_citeworth/&#34;&gt;CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_sarwar/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_sarwar/</guid>
-      <description></description>
     </item>
     
   </channel>

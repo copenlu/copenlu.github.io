@@ -6,10 +6,19 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2021_jws_allein/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_jws_allein/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-Domain Label-Adaptive Stance Detection</title>
@@ -49,10 +58,10 @@
     
     <item>
       <title>Joint Emotion Label Space Modelling for Affect Lexica</title>
-      <link>https://copenlu.github.io/publication/2021_csl_debruyne/</link>
+      <link>https://copenlu.github.io/publication/2022_csl_debruyne/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_csl_debruyne/</guid>
+      <guid>https://copenlu.github.io/publication/2022_csl_debruyne/</guid>
       <description></description>
     </item>
     
@@ -269,15 +278,6 @@
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_allein/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_allein/</guid>
       <description></description>
     </item>
     
