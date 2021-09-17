@@ -6,10 +6,19 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diagnostics-Guided Explanation Generation</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_atanasova/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_atanasova/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Joint Emotion Label Space Modelling for Affect Lexica</title>

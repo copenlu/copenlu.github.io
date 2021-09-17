@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Diagnostics-Guided Explanation Generation</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_atanasova/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_atanasova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EXPANSE Project Kick-Off</title>
       <link>https://copenlu.github.io/talk/2021_09_people/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0200</pubDate>
@@ -150,24 +168,6 @@
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_ijcai_ostrowski/&#34;&gt;Multi-Hop Fact Checking of Political Claims&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/wojciech-ostrowski/&#34;&gt;Wojciech Ostrowski&lt;/a&gt;,  &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Multi-Hop Fact Checking of Political Claims</title>
-      <link>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_stanczak/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_stanczak/</guid>
-      <description></description>
     </item>
     
   </channel>
