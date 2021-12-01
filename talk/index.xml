@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>2 Papers Accepted to AAAI 2022</title>
+      <link>https://copenlu.github.io/talk/2021_12_aaai/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2021_12_aaai/</guid>
+      <description>2 papers by CopeNLU authors are accepted to appear at AAAI 2022. One paper is on explanation generation, demonstrating how directly optimising for diagnostic properties of explanations, such as faithfulness, data consistency and confidence indication, can improve explanation quality. The other paper presents the most comprehensive study of cross-lingual stance detection to date, and proposes methods for learning with limited labelled data across languages and domains.
+Diagnostics-Guided Explanation Generation. Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
       <title>EXPANSE Project Kick-Off</title>
       <link>https://copenlu.github.io/talk/2021_09_people/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0200</pubDate>

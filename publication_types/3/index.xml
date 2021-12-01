@@ -6,28 +6,10 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Diagnostics-Guided Explanation Generation</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_atanasova/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_atanasova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>

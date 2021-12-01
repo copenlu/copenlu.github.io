@@ -13,19 +13,28 @@
     
     <item>
       <title>Diagnostics-Guided Explanation Generation</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_atanasova/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
+      <link>https://copenlu.github.io/publication/2022_aaai_atanasova/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_arxiv_atanasova/</guid>
+      <guid>https://copenlu.github.io/publication/2022_aaai_atanasova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0200</pubDate>
+      <link>https://copenlu.github.io/publication/2022_aaai_hardalov/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</guid>
+      <guid>https://copenlu.github.io/publication/2022_aaai_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence</title>
+      <link>https://copenlu.github.io/publication/2021_if_holzinger/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_if_holzinger/</guid>
       <description></description>
     </item>
     

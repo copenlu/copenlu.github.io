@@ -10,20 +10,45 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Diagnostics-Guided Explanation Generation</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_atanasova/</link>
-      <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
+      <title>2 Papers Accepted to AAAI 2022</title>
+      <link>https://copenlu.github.io/talk/2021_12_aaai/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_arxiv_atanasova/</guid>
+      <guid>https://copenlu.github.io/talk/2021_12_aaai/</guid>
+      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at AAAI 2022. One paper is on explanation generation, demonstrating how directly optimising for diagnostic properties of explanations, such as faithfulness, data consistency and confidence indication, can improve explanation quality. The other paper presents the most comprehensive study of cross-lingual stance detection to date, and proposes methods for learning with limited labelled data across languages and domains.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_aaai_atanasova/&#34;&gt;Diagnostics-Guided Explanation Generation&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_aaai_hardalov/&#34;&gt;Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/momchil-hardalov/&#34;&gt;Momchil Hardalov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/preslav-nakov/&#34;&gt;Preslav Nakov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagnostics-Guided Explanation Generation</title>
+      <link>https://copenlu.github.io/publication/2022_aaai_atanasova/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_aaai_atanasova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0200</pubDate>
+      <link>https://copenlu.github.io/publication/2022_aaai_hardalov/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_arxiv_hardalov_xling/</guid>
+      <guid>https://copenlu.github.io/publication/2022_aaai_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence</title>
+      <link>https://copenlu.github.io/publication/2021_if_holzinger/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_if_holzinger/</guid>
       <description></description>
     </item>
     
@@ -146,28 +171,6 @@
       
       <guid>https://copenlu.github.io/publication/2021_acl_wright_citeworth/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Is Sparse Attention more Interpretable?</title>
-      <link>https://copenlu.github.io/publication/2021_acl_meister_sparse/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_acl_meister_sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper Accepted to IJCAI 2021</title>
-      <link>https://copenlu.github.io/talk/2021_04_ijcai/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2021_04_ijcai/</guid>
-      <description>&lt;p&gt;A paper by CopeNLU author is accepted to appear at IJCAI 2021. The paper studies how to perform complex claim verification on naturally occurring political claims with multiple hops over evidence chunks.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_ijcai_ostrowski/&#34;&gt;Multi-Hop Fact Checking of Political Claims&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/wojciech-ostrowski/&#34;&gt;Wojciech Ostrowski&lt;/a&gt;,  &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
