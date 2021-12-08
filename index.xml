@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
+      <link>https://copenlu.github.io/publication/2022_sdu_holm/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_sdu_holm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence</title>
       <link>https://copenlu.github.io/publication/2021_if_holzinger/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_sdp_augenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inducing Language-Agnostic Multilingual Representations</title>
-      <link>https://copenlu.github.io/publication/2021_sem_zhao/</link>
-      <pubDate>Sat, 29 May 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_sem_zhao/</guid>
       <description></description>
     </item>
     

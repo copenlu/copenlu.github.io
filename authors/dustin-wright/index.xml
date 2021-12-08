@@ -6,10 +6,19 @@
     <description>Recent content in Dustin Wright on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/dustin-wright/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
+      <link>https://copenlu.github.io/publication/2022_sdu_holm/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_sdu_holm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semi-Supervised Exaggeration Detection of Health Science Press Releases</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 06 May 2021 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_acl_wright_citeworth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
-      <link>https://copenlu.github.io/publication/2020_arxiv_holm/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2020_arxiv_holm/</guid>
       <description></description>
     </item>
     
