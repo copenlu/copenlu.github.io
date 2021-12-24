@@ -6,17 +6,26 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://copenlu.github.io/publication/2022_tacl_sarwar/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_tacl_sarwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence</title>
-      <link>https://copenlu.github.io/publication/2021_if_holzinger/</link>
+      <link>https://copenlu.github.io/publication/2022_if_holzinger/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_if_holzinger/</guid>
+      <guid>https://copenlu.github.io/publication/2022_if_holzinger/</guid>
       <description></description>
     </item>
     

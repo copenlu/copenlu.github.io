@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shailza Jolly on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/shailza-jolly/</link>
+    <description>Recent content in Shailza Jolly on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/shailza-jolly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_jolly/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_jolly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
