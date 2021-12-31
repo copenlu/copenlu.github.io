@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>A Survey on Gender Bias in Natural Language Processing</title>
+      <link>https://copenlu.github.io/publication/2021_arxiv_stanczak_survey/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_arxiv_stanczak_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diagnostics-Guided Explanation Generation</title>
       <link>https://copenlu.github.io/publication/2022_aaai_atanasova/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_emlnp_sen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-Supervised Exaggeration Detection of Health Science Press Releases</title>
-      <link>https://copenlu.github.io/publication/2021_emlnp_wright/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_emlnp_wright/</guid>
       <description></description>
     </item>
     
