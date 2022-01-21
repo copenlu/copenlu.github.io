@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2022_arxiv_stanczak/</loc>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2021_12_aaai/</loc>
       <lastmod>2021-12-01T00:00:00+01:00</lastmod>
     </url>
@@ -1118,7 +1126,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1137,6 +1145,15 @@
     
       <loc>https://copenlu.github.io/tags/academic/</loc>
       <lastmod>2019-02-02T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/adina-williams/</loc>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1324,7 +1341,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/</loc>
-      <lastmod>2020-09-13T00:00:00+02:00</lastmod>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1683,7 +1700,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1773,7 +1790,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/karolina-sta%C5%84czak/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1846,6 +1863,15 @@
     
       <loc>https://copenlu.github.io/authors/lucas-chaves-lima/</loc>
       <lastmod>2020-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/lucas-torroba-hennigen/</loc>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2205,7 +2231,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/ryan-cotterell/</loc>
-      <lastmod>2021-05-06T00:00:00+02:00</lastmod>
+      <lastmod>2022-01-21T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

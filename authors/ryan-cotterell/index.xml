@@ -6,10 +6,19 @@
     <description>Recent content in Ryan Cotterell on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/ryan-cotterell/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Latent-Variable Model for Intrinsic Probing</title>
+      <link>https://copenlu.github.io/publication/2022_arxiv_stanczak/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_arxiv_stanczak/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Sparse Attention more Interpretable?</title>
