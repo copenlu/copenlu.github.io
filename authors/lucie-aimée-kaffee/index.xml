@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucie-Aimée Kaffee on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/</link>
+    <description>Recent content in Lucie-Aimée Kaffee on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</title>
+      <link>https://copenlu.github.io/publication/2022_arxiv_arora/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_arxiv_arora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

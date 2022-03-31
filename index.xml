@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</title>
+      <link>https://copenlu.github.io/publication/2022_arxiv_arora/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_arxiv_arora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Scientific Claims for Zero-Shot Scientific Fact Checking</title>
+      <link>https://copenlu.github.io/publication/2022_acl_wright/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_acl_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
       <link>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0100</pubDate>
@@ -142,34 +160,6 @@
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.co.uk/citations?user=4Lv9jRIAAAAJ&#34;&gt;Nodens Koren&lt;/a&gt; (PhD Student), who is interested in natural language understanding, explainability, and bio-inspired models.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=uDM-PC0AAAAJ&#34;&gt;Nadav Borenstein&lt;/a&gt; (PhD Student), whose research interests include improving the trustworthiness and usefulness of deep models in the NLP domain.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Time-Aware Evidence Ranking for Fact-Checking</title>
-      <link>https://copenlu.github.io/publication/2021_jws_allein/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_jws_allein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3 Papers Accepted to EMNLP 2021</title>
-      <link>https://copenlu.github.io/talk/2021_08_emnlp/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2021_08_emnlp/</guid>
-      <description>&lt;p&gt;3 papers by CopeNLU authors are accepted to appear at EMNLP 2021. The topics of these include stance detection, exaggeration detection, and counterfactually augmented data.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_emlnp_hardalov/&#34;&gt;Cross-Domain Label-Adaptive Stance Detection&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/momchil-hardalov&#34;&gt;Momchil Hardalov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/preslav-nakov/&#34;&gt;Preslav Nakov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_emlnp_sen/&#34;&gt;How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/indira-sen/&#34;&gt;Indira Sen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/mattia-samory /&#34;&gt;Mattia Samory&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/fabian-flöck/&#34;&gt; Fabian Flöck&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/claudia-wagner/&#34;&gt;Claudia Wagner&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2021_emlnp_wright/&#34;&gt;Semi-Supervised Exaggeration Detection of Health Science Press Releases&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. In Proceedings of EMNLP.&lt;/p&gt;
 </description>
     </item>
     
