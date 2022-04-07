@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Fact Checking with Insufficient Evidence</title>
+      <link>https://copenlu.github.io/publication/2022_tacl_atanasova/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_tacl_atanasova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</title>
       <link>https://copenlu.github.io/publication/2022_arxiv_arora/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0200</pubDate>
@@ -140,27 +149,6 @@
       
       <guid>https://copenlu.github.io/publication/2022_if_holzinger/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>EXPANSE Project Kick-Off</title>
-      <link>https://copenlu.github.io/talk/2021_09_people/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2021_09_people/</guid>
-      <description>&lt;p&gt;On 1 September 2021, the DFF Sapere Aude project EXPANSE on &amp;lsquo;Learning to Explain Attitudes on Social Media&amp;rsquo; is officially kicking off. Sapere Aude is a program by the &lt;a href=&#34;https://dff.dk/en&#34;&gt;Independent Research Fund Denmark (DFF)&lt;/a&gt; to support the most talented younger researchers in Denmark with funding for blue-skies research to build up or expand their research groups.&lt;/p&gt;
-
-&lt;p&gt;The EXPANSE project will study attitudes voiced on social media, examining what is said, and explaining it by examining why, how and by whom attitudes are stated. Currently, the only criterion commonly taken into account when researching and developing not just such stance detection, but Natural Language Processing models in general, is predictive performance, e.g. how well models can predict labels such as ‘positive’, ‘negative’ or ‘neutral’. This does not provide any insights into why and how models arrive at certain predictions, which is crucial for utilising predictions for decision making. By contrast, EXPANSE will examine explainability as a success criterion, in an interdisciplinary approach which combines Natural Language Processing research with sociological theories.&lt;/p&gt;
-
-&lt;p&gt;The following &lt;a href=&#34;www.copenlu.com/#people&#34;&gt;researchers&lt;/a&gt; affiliated with the EXPANSE project will join CopeNLU on 1 September 2021:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.uk/citations?user=63BfrxMAAAAJ&#34;&gt;Erik Arakeylan&lt;/a&gt; (PhD Student), whose main research interests are question answering and explainability.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://luciekaffee.github.io/&#34;&gt;Lucie-Aimée Kaffee&lt;/a&gt; (Postdoc), whose research interests include supporting lower-resourced language communities (including Wikipedia and Wikidata) with NLP, and multilingual knowledge graphs.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.uk/citations?user=4Lv9jRIAAAAJ&#34;&gt;Nodens Koren&lt;/a&gt; (PhD Student), who is interested in natural language understanding, explainability, and bio-inspired models.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=uDM-PC0AAAAJ&#34;&gt;Nadav Borenstein&lt;/a&gt; (PhD Student), whose research interests include improving the trustworthiness and usefulness of deep models in the NLP domain.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
