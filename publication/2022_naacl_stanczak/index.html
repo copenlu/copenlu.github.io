@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="The success of multilingual pre-trained models is underpinned by their ability to learn representations shared by multiple languages even in absence of any explicit supervision. However, it remains unclear how these models learn to generalise across languages. In this work, we conjecture that multilingual pre- trained models can derive language-universal abstractions about grammar. In particular, we investigate whether morphosyntactic information is encoded in the same subset of neurons in different languages. We conduct the first large-scale empirical study over 43 languages and 14 morphosyntactic categories with a state-of-the-art neuron-level probe. Our findings show that the cross-lingual overlap between neurons is significant, but its extent may vary across categories and depends on language proximity and pre-training data size.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/authors/karolina-sta%C5%84czak/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2022_naacl_stanczak/">
 
   
 
@@ -97,15 +97,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/authors/karolina-sta%C5%84czak/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/authors/karolina-sta%C5%84czak/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/authors/karolina-sta%C5%84czak/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2022_naacl_stanczak/">
 
   
   
@@ -119,19 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/authors/karolina-sta%C5%84czak/">
-  <meta property="og:title" content="Karolina Stańczak | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2022_naacl_stanczak/">
+  <meta property="og:title" content="Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models | CopeNLU">
+  <meta property="og:description" content="The success of multilingual pre-trained models is underpinned by their ability to learn representations shared by multiple languages even in absence of any explicit supervision. However, it remains unclear how these models learn to generalise across languages. In this work, we conjecture that multilingual pre- trained models can derive language-universal abstractions about grammar. In particular, we investigate whether morphosyntactic information is encoded in the same subset of neurons in different languages. We conduct the first large-scale empirical study over 43 languages and 14 morphosyntactic categories with a state-of-the-art neuron-level probe. Our findings show that the cross-lingual overlap between neurons is significant, but its extent may vary across categories and depends on language proximity and pre-training data size."><meta property="og:image" content="https://copenlu.github.io/publication/2022_naacl_stanczak/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2022-05-04T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2022-05-04T00:00:00&#43;02:00">
+  
+  <meta property="article:modified_time" content="2022-05-04T00:00:00&#43;02:00">
   
 
   
 
   
 
-  <title>Karolina Stańczak | CopeNLU</title>
+  <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -344,7 +346,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
+  
 
 
 
@@ -361,54 +365,274 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/karolina-sta%C5%84czak/">Karolina Stańczak</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/edoardo-ponti/">Edoardo Ponti</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/lucas-torroba-hennigen/">Lucas Torroba Hennigen</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/ryan-cotterell/">Ryan Cotterell</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2022-05-04 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2022-05-04 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      4 May 2022
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Same%20Neurons%2c%20Different%20Languages%3a%20Probing%20Morphosyntax%20in%20Multilingual%20Pre-trained%20Models&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_naacl_stanczak%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_naacl_stanczak%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_naacl_stanczak%2f&amp;title=Same%20Neurons%2c%20Different%20Languages%3a%20Probing%20Morphosyntax%20in%20Multilingual%20Pre-trained%20Models"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_naacl_stanczak%2f&amp;title=Same%20Neurons%2c%20Different%20Languages%3a%20Probing%20Morphosyntax%20in%20Multilingual%20Pre-trained%20Models"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Same%20Neurons%2c%20Different%20Languages%3a%20Probing%20Morphosyntax%20in%20Multilingual%20Pre-trained%20Models&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_naacl_stanczak%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Karolina Stańczak</h1>
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2205.02023" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2022_naacl_stanczak/cite.bib">
+  Cite
+</button>
+
+
+
+
 
   
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/gender-bias/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<section id="about" class="home-section">
-  <div class="container">
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">The success of multilingual pre-trained models is underpinned by their ability to learn representations shared by multiple languages even in absence of any explicit supervision. However, it remains unclear how these models learn to generalise across languages. In this work, we conjecture that multilingual pre- trained models can derive language-universal abstractions about grammar. In particular, we investigate whether morphosyntactic information is encoded in the same subset of neurons in different languages. We conduct the first large-scale empirical study over 43 languages and 14 morphosyntactic categories with a state-of-the-art neuron-level probe. Our findings show that the cross-lingual overlap between neurons is significant, but its extent may vary across categories and depends on language proximity and pre-training data size.</p>
     
+
     
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_naacl_stanczak/">Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_arxiv_stanczak/">A Latent-Variable Model for Intrinsic Probing</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2021_arxiv_stanczak_survey/">A Survey on Gender Bias in Natural Language Processing</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2021_arxiv_marjanovic/">Quantifying Gender Biases Towards Politicians on Reddit</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2021_arxiv_stanczak/">Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT 2022)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            May, 2022
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
+
 
 
 <div class="container">

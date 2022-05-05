@@ -10,6 +10,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_hardalov/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_sen/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_stanczak/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fact Checking with Insufficient Evidence</title>
       <link>https://copenlu.github.io/publication/2022_tacl_atanasova/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0200</pubDate>
@@ -121,33 +148,6 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_arxiv_marjanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contrastive Text Pretraining for Zero to Few-Shot Long-Tail Learning</title>
-      <link>https://copenlu.github.io/publication/2022_aibsd_rethmeier/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_aibsd_rethmeier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
-      <link>https://copenlu.github.io/publication/2022_sdu_holm/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_sdu_holm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence</title>
-      <link>https://copenlu.github.io/publication/2022_if_holzinger/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_if_holzinger/</guid>
       <description></description>
     </item>
     

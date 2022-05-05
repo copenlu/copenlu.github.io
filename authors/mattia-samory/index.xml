@@ -6,10 +6,19 @@
     <description>Recent content in Mattia Samory on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/mattia-samory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_sen/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_sen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?</title>

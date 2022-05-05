@@ -6,10 +6,37 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_hardalov/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_hardalov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_sen/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
+      <link>https://copenlu.github.io/publication/2022_naacl_stanczak/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_naacl_stanczak/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fact Checking with Insufficient Evidence</title>
@@ -242,15 +269,6 @@
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_arxiv_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_hardalov_survey/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_hardalov_survey/</guid>
       <description></description>
     </item>
     
