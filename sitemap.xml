@@ -828,6 +828,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/project/gender-bias/</loc>
+      <lastmod>2018-04-26T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2018_ipm_zubiaga/</loc>
       <lastmod>2018-03-01T00:00:00+01:00</lastmod>
     </url>
@@ -918,6 +926,22 @@
     
       <loc>https://copenlu.github.io/publication/2017_semeval_kochkina/</loc>
       <lastmod>2017-06-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/project/multilingual-learning/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/project/scholarly-data/</loc>
+      <lastmod>2017-04-26T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -1100,32 +1124,8 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/project/multilingual-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/project/question-answering/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/project/gender-bias/</loc>
-      <lastmod>2016-04-26T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/project/scholarly-data/</loc>
-      <lastmod>2016-04-26T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -2710,7 +2710,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/gender-bias/</loc>
-      <lastmod>2016-04-26T00:00:00+02:00</lastmod>
+      <lastmod>2018-04-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

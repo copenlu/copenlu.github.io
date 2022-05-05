@@ -41,13 +41,32 @@ Multi3Generation is a COST Action that funds collaboration of researchers in Eur
     </item>
     
     <item>
+      <title>Gender Bias Detection</title>
+      <link>https://copenlu.github.io/project/gender-bias/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/gender-bias/</guid>
+      <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
+Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
+    </item>
+    
+    <item>
       <title>Multilingual Learning</title>
       <link>https://copenlu.github.io/project/multilingual-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/project/multilingual-learning/</guid>
       <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones. We research methods for enabling information sharing between multiple languages, and also study how to utilise typological knowledge bases to this end. We are currently involved in three larger funded projects on this.
 Multi3Generation is a COST Action that funds collaboration of researchers in Europe and abroad. The project is coordinated by Isabelle Augenstein, and its goals are to study language generation using multi-task, multilingual and multi-modal signals.</description>
+    </item>
+    
+    <item>
+      <title>Scholarly Data Processing</title>
+      <link>https://copenlu.github.io/project/scholarly-data/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/project/scholarly-data/</guid>
+      <description>We are working on studying methods to automatically process scholarly data. This is to assist researchers in finding publications (e.g. by extracting content from papers automatically, which can be used to populate knowledge bases), writing better papers (e.g. by suggesting which sentences need citations, improving peer review), or tracking their impact (e.g. by tracking which papers are highly cited and how this relates to meta-data, such as venues or authors).</description>
     </item>
     
     <item>
@@ -58,25 +77,6 @@ Multi3Generation is a COST Action that funds collaboration of researchers in Eur
       <guid>https://copenlu.github.io/project/question-answering/</guid>
       <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.
 We are currently involved in two funded projects related to this theme: a project on subjectivity in question answering, funded by a faculty research award from Megagon Labs; as well a PhD fellowship grant on conversational question answering for customer support from BotXO, which Ana Valeria Gonzalez works on.</description>
-    </item>
-    
-    <item>
-      <title>Gender Bias Detection</title>
-      <link>https://copenlu.github.io/project/gender-bias/</link>
-      <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/gender-bias/</guid>
-      <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
-Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
-    </item>
-    
-    <item>
-      <title>Scholarly Data Processing</title>
-      <link>https://copenlu.github.io/project/scholarly-data/</link>
-      <pubDate>Tue, 26 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/project/scholarly-data/</guid>
-      <description>We are working on studying methods to automatically process scholarly data. This is to assist researchers in finding publications (e.g. by extracting content from papers automatically, which can be used to populate knowledge bases), writing better papers (e.g. by suggesting which sentences need citations, improving peer review), or tracking their impact (e.g. by tracking which papers are highly cited and how this relates to meta-data, such as venues or authors).</description>
     </item>
     
     <item>
