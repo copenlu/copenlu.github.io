@@ -64,6 +64,24 @@
     </item>
     
     <item>
+      <title>Multi-Sense Language Modelling</title>
+      <link>https://copenlu.github.io/publication/2022_distcurate_lekkas/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_distcurate_lekkas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi3Generation: Multi-task, Multilingual, Multi-Modal Language Generation</title>
+      <link>https://copenlu.github.io/publication/2022_eamt_barreiro/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_eamt_barreiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
       <link>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0100</pubDate>
@@ -130,24 +148,6 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_aaai_hardalov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_jolly/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_jolly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying Gender Biases Towards Politicians on Reddit</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_marjanovic/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_marjanovic/</guid>
       <description></description>
     </item>
     

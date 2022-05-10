@@ -52,6 +52,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2022_distcurate_lekkas/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2022_eamt_barreiro/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</loc>
       <lastmod>2022-02-15T00:00:00+01:00</lastmod>
     </url>
@@ -310,14 +326,6 @@
     
       <loc>https://copenlu.github.io/talk/2021_01_eacl/</loc>
       <lastmod>2021-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2020_arxiv_lekkas/</loc>
-      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -1244,6 +1252,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/albert-gatt/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/alexander-hoyle/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1307,6 +1324,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/anabela-barreiro/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/anders-s%C3%B8gaard/</loc>
       <lastmod>2019-08-12T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1317,7 +1343,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/andrea-lekkas/</loc>
-      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1398,6 +1424,15 @@
     
       <loc>https://copenlu.github.io/authors/</loc>
       <lastmod>2022-01-21T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/aykut-erdem/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1548,6 +1583,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/dimitra-gkatzia/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/dimitrina-zlatkova/</loc>
       <lastmod>2021-12-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1638,6 +1682,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/elena-lloret/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/elizabeth-salesky/</loc>
       <lastmod>2020-09-13T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1674,6 +1727,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/fabio-kepler/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/farhad-nooralahzadeh/</loc>
       <lastmod>2020-09-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -1694,6 +1756,15 @@
     
       <loc>https://copenlu.github.io/authors/frank-emmert-streib/</loc>
       <lastmod>2021-11-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/fran%C3%A7ois-portet/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1773,8 +1844,26 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/helena-moniz/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/hongyuan-mei/</loc>
       <lastmod>2018-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/iacer-calixto/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1793,6 +1882,15 @@
     
       <loc>https://copenlu.github.io/authors/indira-sen/</loc>
       <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/irene-russo/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1865,6 +1963,15 @@
     
       <loc>https://copenlu.github.io/authors/johannes-welbl/</loc>
       <lastmod>2019-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/jos%C3%A9-g.-c.-de-souza/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2052,6 +2159,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/marcin-paprzycki/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/mareike-hartmann/</loc>
       <lastmod>2019-08-13T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -2142,6 +2258,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/mehul-bhatt/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/tags/members/</loc>
       <lastmod>2019-01-20T17:07:01+01:00</lastmod>
       <priority>0</priority>
@@ -2153,6 +2278,15 @@
     
       <loc>https://copenlu.github.io/authors/michal-lukasik/</loc>
       <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/mirela-alhasani/</loc>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2278,7 +2412,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/peter-schneider-kamp/</loc>
-      <lastmod>2020-12-11T00:00:00+01:00</lastmod>
+      <lastmod>2022-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
