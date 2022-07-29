@@ -84,20 +84,20 @@
     </item>
     
     <item>
-      <title>Nodens Koren</title>
-      <link>https://copenlu.github.io/people/nodens/</link>
-      <pubDate>Wed, 09 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/nodens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nadav Borenstein</title>
       <link>https://copenlu.github.io/people/nadav/</link>
       <pubDate>Tue, 08 Jan 2019 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/nadav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thea Rolskov Sloth</title>
+      <link>https://copenlu.github.io/people/thea/</link>
+      <pubDate>Tue, 08 Jan 2019 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/thea/</guid>
       <description></description>
     </item>
     
@@ -125,6 +125,15 @@
       <pubDate>Sun, 14 Jan 2018 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/miryam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nodens Koren</title>
+      <link>https://copenlu.github.io/people/nodens/</link>
+      <pubDate>Sat, 28 Jan 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nodens/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Alumni on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2017 17:07:01 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 17:07:01 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nodens Koren</title>
+      <link>https://copenlu.github.io/people/nodens/</link>
+      <pubDate>Sat, 28 Jan 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nodens/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Klim Zaporojets</title>
