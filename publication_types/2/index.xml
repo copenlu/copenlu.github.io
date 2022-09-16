@@ -6,10 +6,46 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
+      <link>https://copenlu.github.io/publication/2022_csur_rogers/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_csur_rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
+      <link>https://copenlu.github.io/publication/2022_csur_rethmeier/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_csur_rethmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Habilitation Abstract: Towards Explainable Fact Checking</title>
+      <link>https://copenlu.github.io/publication/2022_ki_augenstein/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_ki_augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Gender Biases Towards Politicians on Reddit</title>
+      <link>https://copenlu.github.io/publication/2022_plosone_marjanovic/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_plosone_marjanovic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fact Checking with Insufficient Evidence</title>

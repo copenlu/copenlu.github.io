@@ -6,10 +6,28 @@
     <description>Recent content in Sagnik Ray Choudhury on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/sagnik-ray-choudhury/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?</title>
+      <link>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Reading, Fast and Slow: When Do Models &#39;Understand&#39; Language?</title>
+      <link>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>

@@ -10,6 +10,69 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?</title>
+      <link>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Reading, Fast and Slow: When Do Models &#39;Understand&#39; Language?</title>
+      <link>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
+      <link>https://copenlu.github.io/publication/2022_csur_rogers/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_csur_rogers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
+      <link>https://copenlu.github.io/publication/2022_csur_rethmeier/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_csur_rethmeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Habilitation Abstract: Towards Explainable Fact Checking</title>
+      <link>https://copenlu.github.io/publication/2022_ki_augenstein/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_ki_augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Gender Biases Towards Politicians on Reddit</title>
+      <link>https://copenlu.github.io/publication/2022_plosone_marjanovic/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_plosone_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TempEL: Linking Dynamically Evolving and Newly Emerging Entities</title>
+      <link>https://copenlu.github.io/publication/2022_openreview_zaporojets/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_openreview_zaporojets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
       <link>https://copenlu.github.io/publication/2022_naacl_hardalov/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
@@ -78,76 +141,6 @@
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_eamt_barreiro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Latent-Variable Model for Intrinsic Probing</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_stanczak/</link>
-      <pubDate>Fri, 21 Jan 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2 Papers Accepted to AAAI 2022</title>
-      <link>https://copenlu.github.io/talk/2021_12_aaai/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2021_12_aaai/</guid>
-      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at AAAI 2022. One paper is on explanation generation, demonstrating how directly optimising for diagnostic properties of explanations, such as faithfulness, data consistency and confidence indication, can improve explanation quality. The other paper presents the most comprehensive study of cross-lingual stance detection to date, and proposes methods for learning with limited labelled data across languages and domains.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_aaai_atanasova/&#34;&gt;Diagnostics-Guided Explanation Generation&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_aaai_hardalov/&#34;&gt;Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/momchil-hardalov/&#34;&gt;Momchil Hardalov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/preslav-nakov/&#34;&gt;Preslav Nakov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
-      <link>https://copenlu.github.io/publication/2022_tacl_sarwar/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_tacl_sarwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on Gender Bias in Natural Language Processing</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_stanczak_survey/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_stanczak_survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diagnostics-Guided Explanation Generation</title>
-      <link>https://copenlu.github.io/publication/2022_aaai_atanasova/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_aaai_atanasova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
-      <link>https://copenlu.github.io/publication/2022_aaai_hardalov/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_aaai_hardalov/</guid>
       <description></description>
     </item>
     

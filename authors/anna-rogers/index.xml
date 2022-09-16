@@ -6,17 +6,26 @@
     <description>Recent content in Anna Rogers on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/anna-rogers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_rogers/</link>
-      <pubDate>Tue, 27 Jul 2021 00:00:00 +0200</pubDate>
+      <title>Machine Reading, Fast and Slow: When Do Models &#39;Understand&#39; Language?</title>
+      <link>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2021_arxiv_rogers/</guid>
+      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
+      <link>https://copenlu.github.io/publication/2022_csur_rogers/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_csur_rogers/</guid>
       <description></description>
     </item>
     
