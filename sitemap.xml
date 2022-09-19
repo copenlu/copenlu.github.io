@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2022_neurips_zaporojets/</loc>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</loc>
       <lastmod>2022-09-16T00:00:00+02:00</lastmod>
     </url>
@@ -46,14 +54,6 @@
     
       <loc>https://copenlu.github.io/publication/2022_plosone_marjanovic/</loc>
       <lastmod>2022-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2022_openreview_zaporojets/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -1220,7 +1220,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2022-09-16T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1238,7 +1238,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
+      <lastmod>2022-03-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1587,7 +1587,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/chris-develder/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1965,7 +1965,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2022-09-16T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2028,7 +2028,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/johannes-deleu/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2091,7 +2091,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/klim-zaporojets/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2181,7 +2181,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2541,7 +2541,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2022-09-16T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2712,7 +2712,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/thomas-demeester/</loc>
-      <lastmod>2022-06-22T00:00:00+02:00</lastmod>
+      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

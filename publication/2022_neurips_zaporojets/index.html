@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="In our continuously evolving world, entities change over time and new, previously non-existing or unknown, entities appear. We study how this evolutionary scenario impacts the performance on a well established entity linking (EL) task. For that study, we introduce TempEL, an entity linking dataset that consists of time-stratified English Wikipedia snapshots from 2013 to 2022, from which we collect both anchor mentions of entities, and these target entities’ descriptions. By capturing such temporal aspects, our newly introduced TempEL resource contrasts with currently existing entity linking datasets, which are composed of fixed mentions linked to a single static version of a target Knowledge Base (e.g., Wikipedia 2010 for CoNLL-AIDA). Indeed, for each of our collected temporal snapshots, TempEL contains links to entities that are continual, i.e., occur in all of the years, as well as completely new entities that appear for the first time at some point. Thus, we enable to quantify the performance of current state-of-the-art EL models for: (i) entities that are subject to changes over time in their Knowledge Base descriptions as well as their mentions’ contexts, and (ii) newly created entities that were previously non-existing (e.g., at the time the EL model was trained). Our experimental results show that in terms of temporal performance degradation, (i) continual entities suffer a decrease of up to 4.6% EL accuracy, while (ii) for new entities this accuracy drop is up to 15.4%. This highlights the challenge of the introduced TempEL dataset and opens new research prospects in the area of time-evolving entity disambiguation.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/people/isabelle/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2022_neurips_zaporojets/">
 
   
 
@@ -105,7 +105,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/people/isabelle/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2022_neurips_zaporojets/">
 
   
   
@@ -119,21 +119,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/people/isabelle/">
-  <meta property="og:title" content="Isabelle Augenstein | CopeNLU">
-  <meta property="og:description" content=""><meta property="og:image" content="https://copenlu.github.io/people/isabelle/featured.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2022_neurips_zaporojets/">
+  <meta property="og:title" content="TempEL: Linking Dynamically Evolving and Newly Emerging Entities | CopeNLU">
+  <meta property="og:description" content="In our continuously evolving world, entities change over time and new, previously non-existing or unknown, entities appear. We study how this evolutionary scenario impacts the performance on a well established entity linking (EL) task. For that study, we introduce TempEL, an entity linking dataset that consists of time-stratified English Wikipedia snapshots from 2013 to 2022, from which we collect both anchor mentions of entities, and these target entities’ descriptions. By capturing such temporal aspects, our newly introduced TempEL resource contrasts with currently existing entity linking datasets, which are composed of fixed mentions linked to a single static version of a target Knowledge Base (e.g., Wikipedia 2010 for CoNLL-AIDA). Indeed, for each of our collected temporal snapshots, TempEL contains links to entities that are continual, i.e., occur in all of the years, as well as completely new entities that appear for the first time at some point. Thus, we enable to quantify the performance of current state-of-the-art EL models for: (i) entities that are subject to changes over time in their Knowledge Base descriptions as well as their mentions’ contexts, and (ii) newly created entities that were previously non-existing (e.g., at the time the EL model was trained). Our experimental results show that in terms of temporal performance degradation, (i) continual entities suffer a decrease of up to 4.6% EL accuracy, while (ii) for new entities this accuracy drop is up to 15.4%. This highlights the challenge of the introduced TempEL dataset and opens new research prospects in the area of time-evolving entity disambiguation."><meta property="og:image" content="https://copenlu.github.io/publication/2022_neurips_zaporojets/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-01-20T17:07:01&#43;01:00">
+  <meta property="article:published_time" content="2022-09-19T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2019-01-20T17:07:01&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2022-09-19T00:00:00&#43;02:00">
   
 
   
 
-  <title>Isabelle Augenstein | CopeNLU</title>
+  
+
+  <title>TempEL: Linking Dynamically Evolving and Newly Emerging Entities | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,8 +346,7 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
@@ -362,180 +361,64 @@
 
 
 
+  
 
-<div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/people/isabelle/featured_hu447dc5a7be12a02d9fe71b9b2ef1b5f6_4289136_800x0_resize_box_2.png');"></div>
-  <span class="article-header-caption">Photo by Toa Heftiba on Unsplash</span>
-</div>
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">TempEL: Linking Dynamically Evolving and Newly Emerging Entities</h1>
 
+  
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">Isabelle Augenstein</h1>
-
-        
-
-        
+  
+    
 
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
   
-
-  <span class="article-date">
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/klim-zaporojets/">Klim Zaporojets</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/lucie-aim%C3%A9e-kaffee/">Lucie-Aimée Kaffee</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/johannes-deleu/">Johannes Deleu</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/thomas-demeester/">Thomas Demeester</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/chris-develder/">Chris Develder</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
     
-    <meta content="2019-01-20 17:07:01 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2019-01-20 17:07:01 &#43;0100 CET" itemprop="dateModified">
-      20 Jan 2019
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  <a class="btn btn-outline-primary my-1" href="http://isabelleaugenstein.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Isabelle%20Augenstein&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f&amp;title=Isabelle%20Augenstein"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f&amp;title=Isabelle%20Augenstein"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Isabelle%20Augenstein&amp;body=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/people/isabelle/featured_hu447dc5a7be12a02d9fe71b9b2ef1b5f6_4289136_680x500_fill_q90_box_smart1_2.png" itemprop="image" alt="">
-        <span class="article-header-caption">Photo by Toa Heftiba on Unsplash</span>
-      </div>
-    </div>
   </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Isabelle Augenstein</h1>
-
-  
-
-  
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
   
 
   <span class="article-date">
     
-    <meta content="2019-01-20 17:07:01 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2019-01-20 17:07:01 &#43;0100 CET" itemprop="dateModified">
-      20 Jan 2019
+    <meta content="2022-09-19 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2022-09-19 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      19 Sep 2022
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -555,35 +438,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Isabelle%20Augenstein&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f"
+         href="https://twitter.com/intent/tweet?text=TempEL%3a%20Linking%20Dynamically%20Evolving%20and%20Newly%20Emerging%20Entities&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_neurips_zaporojets%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_neurips_zaporojets%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f&amp;title=Isabelle%20Augenstein"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_neurips_zaporojets%2f&amp;title=TempEL%3a%20Linking%20Dynamically%20Evolving%20and%20Newly%20Emerging%20Entities"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f&amp;title=Isabelle%20Augenstein"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_neurips_zaporojets%2f&amp;title=TempEL%3a%20Linking%20Dynamically%20Evolving%20and%20Newly%20Emerging%20Entities"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Isabelle%20Augenstein&amp;body=https%3a%2f%2fcopenlu.github.io%2fpeople%2fisabelle%2f">
+         href="mailto:?subject=TempEL%3a%20Linking%20Dynamically%20Evolving%20and%20Newly%20Emerging%20Entities&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2022_neurips_zaporojets%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -595,6 +478,13 @@
 
 </div>
 
+    
+
+
+
+
+
+
 
   
 
@@ -603,20 +493,12 @@
 
 
 
-
   
-
-
-
-
-
 
 
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="http://isabelleaugenstein.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
-  
   
 
 
@@ -626,13 +508,30 @@
 
 
   
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/pdf?id=vrnqr3PG4yB" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2022_neurips_zaporojets/cite.bib">
+  Cite
+</button>
 
 
 
 
 
-
-
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/knowledge-bases/">
+    Project
+  </a>
+  
 
 
 
@@ -647,71 +546,99 @@
 </div>
 
 
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">In our continuously evolving world, entities change over time and new, previously non-existing or unknown, entities appear. We study how this evolutionary scenario impacts the performance on a well established entity linking (EL) task. For that study, we introduce TempEL, an entity linking dataset that consists of time-stratified English Wikipedia snapshots from 2013 to 2022, from which we collect both anchor mentions of entities, and these target entities’ descriptions. By capturing such temporal aspects, our newly introduced TempEL resource contrasts with currently existing entity linking datasets, which are composed of fixed mentions linked to a single static version of a target Knowledge Base (e.g., Wikipedia 2010 for CoNLL-AIDA). Indeed, for each of our collected temporal snapshots, TempEL contains links to entities that are continual, i.e., occur in all of the years, as well as completely new entities that appear for the first time at some point. Thus, we enable to quantify the performance of current state-of-the-art EL models for: (i) entities that are subject to changes over time in their Knowledge Base descriptions as well as their mentions’ contexts, and (ii) newly created entities that were previously non-existing (e.g., at the time the EL model was trained). Our experimental results show that in terms of temporal performance degradation, (i) continual entities suffer a decrease of up to 4.6% EL accuracy, while (ii) for new entities this accuracy drop is up to 15.4%. This highlights the challenge of the introduced TempEL dataset and opens new research prospects in the area of time-evolving entity disambiguation.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
-
+    <div class="d-md-none space-below"></div>
     
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/members/">Members</a>
-  
-</div>
-
-
-
     
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/people/pepa/">Pepa Atanasova</a></li>
-        
-        <li><a href="/people/dustin/">Dustin Wright</a></li>
-        
-        <li><a href="/people/nils/">Nils Rethmeier</a></li>
-        
-        <li><a href="/people/andreas/">Andreas Nugaard Holm</a></li>
-        
-        <li><a href="/people/karolina/">Karolina Stanczak</a></li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            September, 2022
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
+
+
+
     
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
 
 
   </div>
-</article>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">
