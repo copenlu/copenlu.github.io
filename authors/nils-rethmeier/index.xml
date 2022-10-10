@@ -6,10 +6,19 @@
     <description>Recent content in Nils Rethmeier on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/nils-rethmeier/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
+      <link>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_csur_rethmeier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,28 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</title>
+      <link>https://copenlu.github.io/publication/2022_emnlp_wright/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_emnlp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
+      <link>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>

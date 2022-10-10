@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</title>
+      <link>https://copenlu.github.io/publication/2022_emnlp_wright/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_emnlp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
+      <link>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TempEL: Linking Dynamically Evolving and Newly Emerging Entities</title>
       <link>https://copenlu.github.io/publication/2022_neurips_zaporojets/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0200</pubDate>
@@ -123,24 +141,6 @@
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_acl_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Sense Language Modelling</title>
-      <link>https://copenlu.github.io/publication/2022_distcurate_lekkas/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_distcurate_lekkas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi3Generation: Multi-task, Multilingual, Multi-Modal Language Generation</title>
-      <link>https://copenlu.github.io/publication/2022_eamt_barreiro/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_eamt_barreiro/</guid>
       <description></description>
     </item>
     

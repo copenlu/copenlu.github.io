@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2022_emnlp_wright/</loc>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</loc>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2022_neurips_zaporojets/</loc>
       <lastmod>2022-09-19T00:00:00+02:00</lastmod>
     </url>
@@ -118,14 +134,6 @@
     
       <loc>https://copenlu.github.io/publication/2022_eamt_barreiro/</loc>
       <lastmod>2022-03-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2022_arxiv_ostendorff/</loc>
-      <lastmod>2022-02-15T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -780,6 +788,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/arnav/</loc>
+      <lastmod>2019-01-07T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</loc>
       <lastmod>2018-10-31T00:00:00+01:00</lastmod>
     </url>
@@ -1229,7 +1245,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/2/</loc>
-      <lastmod>2022-09-13T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1525,7 +1541,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/bela-gipp/</loc>
-      <lastmod>2022-02-15T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1640,6 +1656,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/david-jurgens/</loc>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/david-wadden/</loc>
       <lastmod>2022-03-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -1695,7 +1720,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dustin-wright/</loc>
-      <lastmod>2022-03-20T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1848,7 +1873,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/georg-rehm/</loc>
-      <lastmod>2022-02-15T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1965,7 +1990,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2002,6 +2027,15 @@
     
       <loc>https://copenlu.github.io/authors/jeff-mitchell/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/jiaxin-pei/</loc>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2226,7 +2260,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/malte-ostendorff/</loc>
-      <lastmod>2022-02-15T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2442,7 +2476,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/nils-rethmeier/</loc>
-      <lastmod>2022-09-07T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
