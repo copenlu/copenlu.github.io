@@ -6,10 +6,33 @@
     <description>Recent content in explainability on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/explainability/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2 Papers Accepted to Coling 2022</title>
+      <link>https://copenlu.github.io/talk/2022_08_coling/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_08_coling/</guid>
+      <description>2 papers by CopeNLU authors on probing question answering models are accepted to appear at Coling 2022.
+Machine Reading, Fast and Slow: When Do Models &amp;lsquo;Understand&amp;rsquo; Language?. Sagnik Ray Choudhury, Anna Rogers, Isabelle Augenstein.
+Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?. Sagnik Ray Choudhury, Nikita Bhutani, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
+      <title>3 Papers Accepted to NAACL 2022</title>
+      <link>https://copenlu.github.io/talk/2022_07_naacl/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_07_naacl/</guid>
+      <description>3 papers by CopeNLU authors are accepted to appear at NAACL 2022, which are on the topics of hatespeech detection, misinformation detection and multilingual probing.
+Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection. Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein.
+A Survey on Stance Detection for Mis- and Disinformation Identification. Momchil Hardalov, Arnav Arora, Preslav Nakov, Isabelle Augenstein.
+Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models.</description>
+    </item>
     
     <item>
       <title>2 Papers Accepted to AAAI 2022</title>

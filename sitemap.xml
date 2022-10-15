@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/talk/2022_10_phd/</loc>
+      <lastmod>2022-10-14T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/talk/2022_11_emnlp/</loc>
+      <lastmod>2022-10-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2022_information_jolly/</loc>
+      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2022_emnlp_wright/</loc>
       <lastmod>2022-10-07T00:00:00+02:00</lastmod>
     </url>
@@ -14,6 +38,14 @@
     
       <loc>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</loc>
       <lastmod>2022-10-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/talk/2022_08_coling/</loc>
+      <lastmod>2022-10-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -70,6 +102,14 @@
     
       <loc>https://copenlu.github.io/publication/2022_plosone_marjanovic/</loc>
       <lastmod>2022-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/talk/2022_07_naacl/</loc>
+      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -181,14 +221,6 @@
     <url>
     
       <loc>https://copenlu.github.io/publication/2022_aaai_hardalov/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2021_arxiv_jolly/</loc>
       <lastmod>2021-12-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -924,14 +956,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/people/miryam/</loc>
-      <lastmod>2018-01-14T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/publication/2018_iwclul_bjerva/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -1014,6 +1038,14 @@
     
       <loc>https://copenlu.github.io/publication/2017_swj_zhang/</loc>
       <lastmod>2017-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/miryam/</loc>
+      <lastmod>2017-01-29T17:07:01+01:00</lastmod>
     </url>
     
   
@@ -1236,7 +1268,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1362,7 +1394,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/alumni/</loc>
-      <lastmod>2017-01-28T17:07:01+01:00</lastmod>
+      <lastmod>2017-01-29T17:07:01+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1990,7 +2022,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2022-10-07T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2521,7 +2553,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/pepa-atanasova/</loc>
-      <lastmod>2022-04-06T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2575,7 +2607,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2022-09-19T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2674,7 +2706,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/shailza-jolly/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2944,7 +2976,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/explainability/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2953,7 +2985,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/fact-checking/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2962,7 +2994,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/gender-bias/</loc>
-      <lastmod>2018-04-26T00:00:00+02:00</lastmod>
+      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2980,7 +3012,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/limited-data/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2998,7 +3030,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/multilingual-learning/</loc>
-      <lastmod>2021-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3016,7 +3048,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/question-answering/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3025,7 +3057,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/scholarly-data/</loc>
-      <lastmod>2021-04-05T00:00:00+02:00</lastmod>
+      <lastmod>2022-10-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

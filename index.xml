@@ -10,6 +10,44 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PhD fellowship on Explainable Machine Learning available</title>
+      <link>https://copenlu.github.io/talk/2022_10_phd/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_10_phd/</guid>
+      <description>&lt;p&gt;One PhD fellowship on Explainable Machine Learning is available for a start in Spring 2023. The successfull candidate will be supervised by &lt;a href=&#34;https://di.ku.dk/english/staff/?pure=en/persons/424829&#34;&gt;Christina Lioma&lt;/a&gt; and Isabelle Augenstein, and join the Information Retrieval lab at the Machine Learning section at DIKU.&lt;/p&gt;
+
+&lt;p&gt;The full call and application link can be found &lt;a href=&#34;https://employment.ku.dk/phd/?show=153856&#34;&gt;here&lt;/a&gt;; the application deadline is 13 November 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 Papers Accepted to NAACL 2022</title>
+      <link>https://copenlu.github.io/talk/2022_11_emnlp/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_11_emnlp/</guid>
+      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at EMNLP 2022, which are on scholarly document understanding.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_sen/&#34;&gt;Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/indira-sen/&#34;&gt;Indira Sen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/mattia-samory&#34;&gt;Mattia Samory&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/claudia-wagner/&#34;&gt;Claudia Wagner&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_emnlp_ostendorff/&#34;&gt;Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/malte-ostendorff/&gt;Malte Ostendorff&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nils-rethmeier/&#34;&gt;Nils Rethmeier&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;,
+ &lt;a href=&#34;https://copenlu.github.io/authors/bela-gipp/&#34;&gt;Bela Gipp&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/georg-rehm/&#34;&gt;Georg Rehm&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</title>
+      <link>https://copenlu.github.io/publication/2022_information_jolly/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_information_jolly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</title>
       <link>https://copenlu.github.io/publication/2022_emnlp_wright/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
@@ -25,6 +63,23 @@
       
       <guid>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>2 Papers Accepted to Coling 2022</title>
+      <link>https://copenlu.github.io/talk/2022_08_coling/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_08_coling/</guid>
+      <description>&lt;p&gt;2 papers by CopeNLU authors on probing question answering models are accepted to appear at Coling 2022.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_coling_choudhury_machine/&#34;&gt;Machine Reading, Fast and Slow: When Do Models &amp;lsquo;Understand&amp;rsquo; Language?&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/sagnik-ray-choudhury/&#34;&gt;Sagnik Ray Choudhury&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/anna-rogers/&#34;&gt;Anna Rogers&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_coling_choudhury_edge/&#34;&gt;Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/sagnik-ray-choudhury/&#34;&gt;Sagnik Ray Choudhury&lt;/a&gt;,
+ &lt;a href=&#34;https://copenlu.github.io/authors/nikita-bhutani/&#34;&gt;Nikita Bhutani&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -91,56 +146,30 @@
     </item>
     
     <item>
+      <title>3 Papers Accepted to NAACL 2022</title>
+      <link>https://copenlu.github.io/talk/2022_07_naacl/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_07_naacl/</guid>
+      <description>&lt;p&gt;3 papers by CopeNLU authors are accepted to appear at NAACL 2022, which are on the topics of hatespeech detection, misinformation detection and multilingual probing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_sen/&#34;&gt;Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/indira-sen/&#34;&gt;Indira Sen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/mattia-samory&#34;&gt;Mattia Samory&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/claudia-wagner/&#34;&gt;Claudia Wagner&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_hardalov/&#34;&gt;A Survey on Stance Detection for Mis- and Disinformation Identification&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/momchil-hardalov/&#34;&gt;Momchil Hardalov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/preslav-nakov/&#34;&gt; Preslav Nakov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_stanczak/&#34;&gt;Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/karolina-sta%C5%84czak/&#34;&gt;Karolina Stańczak&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/edoardo-ponti/&#34;&gt;Edoardo Ponti&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lucas-torroba-hennigen/&#34;&gt;Lucas Torroba Hennigen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
       <link>https://copenlu.github.io/publication/2022_naacl_hardalov/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_naacl_hardalov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection</title>
-      <link>https://copenlu.github.io/publication/2022_naacl_sen/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_naacl_sen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
-      <link>https://copenlu.github.io/publication/2022_naacl_stanczak/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_naacl_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fact Checking with Insufficient Evidence</title>
-      <link>https://copenlu.github.io/publication/2022_tacl_atanasova/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_tacl_atanasova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_arora/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generating Scientific Claims for Zero-Shot Scientific Fact Checking</title>
-      <link>https://copenlu.github.io/publication/2022_acl_wright/</link>
-      <pubDate>Sun, 20 Mar 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_acl_wright/</guid>
       <description></description>
     </item>
     

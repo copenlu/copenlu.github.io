@@ -6,10 +6,22 @@
     <description>Recent content in multilingual-learning on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/multilingual-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 Papers Accepted to NAACL 2022</title>
+      <link>https://copenlu.github.io/talk/2022_07_naacl/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2022_07_naacl/</guid>
+      <description>3 papers by CopeNLU authors are accepted to appear at NAACL 2022, which are on the topics of hatespeech detection, misinformation detection and multilingual probing.
+Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection. Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein.
+A Survey on Stance Detection for Mis- and Disinformation Identification. Momchil Hardalov, Arnav Arora, Preslav Nakov, Isabelle Augenstein.
+Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models.</description>
+    </item>
     
     <item>
       <title>Paper Accepted to EACL 2021</title>
