@@ -1,6 +1,13 @@
-@inproceedings{rethmeier2022longtail,
-title={Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data},
-author={Nils Rethmeier and Isabelle Augenstein},
-year={2020},
-booktitle = {Proceedings of AAAI 2022 Workshop on Artificial Intelligence with Biased or Scarce Data (AIBSD 2022)}
+@Article{rethmeier2021dataefficient,
+AUTHOR = {Rethmeier, Nils and Augenstein, Isabelle},
+TITLE = {{Long-Tail Zero and Few-Shot Learning via Contrastive Pretraining on and for Small Data}},
+JOURNAL = {Computer Sciences; Mathematics Forum},
+VOLUME = {3},
+YEAR = {2022},
+NUMBER = {1},
+ARTICLE-NUMBER = {10},
+URL = {https://www.mdpi.com/2813-0324/3/1/10},
+ISSN = {2813-0324},
+ABSTRACT = {Preserving long-tail, minority information during model compression has been linked to algorithmic fairness considerations. However, this assumes that large models capture long-tail information and smaller ones do not, which raises two questions. One, how well do large pretrained language models encode long-tail information? Two, how can small language models be made to better capture long-tail information, without requiring a compression step? First, we study the performance of pretrained Transformers on a challenging new long-tail, web text classification task. Second, to train small long-tail capture models we propose a contrastive training objective that unifies self-supervised pretraining, and supervised long-tail fine-tuning, which markedly increases tail data-efficiency and tail prediction performance. Third, we analyze the resulting long-tail learning capabilities under zero-shot, few-shot and full supervision conditions, and study the performance impact of model size and self-supervision signal amount. We find that large pretrained language models do not guarantee long-tail retention and that much smaller, contrastively pretrained models better retain long-tail information while gaining data and compute efficiency. This demonstrates that model compression may not be the go-to method for obtaining good long-tail performance from compact models.},
+DOI = {10.3390/cmsf2022003010}
 }
