@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
+      <link>https://copenlu.github.io/publication/2022_arxiv_holm/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_arxiv_holm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Isabelle Augenstein becomes Denmark&#39;s youngest female full professor</title>
       <link>https://copenlu.github.io/talk/2022_10_promotion/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0200</pubDate>
@@ -161,25 +170,6 @@
       
       <guid>https://copenlu.github.io/publication/2022_plosone_marjanovic/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>3 Papers Accepted to NAACL 2022</title>
-      <link>https://copenlu.github.io/talk/2022_07_naacl/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2022_07_naacl/</guid>
-      <description>&lt;p&gt;3 papers by CopeNLU authors are accepted to appear at NAACL 2022, which are on the topics of hatespeech detection, misinformation detection and multilingual probing.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_sen/&#34;&gt;Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/indira-sen/&#34;&gt;Indira Sen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/mattia-samory&#34;&gt;Mattia Samory&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/claudia-wagner/&#34;&gt;Claudia Wagner&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_hardalov/&#34;&gt;A Survey on Stance Detection for Mis- and Disinformation Identification&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/momchil-hardalov/&#34;&gt;Momchil Hardalov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/preslav-nakov/&#34;&gt; Preslav Nakov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_stanczak/&#34;&gt;Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/karolina-sta%C5%84czak/&#34;&gt;Karolina Stańczak&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/edoardo-ponti/&#34;&gt;Edoardo Ponti&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lucas-torroba-hennigen/&#34;&gt;Lucas Torroba Hennigen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/ryan-cotterell/&#34;&gt;Ryan Cotterell&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
