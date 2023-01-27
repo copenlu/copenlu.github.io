@@ -10,6 +10,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PhD position available in context of Carlsberg-funded project on bias detection in job ads</title>
+      <link>https://copenlu.github.io/talk/2023_1_carlsberg/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_1_carlsberg/</guid>
+      <description>&lt;p&gt;The PhD fellowship is offered in the context of a &lt;a href=&#34;https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF22_1461_Pia-Ingold&#34;&gt;project supported by the Carlsberg Foundation on employer images in job ads&lt;/a&gt; led by Pia Ingold and co-led by Isabelle Augenstein. The project team will further include one postdoctoral researcher (to be hired at the Department of Psychology) as well as external partners. The project will comprise studies using methods from experimental psychology, as well as analyses of two existing big datasets on job ads (one in Danish, one in German) using Natural Language Processing.
+The role of the PhD student to be recruited in this call will be to research fair and accountable Natural Language Processing methods, which can be used to understand what influences the employer images that organisations project in job ads.&lt;/p&gt;
+
+&lt;p&gt;Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. The official call for the PhD position is up &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1307&amp;ProjectId=158390&amp;DepartmentId=19207&amp;MediaId=4636&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Latent-Variable Model for Intrinsic Probing</title>
       <link>https://copenlu.github.io/publication/2023_aaai_stanczak/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
@@ -167,15 +180,6 @@
       <pubDate>Tue, 13 Sep 2022 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_csur_rogers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
-      <link>https://copenlu.github.io/publication/2022_csur_rethmeier/</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_csur_rethmeier/</guid>
       <description></description>
     </item>
     
