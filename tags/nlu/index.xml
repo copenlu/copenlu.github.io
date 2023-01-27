@@ -27,7 +27,8 @@
       
       <guid>https://copenlu.github.io/project/explainability/</guid>
       <description>We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.
-We are researching methods for explainable stance detection in the context of a DFF Sapere Aude Research Leader project, and explainable fact checking as part of an ERC Starting Grant project.</description>
+We are researching methods for explainable stance detection in the context of a DFF Sapere Aude Research Leader project, and explainable fact checking as part of an ERC Starting Grant project.
+Moreover, we&amp;rsquo;re investigating fair and accountable Natural Language Processing methods to understand what influences the employer images that organisations project in job ads, as part of a Carlsberg-funded project.</description>
     </item>
     
     <item>
