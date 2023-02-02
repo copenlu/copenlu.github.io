@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Adapting Neural Link Predictors for Complex Query Answering</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PhD position available in context of Carlsberg-funded project on bias detection in job ads</title>
       <link>https://copenlu.github.io/talk/2023_1_carlsberg/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0100</pubDate>
@@ -171,15 +180,6 @@ The role of the PhD student to be recruited in this call will be to research fai
       <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension</title>
-      <link>https://copenlu.github.io/publication/2022_csur_rogers/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_csur_rogers/</guid>
       <description></description>
     </item>
     
