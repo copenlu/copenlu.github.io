@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Measuring Gender Bias in West Slavic Language Models</title>
+      <link>https://copenlu.github.io/publication/2023_slavnlp_stanczak/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_slavnlp_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</title>
+      <link>https://copenlu.github.io/publication/2023_c3nlp_arora/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_c3nlp_arora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adapting Neural Link Predictors for Complex Query Answering</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0100</pubDate>
@@ -163,24 +181,6 @@ The project team will consist of two PhD students and two postdocs, in addition 
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_neurips_zaporojets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?</title>
-      <link>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</link>
-      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_edge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Reading, Fast and Slow: When Do Models &#39;Understand&#39; Language?</title>
-      <link>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</link>
-      <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_coling_choudhury_machine/</guid>
       <description></description>
     </item>
     
