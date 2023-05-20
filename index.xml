@@ -10,6 +10,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Faithfulness Tests for Natural Language Explanations</title>
+      <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_atanasova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Intersectional Biases in Historical Documents</title>
+      <link>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual Event Extraction from Historical Newspaper Adverts</title>
+      <link>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection</title>
+      <link>https://copenlu.github.io/publication/2023_acl_arakelyan/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Measuring Gender Bias in West Slavic Language Models</title>
       <link>https://copenlu.github.io/publication/2023_slavnlp_stanczak/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
@@ -129,58 +165,6 @@ The project team will consist of two PhD students and two postdocs, in addition 
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_information_jolly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</title>
-      <link>https://copenlu.github.io/publication/2022_emnlp_wright/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_emnlp_wright/</guid>
-      <description>
-
-&lt;h3 id=&#34;code-models-and-data&#34;&gt;Code, models, and data&lt;/h3&gt;
-
-&lt;p&gt;We&amp;rsquo;ve released all of the code, models, and data for the project to help with further research on NLP for understanding science communication. The code can be found &lt;a href=&#34;https://github.com/copenlu/scientific-information-change&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, the sentence-transformers model &lt;a href=&#34;https://huggingface.co/copenlu/spiced&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and the dataset &lt;a href=&#34;https://huggingface.co/datasets/copenlu/spiced&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. We&amp;rsquo;ve additionally released a lightweight python package &lt;a href=&#34;https://pypi.org/project/scientific-information-change/&#34; target=&#34;_blank&#34;&gt;scientific-information-change&lt;/a&gt;, which can be used to measure the information matching score (IMS) between scientific sentences. You can download the package as follows:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pip install scientific-information-change
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
-      <link>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2 Papers Accepted to Coling 2022</title>
-      <link>https://copenlu.github.io/talk/2022_08_coling/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2022_08_coling/</guid>
-      <description>&lt;p&gt;2 papers by CopeNLU authors on probing question answering models are accepted to appear at Coling 2022.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_coling_choudhury_machine/&#34;&gt;Machine Reading, Fast and Slow: When Do Models &amp;lsquo;Understand&amp;rsquo; Language?&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/sagnik-ray-choudhury/&#34;&gt;Sagnik Ray Choudhury&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/anna-rogers/&#34;&gt;Anna Rogers&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_coling_choudhury_edge/&#34;&gt;Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/sagnik-ray-choudhury/&#34;&gt;Sagnik Ray Choudhury&lt;/a&gt;,
- &lt;a href=&#34;https://copenlu.github.io/authors/nikita-bhutani/&#34;&gt;Nikita Bhutani&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TempEL: Linking Dynamically Evolving and Newly Emerging Entities</title>
-      <link>https://copenlu.github.io/publication/2022_neurips_zaporojets/</link>
-      <pubDate>Mon, 19 Sep 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_neurips_zaporojets/</guid>
       <description></description>
     </item>
     

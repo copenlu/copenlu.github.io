@@ -6,10 +6,19 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Faithfulness Tests for Natural Language Explanations</title>
+      <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_atanasova/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</title>

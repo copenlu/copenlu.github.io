@@ -6,10 +6,46 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Faithfulness Tests for Natural Language Explanations</title>
+      <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_atanasova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Intersectional Biases in Historical Documents</title>
+      <link>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual Event Extraction from Historical Newspaper Adverts</title>
+      <link>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection</title>
+      <link>https://copenlu.github.io/publication/2023_acl_arakelyan/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_acl_arakelyan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring Gender Bias in West Slavic Language Models</title>
