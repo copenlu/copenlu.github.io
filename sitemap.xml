@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/talk/2023_05_acl/</loc>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2023_acl_atanasova/</loc>
       <lastmod>2023-05-20T00:00:00+02:00</lastmod>
     </url>
@@ -52,6 +60,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2023_arxiv_kaffee/</loc>
+      <lastmod>2023-04-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</loc>
       <lastmod>2023-02-01T00:00:00+01:00</lastmod>
     </url>
@@ -62,6 +78,14 @@
     
       <loc>https://copenlu.github.io/talk/2023_1_carlsberg/</loc>
       <lastmod>2023-01-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2022_arxiv_wright/</loc>
+      <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -94,14 +118,6 @@
     
       <loc>https://copenlu.github.io/talk/2022_10_promotion/</loc>
       <lastmod>2022-10-17T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/talk/2022_10_phd/</loc>
-      <lastmod>2022-10-14T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -884,6 +900,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/kevin/</loc>
+      <lastmod>2019-01-04T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</loc>
       <lastmod>2018-10-31T00:00:00+01:00</lastmod>
     </url>
@@ -1390,7 +1414,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2023-02-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-04-17T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1856,7 +1880,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dustin-wright/</loc>
-      <lastmod>2022-10-26T00:00:00+02:00</lastmod>
+      <lastmod>2022-12-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3152,7 +3176,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/explainability/</loc>
-      <lastmod>2022-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3161,7 +3185,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/fact-checking/</loc>
-      <lastmod>2022-10-10T00:00:00+02:00</lastmod>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3179,7 +3203,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/knowledge-bases/</loc>
-      <lastmod>2016-03-27T00:00:00+01:00</lastmod>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3188,7 +3212,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/limited-data/</loc>
-      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3206,7 +3230,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/multilingual-learning/</loc>
-      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3224,7 +3248,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/question-answering/</loc>
-      <lastmod>2022-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

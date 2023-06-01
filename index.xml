@@ -10,6 +10,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>4 Papers Accepted to ACL 2023</title>
+      <link>https://copenlu.github.io/talk/2023_05_acl/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
+      <description>&lt;p&gt;4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_arakelyan/&#34;&gt;Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/erik-arakelyan/&#34;&gt;Erik Arakelyan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_atanasova/&#34;&gt;Faithfulness Tests for Natural Language Explanations&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/oana-maria-camburu/&#34;&gt;Oana-Maria Camburu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/thomas-lukasiewicz/&#34;&gt;Thomas Lukasiewicz&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_borenstein_measuring/&#34;&gt;Measuring Intersectional Biases in Historical Documents&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/karolina-sta%C5%84czak/&#34;&gt; Karolina Stańczak&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/thea-rolskov/&#34;&gt;Thea Rolskov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/natacha-klein-k%C3%A4fer/&#34;&gt;Natacha Klein Käfer&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nat%C3%A1lia-da-silva-perez/&#34;&gt;Natália da Silva Perez&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_borenstein_measuring/&#34;&gt;Multilingual Event Extraction from Historical Newspaper Adverts&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nat%C3%A1lia-da-silva-perez/&#34;&gt;Natália da Silva Perez&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Faithfulness Tests for Natural Language Explanations</title>
       <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
@@ -64,6 +86,15 @@
     </item>
     
     <item>
+      <title>Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_kaffee/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_kaffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adapting Neural Link Predictors for Complex Query Answering</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0100</pubDate>
@@ -83,6 +114,15 @@ The role of the PhD student to be recruited in this call will be to research Nat
 
 &lt;p&gt;Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. The official call for the PhD position is up &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&amp;departmentId=18970&amp;ProjectId=159166&amp;MediaId=5&amp;SkipAdvertisement=false&#34;&gt;here&lt;/a&gt; and will close on 24 May 2023.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
+      <link>https://copenlu.github.io/publication/2022_arxiv_wright/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_arxiv_wright/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -128,44 +168,6 @@ The project team will consist of two PhD students and two postdocs, in addition 
       <guid>https://copenlu.github.io/talk/2022_10_promotion/</guid>
       <description>&lt;p&gt;Isabelle Augenstein has been promoted to full professor, making her the youngest ever female full professor in Denmark. The former officially reported youngest female full professor was appointed in 2008 when she was &lt;a href=&#34;https://politiken.dk/kultur/art7382410/Danmarks-yngste-kvindelige-professor-bliver-ny-designrektor&#34;&gt;34 years old&lt;/a&gt;. Read more University of Copenhagen&amp;rsquo;s &lt;a href=&#34;https://science.ku.dk/english/press/news/2022/denmarks-youngest-female-professor-appointed-at-the-university-of-copenhagen/&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>PhD fellowship on Explainable Machine Learning available</title>
-      <link>https://copenlu.github.io/talk/2022_10_phd/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2022_10_phd/</guid>
-      <description>&lt;p&gt;One PhD fellowship on Explainable Machine Learning is available for a start in Spring 2023. The successfull candidate will be supervised by &lt;a href=&#34;https://di.ku.dk/english/staff/?pure=en/persons/424829&#34;&gt;Christina Lioma&lt;/a&gt; and Isabelle Augenstein, and join the Information Retrieval lab at the Machine Learning section at DIKU.&lt;/p&gt;
-
-&lt;p&gt;The full call and application link can be found &lt;a href=&#34;https://employment.ku.dk/phd/?show=153856&#34;&gt;here&lt;/a&gt;; the application deadline is 13 November 2022.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2 Papers Accepted to EMNLP 2022</title>
-      <link>https://copenlu.github.io/talk/2022_11_emnlp/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2022_11_emnlp/</guid>
-      <description>&lt;p&gt;2 papers by CopeNLU authors are accepted to appear at EMNLP 2022, which are on scholarly document understanding.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_naacl_sen/&#34;&gt;Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/indira-sen/&#34;&gt;Indira Sen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/mattia-samory&#34;&gt;Mattia Samory&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/claudia-wagner/&#34;&gt;Claudia Wagner&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2022_emnlp_ostendorff/&#34;&gt;Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/malte-ostendorff/&gt;Malte Ostendorff&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nils-rethmeier/&#34;&gt;Nils Rethmeier&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;,
- &lt;a href=&#34;https://copenlu.github.io/authors/bela-gipp/&#34;&gt;Bela Gipp&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/georg-rehm/&#34;&gt;Georg Rehm&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</title>
-      <link>https://copenlu.github.io/publication/2022_information_jolly/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_information_jolly/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -6,10 +6,22 @@
     <description>Recent content in multilingual-learning on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/multilingual-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Papers Accepted to ACL 2023</title>
+      <link>https://copenlu.github.io/talk/2023_05_acl/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
+      <description>4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.
+Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection. Erik Arakelyan, Arnav Arora, Isabelle Augenstein.
+Faithfulness Tests for Natural Language Explanations. Pepa Atanasova, Oana-Maria Camburu, Christina Lioma, Thomas Lukasiewicz, Jakob Grue Simonsen, Isabelle Augenstein.
+Measuring Intersectional Biases in Historical Documents. Nadav Borenstein, Karolina Stańczak, Thea Rolskov, Natacha Klein Käfer, Natália da Silva Perez, Isabelle Augenstein.</description>
+    </item>
     
     <item>
       <title>3 Papers Accepted to NAACL 2022</title>

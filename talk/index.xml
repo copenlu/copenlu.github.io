@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>4 Papers Accepted to ACL 2023</title>
+      <link>https://copenlu.github.io/talk/2023_05_acl/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
+      <description>4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.
+Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection. Erik Arakelyan, Arnav Arora, Isabelle Augenstein.
+Faithfulness Tests for Natural Language Explanations. Pepa Atanasova, Oana-Maria Camburu, Christina Lioma, Thomas Lukasiewicz, Jakob Grue Simonsen, Isabelle Augenstein.
+Measuring Intersectional Biases in Historical Documents. Nadav Borenstein, Karolina Stańczak, Thea Rolskov, Natacha Klein Käfer, Natália da Silva Perez, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
       <title>PhD position available in context of Carlsberg-funded project on bias detection in job ads</title>
       <link>https://copenlu.github.io/talk/2023_1_carlsberg/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0100</pubDate>
@@ -36,16 +48,6 @@
       
       <guid>https://copenlu.github.io/talk/2022_10_promotion/</guid>
       <description>Isabelle Augenstein has been promoted to full professor, making her the youngest ever female full professor in Denmark. The former officially reported youngest female full professor was appointed in 2008 when she was 34 years old. Read more University of Copenhagen&amp;rsquo;s press release.</description>
-    </item>
-    
-    <item>
-      <title>PhD fellowship on Explainable Machine Learning available</title>
-      <link>https://copenlu.github.io/talk/2022_10_phd/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2022_10_phd/</guid>
-      <description>One PhD fellowship on Explainable Machine Learning is available for a start in Spring 2023. The successfull candidate will be supervised by Christina Lioma and Isabelle Augenstein, and join the Information Retrieval lab at the Machine Learning section at DIKU.
-The full call and application link can be found here; the application deadline is 13 November 2022.</description>
     </item>
     
     <item>
