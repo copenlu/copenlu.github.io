@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2023_csur_arora/</loc>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2023_05_acl/</loc>
       <lastmod>2023-05-22T00:00:00+02:00</lastmod>
     </url>
@@ -462,14 +470,6 @@
     
       <loc>https://copenlu.github.io/talk/2021_04_acl/</loc>
       <lastmod>2021-04-05T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2021_arxiv_nakov_survey/</loc>
-      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -1405,7 +1405,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/2/</loc>
-      <lastmod>2022-10-08T00:00:00+02:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1531,7 +1531,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/ameya-bhatawdekar/</loc>
-      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1639,7 +1639,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/arnav-arora/</loc>
-      <lastmod>2023-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1844,7 +1844,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dimitrina-zlatkova/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2078,7 +2078,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/guillaume-bouchard/</loc>
-      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2159,7 +2159,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2023-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2312,7 +2312,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/kyle-dent/</loc>
-      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2591,7 +2591,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/momchil-hardalov/</loc>
-      <lastmod>2022-05-05T00:00:00+02:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2762,7 +2762,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/preslav-nakov/</loc>
-      <lastmod>2022-05-05T00:00:00+02:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2897,7 +2897,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/sheikh-muhammad-sarwar/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3059,7 +3059,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/vibha-nayak/</loc>
-      <lastmod>2021-02-27T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3140,7 +3140,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/yoan-dinkov/</loc>
-      <lastmod>2021-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3150,6 +3150,15 @@
     
       <loc>https://copenlu.github.io/authors/yova-kementchedjhieva/</loc>
       <lastmod>2019-05-14T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/zeerak-talat/</loc>
+      <lastmod>2023-04-17T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

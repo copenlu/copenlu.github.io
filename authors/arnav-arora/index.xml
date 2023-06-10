@@ -6,10 +6,19 @@
     <description>Recent content in Arnav Arora on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/arnav-arora/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Detecting Harmful Content on Online Platforms: What Platforms Need vs. Where Research Efforts Go</title>
+      <link>https://copenlu.github.io/publication/2023_csur_arora/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_csur_arora/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection</title>
