@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
+      <link>https://copenlu.github.io/publication/2022_information_holm/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2022_information_holm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detecting Harmful Content on Online Platforms: What Platforms Need vs. Where Research Efforts Go</title>
       <link>https://copenlu.github.io/publication/2023_csur_arora/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0200</pubDate>
@@ -107,15 +116,6 @@
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_aaai_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_holm/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_holm/</guid>
       <description></description>
     </item>
     
