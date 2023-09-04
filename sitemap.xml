@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/talk/2023_09_explainyourself/</loc>
+      <lastmod>2023-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2022_information_holm/</loc>
       <lastmod>2023-06-19T00:00:00+02:00</lastmod>
     </url>
@@ -92,14 +100,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/talk/2023_1_carlsberg/</loc>
-      <lastmod>2023-01-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/publication/2022_arxiv_wright/</loc>
       <lastmod>2022-12-19T00:00:00+01:00</lastmod>
     </url>
@@ -109,14 +109,6 @@
     <url>
     
       <loc>https://copenlu.github.io/publication/2023_aaai_stanczak/</loc>
-      <lastmod>2022-11-22T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/talk/2022_11_erc/</loc>
       <lastmod>2022-11-22T00:00:00+01:00</lastmod>
     </url>
     
@@ -852,14 +844,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/people/nils/</loc>
-      <lastmod>2019-01-14T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/people/karolina/</loc>
       <lastmod>2019-01-13T17:07:01+01:00</lastmod>
     </url>
@@ -886,22 +870,6 @@
     
       <loc>https://copenlu.github.io/people/arnav/</loc>
       <lastmod>2019-01-07T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/people/marta/</loc>
-      <lastmod>2019-01-05T17:07:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/people/kevin/</loc>
-      <lastmod>2019-01-04T17:07:01+01:00</lastmod>
     </url>
     
   
@@ -1044,14 +1012,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/people/oscar/</loc>
-      <lastmod>2018-01-16T17:09:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/people/sara/</loc>
       <lastmod>2018-01-15T17:07:01+01:00</lastmod>
     </url>
@@ -1148,6 +1108,30 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/marta/</loc>
+      <lastmod>2017-02-05T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/kevin/</loc>
+      <lastmod>2017-02-04T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/nils/</loc>
+      <lastmod>2017-02-04T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/people/amelie/</loc>
       <lastmod>2017-02-03T17:07:01+01:00</lastmod>
     </url>
@@ -1158,6 +1142,14 @@
     
       <loc>https://copenlu.github.io/people/lucie/</loc>
       <lastmod>2017-02-02T17:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/oscar/</loc>
+      <lastmod>2017-02-01T17:09:01+01:00</lastmod>
     </url>
     
   
@@ -1538,7 +1530,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/alumni/</loc>
-      <lastmod>2019-01-04T17:07:01+01:00</lastmod>
+      <lastmod>2017-02-05T17:07:01+01:00</lastmod>
       <priority>0</priority>
     </url>
     

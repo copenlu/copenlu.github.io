@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>ExplainYourself Project Kick-Off</title>
+      <link>https://copenlu.github.io/talk/2023_09_explainyourself/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_09_explainyourself/</guid>
+      <description>On 1 September 2023, the ERC Starting Grant project ExplainYourself on &amp;lsquo;Explainable and Robust Automatic Fact Checking&amp;rsquo; is officially kicking off. ERC Starting Grant is a highly competitive fellowship programme by the European Research Council to support talented early-career scientists who show potential to be a research leader. It provides funding of blue-skies research for a period of up to 5 years.
+ExplainYourself proposes to study explainable automatic fact checking, the task of automatically predicting the veracity of textual claims using machine learning (ML) methods, while also producing explanations about how the model arrived at the prediction.</description>
+    </item>
+    
+    <item>
       <title>4 Papers Accepted to ACL 2023</title>
       <link>https://copenlu.github.io/talk/2023_05_acl/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
@@ -21,24 +31,6 @@
 Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection. Erik Arakelyan, Arnav Arora, Isabelle Augenstein.
 Faithfulness Tests for Natural Language Explanations. Pepa Atanasova, Oana-Maria Camburu, Christina Lioma, Thomas Lukasiewicz, Jakob Grue Simonsen, Isabelle Augenstein.
 Measuring Intersectional Biases in Historical Documents. Nadav Borenstein, Karolina Stańczak, Thea Rolskov, Natacha Klein Käfer, Natália da Silva Perez, Isabelle Augenstein.</description>
-    </item>
-    
-    <item>
-      <title>PhD position available in context of Carlsberg-funded project on bias detection in job ads</title>
-      <link>https://copenlu.github.io/talk/2023_1_carlsberg/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2023_1_carlsberg/</guid>
-      <description>The PhD fellowship is offered in the context of a project supported by the Carlsberg Foundation on analysing employer descriptions in job ads led by Pia Ingold and co-led by Isabelle Augenstein. The project team will further include one postdoctoral researcher (to be hired at the Department of Psychology) as well as external partners. The project will comprise studies using methods from experimental psychology, as well as analyses of two existing big datasets on job ads (one in Danish, one in German) using Natural Language Processing.</description>
-    </item>
-    
-    <item>
-      <title>Positions available in context of ERC Starting Grant project ExplainYourself</title>
-      <link>https://copenlu.github.io/talk/2022_11_erc/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2022_11_erc/</guid>
-      <description>Two PhD fellowships and two postdoc positions on explainable stance detection are available in CopeNLU. The positions are offered in the context of an ERC Starting Grant on &amp;lsquo;Explainable and Robust Automatic Fact Checking (ExplainYourself)&amp;rsquo;. ERC Starting Grant is a highly competitive funding program by the European Research Council to support the most talented early-career scientists in Europe with funding for a period of 5 years for blue-skies research to build up or expand their research groups.</description>
     </item>
     
     <item>

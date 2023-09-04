@@ -6,17 +6,35 @@
     <description>Recent content in Alumni on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jan 2019 17:07:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 17:07:01 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Marta Marchiori Manerba</title>
+      <link>https://copenlu.github.io/people/marta/</link>
+      <pubDate>Sun, 05 Feb 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/marta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kevin Roitero</title>
       <link>https://copenlu.github.io/people/kevin/</link>
-      <pubDate>Fri, 04 Jan 2019 17:07:01 +0100</pubDate>
+      <pubDate>Sat, 04 Feb 2017 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/kevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils Rethmeier</title>
+      <link>https://copenlu.github.io/people/nils/</link>
+      <pubDate>Sat, 04 Feb 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nils/</guid>
       <description></description>
     </item>
     
@@ -35,6 +53,15 @@
       <pubDate>Thu, 02 Feb 2017 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/lucie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oscar Kjell</title>
+      <link>https://copenlu.github.io/people/oscar/</link>
+      <pubDate>Wed, 01 Feb 2017 17:09:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/oscar/</guid>
       <description></description>
     </item>
     

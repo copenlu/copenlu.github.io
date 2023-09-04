@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title>Nils Rethmeier</title>
-      <link>https://copenlu.github.io/people/nils/</link>
-      <pubDate>Mon, 14 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/nils/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Karolina Stanczak</title>
       <link>https://copenlu.github.io/people/karolina/</link>
       <pubDate>Sun, 13 Jan 2019 17:07:01 +0100</pubDate>
@@ -75,24 +66,6 @@
     </item>
     
     <item>
-      <title>Marta Marchiori Manerba</title>
-      <link>https://copenlu.github.io/people/marta/</link>
-      <pubDate>Sat, 05 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/marta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kevin Roitero</title>
-      <link>https://copenlu.github.io/people/kevin/</link>
-      <pubDate>Fri, 04 Jan 2019 17:07:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/kevin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Haeun Yu</title>
       <link>https://copenlu.github.io/people/haeun/</link>
       <pubDate>Thu, 03 Jan 2019 17:07:01 +0100</pubDate>
@@ -120,20 +93,38 @@
     </item>
     
     <item>
-      <title>Oscar Kjell</title>
-      <link>https://copenlu.github.io/people/oscar/</link>
-      <pubDate>Tue, 16 Jan 2018 17:09:01 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/people/oscar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sara Vera Marjanovic</title>
       <link>https://copenlu.github.io/people/sara/</link>
       <pubDate>Mon, 15 Jan 2018 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/sara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Marchiori Manerba</title>
+      <link>https://copenlu.github.io/people/marta/</link>
+      <pubDate>Sun, 05 Feb 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/marta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Roitero</title>
+      <link>https://copenlu.github.io/people/kevin/</link>
+      <pubDate>Sat, 04 Feb 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/kevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils Rethmeier</title>
+      <link>https://copenlu.github.io/people/nils/</link>
+      <pubDate>Sat, 04 Feb 2017 17:07:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nils/</guid>
       <description></description>
     </item>
     
@@ -152,6 +143,15 @@
       <pubDate>Thu, 02 Feb 2017 17:07:01 +0100</pubDate>
       
       <guid>https://copenlu.github.io/people/lucie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oscar Kjell</title>
+      <link>https://copenlu.github.io/people/oscar/</link>
+      <pubDate>Wed, 01 Feb 2017 17:09:01 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/people/oscar/</guid>
       <description></description>
     </item>
     

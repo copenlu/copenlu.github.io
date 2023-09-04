@@ -10,6 +10,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ExplainYourself Project Kick-Off</title>
+      <link>https://copenlu.github.io/talk/2023_09_explainyourself/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_09_explainyourself/</guid>
+      <description>&lt;p&gt;On 1 September 2023, the ERC Starting Grant project ExplainYourself on &amp;lsquo;Explainable and Robust Automatic Fact Checking&amp;rsquo; is officially kicking off. &lt;a href=&#34;https://erc.europa.eu/apply-grant/starting-grant&#34;&gt;ERC Starting Grant&lt;/a&gt; is a highly competitive fellowship programme by the European Research Council to support talented early-career scientists who show potential to be a research leader. It provides funding of blue-skies research for a period of up to 5 years.&lt;/p&gt;
+
+&lt;p&gt;ExplainYourself proposes to study explainable automatic fact checking, the task of automatically predicting the veracity of textual claims using machine learning (ML) methods, while also producing explanations about how the model arrived at the prediction. Automatic fact checking methods often use opaque deep neural network models, whose inner workings cannot easily be explained. Especially for complex tasks such as automatic fact checking, this hinders greater adoption, as it is unclear to users when the models’ predictions can be trusted. Existing explainable ML methods partly overcome this by reducing the task of explanation generation to highlighting the right rationale. While a good first step, this does not fully explain how a ML model arrived at a prediction. For knowledge intensive natural language understanding (NLU) tasks such as fact checking, a ML model needs to learn complex relationships between the claim, multiple evidence documents, and common sense knowledge in addition to retrieving the right evidence. There is currently no explainability method that aims to illuminate this highly complex process. In addition, existing approaches are unable to produce diverse explanations, geared towards users with different information needs. ExplainYourself radically departs from existing work in proposing methods for explainable fact checking that more accurately reflect how fact checking models make decisions, and are useful to diverse groups of end users. It is expected that these innovations will apply to explanation generation for other knowledge-intensive NLU tasks, such as question answering or entity linking.&lt;/p&gt;
+
+&lt;p&gt;The following &lt;a href=&#34;www.copenlu.com/#people&#34;&gt;researchers&lt;/a&gt; affiliated with the ExplainYourself project are joining CopeNLU on 1 September 2023:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://haeunyu.github.io/&#34;&gt;Haeun Yu&lt;/a&gt; (PhD Student), whose main research interests include enhancing explainability in fact-checking and transparency of knowledge-enhanced LM;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.hk/citations?hl=zh-CN&amp;user=KD_0W9sAAAAJ&#34;&gt;Jingyi Sun&lt;/a&gt; (PhD student), whose research interests include explainability, fact-checking, and question answering.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They will both be supervised by &lt;a href=&#34;http://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and &lt;a href=&#34;https://apepa.github.io/&#34;&gt;Pepa Atanasova&lt;/a&gt;.
+A postdoctoral researcher with a focus on human-centered explainability methods for fact checking is expected to join the team in Spring 2024, and there will soon be openings for further positions for a start in autumn 2024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
       <link>https://copenlu.github.io/publication/2022_information_holm/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0200</pubDate>
@@ -122,19 +144,6 @@
     </item>
     
     <item>
-      <title>PhD position available in context of Carlsberg-funded project on bias detection in job ads</title>
-      <link>https://copenlu.github.io/talk/2023_1_carlsberg/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2023_1_carlsberg/</guid>
-      <description>&lt;p&gt;The PhD fellowship is offered in the context of a &lt;a href=&#34;https://www.carlsbergfondet.dk/da/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF22_1461_Pia-Ingold&#34;&gt;project supported by the Carlsberg Foundation on analysing employer descriptions in job ads&lt;/a&gt; led by Pia Ingold and co-led by Isabelle Augenstein. The project team will further include one postdoctoral researcher (to be hired at the Department of Psychology) as well as external partners. The project will comprise studies using methods from experimental psychology, as well as analyses of two existing big datasets on job ads (one in Danish, one in German) using Natural Language Processing.
-The role of the PhD student to be recruited in this call will be to research Natural Language Processing methods, which can be used to understand what influences the employer descriptions that organisations project in job ads.&lt;/p&gt;
-
-&lt;p&gt;Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. The official call for the PhD position is up &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&amp;departmentId=18970&amp;ProjectId=159166&amp;MediaId=5&amp;SkipAdvertisement=false&#34;&gt;here&lt;/a&gt; and will close on 24 May 2023.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
       <link>https://copenlu.github.io/publication/2022_arxiv_wright/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
@@ -153,19 +162,12 @@ The role of the PhD student to be recruited in this call will be to research Nat
     </item>
     
     <item>
-      <title>Positions available in context of ERC Starting Grant project ExplainYourself</title>
-      <link>https://copenlu.github.io/talk/2022_11_erc/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
+      <title>Isabelle Augenstein becomes Denmark&#39;s youngest female full professor</title>
+      <link>https://copenlu.github.io/talk/2022_10_promotion/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://copenlu.github.io/talk/2022_11_erc/</guid>
-      <description>&lt;p&gt;Two PhD fellowships and two postdoc positions on explainable stance detection are available in CopeNLU. The positions are offered in the context of an &lt;a href=&#34;https://erc.europa.eu/apply-grant/starting-grant&#34;&gt;ERC Starting Grant&lt;/a&gt; on &amp;lsquo;&lt;a href=&#34;https://erc.europa.eu/news/erc-2021-starting-grants-results&#34;&gt;Explainable and Robust Automatic Fact Checking (ExplainYourself)&lt;/a&gt;&amp;rsquo;. ERC Starting Grant is a highly competitive funding program by the &lt;a href=&#34;https://erc.europa.eu/homepage&#34;&gt;European Research Council&lt;/a&gt; to support the most talented early-career scientists in Europe with funding for a period of 5 years for blue-skies research to build up or expand their research groups.&lt;/p&gt;
-
-&lt;p&gt;ExplainYourself proposes to study explainable automatic fact checking, the task of automatically predicting the veracity of textual claims using machine learning (ML) methods, while also producing explanations about how the model arrived at the prediction. Automatic fact checking methods often use opaque deep neural network models, whose inner workings cannot easily be explained. Especially for complex tasks such as automatic fact checking, this hinders greater adoption, as it is unclear to users when the models&amp;rsquo; predictions can be trusted. Existing explainable ML methods partly overcome this by reducing the task of explanation generation to highlighting the right rationale. While a good first step, this does not fully explain how a ML model arrived at a prediction. For knowledge intensive natural language understanding (NLU) tasks such as fact checking, a ML model needs to learn complex relationships between the claim, multiple evidence documents, and common sense knowledge in addition to retrieving the right evidence. There is currently no explainability method that aims to illuminate this highly complex process. In addition, existing approaches are unable to produce diverse explanations, geared towards users with different information needs. ExplainYourself radically departs from existing work in proposing methods for explainable fact checking that more accurately reflect how fact checking models make decisions, and are useful to diverse groups of end users. It is expected that these innovations will apply to explanation generation for other knowledge-intensive NLU tasks, such as question answering or entity linking.&lt;/p&gt;
-
-&lt;p&gt;In addition to the principle investigator, the two PhD students and postdocs, the project team will also include collaborators from CopeNLU as well as external collaborators.&lt;/p&gt;
-
-&lt;p&gt;Read more about reasons to join us &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;.
-The project team will consist of two PhD students and two postdocs, in addition to the principal investigator and external collaborators. At the moment, we are looking to fill one postdoc position. You can read more about the position and apply &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&amp;departmentId=18970&amp;ProjectId=159168&amp;MediaId=5&amp;SkipAdvertisement=false&#34;&gt;here&amp;lt;&amp;gt;.&lt;/p&gt;
+      <guid>https://copenlu.github.io/talk/2022_10_promotion/</guid>
+      <description>&lt;p&gt;Isabelle Augenstein has been promoted to full professor, making her the youngest ever female full professor in Denmark. The former officially reported youngest female full professor was appointed in 2008 when she was &lt;a href=&#34;https://politiken.dk/kultur/art7382410/Danmarks-yngste-kvindelige-professor-bliver-ny-designrektor&#34;&gt;34 years old&lt;/a&gt;. Read more University of Copenhagen&amp;rsquo;s &lt;a href=&#34;https://science.ku.dk/english/press/news/2022/denmarks-youngest-female-professor-appointed-at-the-university-of-copenhagen/&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
