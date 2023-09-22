@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2023_neurips_arakelyan/</loc>
+      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2023_09_explainyourself/</loc>
       <lastmod>2023-09-01T00:00:00+02:00</lastmod>
     </url>
@@ -86,14 +94,6 @@
     
       <loc>https://copenlu.github.io/publication/2023_arxiv_kaffee/</loc>
       <lastmod>2023-04-17T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</loc>
-      <lastmod>2023-02-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -1404,7 +1404,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2023-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1960,7 +1960,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/erik-arakelyan/</loc>
-      <lastmod>2023-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2167,7 +2167,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2023-06-19T00:00:00+02:00</lastmod>
+      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2707,7 +2707,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/pasquale-minervini/</loc>
-      <lastmod>2023-02-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2788,7 +2788,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2023-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

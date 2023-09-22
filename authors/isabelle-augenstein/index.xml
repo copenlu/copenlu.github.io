@@ -6,10 +6,19 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adapting Neural Link Predictors for Complex Query Answering</title>
+      <link>https://copenlu.github.io/publication/2023_neurips_arakelyan/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_neurips_arakelyan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
@@ -89,15 +98,6 @@
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_kaffee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adapting Neural Link Predictors for Complex Query Answering</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_arakelyan/</guid>
       <description></description>
     </item>
     
