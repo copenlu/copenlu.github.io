@@ -6,19 +6,10 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_kaffee/</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_kaffee/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>

@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2023_emnlp_choudhury/</loc>
+      <lastmod>2023-10-24T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2023_emnlp_kaffee-dual/</loc>
+      <lastmod>2023-10-23T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2023_emnlp_kaffee-wikipedia/</loc>
+      <lastmod>2023-10-23T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2023_neurips_arakelyan/</loc>
       <lastmod>2023-09-21T00:00:00+02:00</lastmod>
     </url>
@@ -86,14 +110,6 @@
     
       <loc>https://copenlu.github.io/publication/2023_c3nlp_arora/</loc>
       <lastmod>2023-05-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2023_arxiv_kaffee/</loc>
-      <lastmod>2023-04-17T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -892,6 +908,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/siddhesh/</loc>
+      <lastmod>2019-01-02T16:07:01+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2018_emnlp_gonzalez/</loc>
       <lastmod>2018-10-31T00:00:00+01:00</lastmod>
     </url>
@@ -1404,7 +1428,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1422,7 +1446,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2023-04-17T00:00:00+02:00</lastmod>
+      <lastmod>2022-12-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1647,7 +1671,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/arnav-arora/</loc>
-      <lastmod>2023-06-06T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2167,7 +2191,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2392,7 +2416,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/</loc>
-      <lastmod>2023-05-01T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2734,7 +2758,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/pepa-atanasova/</loc>
-      <lastmod>2023-05-20T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2788,7 +2812,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2023-09-21T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2851,7 +2875,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/sagnik-ray-choudhury/</loc>
-      <lastmod>2022-09-16T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3166,7 +3190,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/zeerak-talat/</loc>
-      <lastmod>2023-04-17T00:00:00+02:00</lastmod>
+      <lastmod>2023-10-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
