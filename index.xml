@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PHD: Pixel-Based Language Modeling of Historical Documents</title>
+      <link>https://copenlu.github.io/publication/2023_emnlp_borenstein/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_emnlp_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Explaining Interactions Between Text Spans</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_choudhury/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0200</pubDate>
@@ -158,15 +167,6 @@ A postdoctoral researcher with a focus on human-centered explainability methods 
       <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_c3nlp_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_wright/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_wright/</guid>
       <description></description>
     </item>
     
