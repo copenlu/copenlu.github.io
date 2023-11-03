@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2023_emnlp_sen/</loc>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2023_emnlp_borenstein/</loc>
       <lastmod>2023-10-31T00:00:00+01:00</lastmod>
     </url>
@@ -1436,7 +1444,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2023-10-31T00:00:00+01:00</lastmod>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1839,7 +1847,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/claudia-wagner/</loc>
-      <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1867,6 +1875,15 @@
     
       <loc>https://copenlu.github.io/authors/david-wadden/</loc>
       <lastmod>2022-03-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/dennis-assenmacher/</loc>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2190,7 +2207,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/indira-sen/</loc>
-      <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2208,7 +2225,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2023-10-31T00:00:00+01:00</lastmod>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2586,7 +2603,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/mattia-samory/</loc>
-      <lastmod>2022-05-04T00:00:00+02:00</lastmod>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2838,7 +2855,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2023-10-31T00:00:00+01:00</lastmod>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3145,6 +3162,15 @@
     
       <loc>https://copenlu.github.io/authors/wei-zhao/</loc>
       <lastmod>2021-05-29T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/wil-van-der-aalst/</loc>
+      <lastmod>2023-11-03T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

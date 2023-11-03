@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection</title>
+      <link>https://copenlu.github.io/publication/2023_emnlp_sen/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_emnlp_sen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PHD: Pixel-Based Language Modeling of Historical Documents</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_borenstein/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0100</pubDate>
@@ -158,15 +167,6 @@ A postdoctoral researcher with a focus on human-centered explainability methods 
       <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_slavnlp_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</title>
-      <link>https://copenlu.github.io/publication/2023_c3nlp_arora/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_c3nlp_arora/</guid>
       <description></description>
     </item>
     
