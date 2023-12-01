@@ -6,10 +6,55 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_stanczak/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invisible Women in Digital Diplomacy: A Multidimensional Framework for Online Gender Bias Against Women Ambassadors Worldwide</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_wang/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_manerba/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_manerba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
+      <link>https://copenlu.github.io/publication/2023_plosone_stanczak/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_plosone_stanczak/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection</title>
@@ -458,15 +503,6 @@
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
-      <link>https://copenlu.github.io/publication/2021_arxiv_stanczak/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2021_arxiv_stanczak/</guid>
       <description></description>
     </item>
     

@@ -10,6 +10,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_stanczak/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invisible Women in Digital Diplomacy: A Multidimensional Framework for Online Gender Bias Against Women Ambassadors Worldwide</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_wang/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_manerba/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_manerba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
+      <link>https://copenlu.github.io/publication/2023_plosone_stanczak/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_plosone_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PhD position available in context of ERC Starting Grant project ExplainYourself</title>
       <link>https://copenlu.github.io/talk/2023_11_erc/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0100</pubDate>
@@ -116,64 +161,6 @@ A postdoctoral researcher with a focus on human-centered explainability methods 
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_csur_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>4 Papers Accepted to ACL 2023</title>
-      <link>https://copenlu.github.io/talk/2023_05_acl/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
-      <description>&lt;p&gt;4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_arakelyan/&#34;&gt;Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/erik-arakelyan/&#34;&gt;Erik Arakelyan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_atanasova/&#34;&gt;Faithfulness Tests for Natural Language Explanations&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/oana-maria-camburu/&#34;&gt;Oana-Maria Camburu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/christina-lioma/&#34;&gt;Christina Lioma&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/thomas-lukasiewicz/&#34;&gt;Thomas Lukasiewicz&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jakob-grue-simonsen/&#34;&gt;Jakob Grue Simonsen&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_borenstein_measuring/&#34;&gt;Measuring Intersectional Biases in Historical Documents&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/karolina-sta%C5%84czak/&#34;&gt; Karolina Stańczak&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/thea-rolskov/&#34;&gt;Thea Rolskov&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/natacha-klein-k%C3%A4fer/&#34;&gt;Natacha Klein Käfer&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nat%C3%A1lia-da-silva-perez/&#34;&gt;Natália da Silva Perez&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_acl_borenstein_measuring/&#34;&gt;Multilingual Event Extraction from Historical Newspaper Adverts&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nat%C3%A1lia-da-silva-perez/&#34;&gt;Natália da Silva Perez&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Faithfulness Tests for Natural Language Explanations</title>
-      <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_acl_atanasova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Intersectional Biases in Historical Documents</title>
-      <link>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multilingual Event Extraction from Historical Newspaper Adverts</title>
-      <link>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection</title>
-      <link>https://copenlu.github.io/publication/2023_acl_arakelyan/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_acl_arakelyan/</guid>
       <description></description>
     </item>
     

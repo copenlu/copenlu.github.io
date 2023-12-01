@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riccardo Guidotti on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/riccardo-guidotti/</link>
+    <description>Recent content in Riccardo Guidotti on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/riccardo-guidotti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
+      <link>https://copenlu.github.io/publication/2023_arxiv_manerba/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2023_arxiv_manerba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

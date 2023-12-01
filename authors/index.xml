@@ -6,7 +6,7 @@
     <description>Recent content in Authors on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Adina Williams</title>
       <link>https://copenlu.github.io/authors/adina-williams/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/adina-williams/</guid>
       <description></description>
@@ -26,6 +26,15 @@
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/aditi-chaudhary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aditya Pillai</title>
+      <link>https://copenlu.github.io/authors/aditya-pillai/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/aditya-pillai/</guid>
       <description></description>
     </item>
     
@@ -44,6 +53,15 @@
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/albert-gatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aleksandr Rubashevskii</title>
+      <link>https://copenlu.github.io/authors/aleksandr-rubashevskii/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/aleksandr-rubashevskii/</guid>
       <description></description>
     </item>
     
@@ -185,7 +203,7 @@
     <item>
       <title>Arnav Arora</title>
       <link>https://copenlu.github.io/authors/arnav-arora/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/arnav-arora/</guid>
       <description></description>
@@ -687,9 +705,18 @@
     </item>
     
     <item>
+      <title>Iryna Gurevych</title>
+      <link>https://copenlu.github.io/authors/iryna-gurevych/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/iryna-gurevych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Isabelle Augenstein</title>
       <link>https://copenlu.github.io/authors/isabelle-augenstein/</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/isabelle-augenstein/</guid>
       <description></description>
@@ -728,6 +755,15 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/jeff-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiahui Geng</title>
+      <link>https://copenlu.github.io/authors/jiahui-geng/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/jiahui-geng/</guid>
       <description></description>
     </item>
     
@@ -806,7 +842,7 @@
     <item>
       <title>Karolina Stańczak</title>
       <link>https://copenlu.github.io/authors/karolina-sta%C5%84czak/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/karolina-sta%C5%84czak/</guid>
       <description></description>
@@ -818,6 +854,15 @@
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/katharina-kann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Du</title>
+      <link>https://copenlu.github.io/authors/kevin-du/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/kevin-du/</guid>
       <description></description>
     </item>
     
@@ -881,6 +926,15 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/leon-derczynski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liangming Pan</title>
+      <link>https://copenlu.github.io/authors/liangming-pan/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/liangming-pan/</guid>
       <description></description>
     </item>
     
@@ -1038,6 +1092,15 @@
     </item>
     
     <item>
+      <title>Marta Marchiori Manerba</title>
+      <link>https://copenlu.github.io/authors/marta-marchiori-manerba/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/marta-marchiori-manerba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Matko Bošnjak</title>
       <link>https://copenlu.github.io/authors/matko-bos%CC%8Cnjak/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
@@ -1139,7 +1202,7 @@
     <item>
       <title>Nadav Borenstein</title>
       <link>https://copenlu.github.io/authors/nadav-borenstein/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/nadav-borenstein/</guid>
       <description></description>
@@ -1209,11 +1272,29 @@
     </item>
     
     <item>
+      <title>Osama Mohammed Afzal</title>
+      <link>https://copenlu.github.io/authors/osama-mohammed-afzal/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/osama-mohammed-afzal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pasquale Minervini</title>
       <link>https://copenlu.github.io/authors/pasquale-minervini/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/pasquale-minervini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrice Wangen</title>
+      <link>https://copenlu.github.io/authors/patrice-wangen/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/patrice-wangen/</guid>
       <description></description>
     </item>
     
@@ -1274,7 +1355,7 @@
     <item>
       <title>Preslav Nakov</title>
       <link>https://copenlu.github.io/authors/preslav-nakov/</link>
-      <pubDate>Tue, 06 Jun 2023 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/preslav-nakov/</guid>
       <description></description>
@@ -1286,6 +1367,33 @@
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/rahul-aralikatte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Adler-Nissen</title>
+      <link>https://copenlu.github.io/authors/rebecca-adler-nissen/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/rebecca-adler-nissen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revanth Gangi Reddy</title>
+      <link>https://copenlu.github.io/authors/revanth-gangi-reddy/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/revanth-gangi-reddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riccardo Guidotti</title>
+      <link>https://copenlu.github.io/authors/riccardo-guidotti/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/riccardo-guidotti/</guid>
       <description></description>
     </item>
     
@@ -1319,7 +1427,7 @@
     <item>
       <title>Ryan Cotterell</title>
       <link>https://copenlu.github.io/authors/ryan-cotterell/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/ryan-cotterell/</guid>
       <description></description>
@@ -1337,7 +1445,7 @@
     <item>
       <title>Sagnik Ray Choudhury</title>
       <link>https://copenlu.github.io/authors/sagnik-ray-choudhury/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/sagnik-ray-choudhury/</guid>
       <description></description>
@@ -1481,7 +1589,7 @@
     <item>
       <title>Tiago Pimentel</title>
       <link>https://copenlu.github.io/authors/tiago-pimentel/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/tiago-pimentel/</guid>
       <description></description>
@@ -1616,7 +1724,7 @@
     <item>
       <title>Yevgeniy Golovchenko</title>
       <link>https://copenlu.github.io/authors/yevgeniy-golovchenko/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
       
       <guid>https://copenlu.github.io/authors/yevgeniy-golovchenko/</guid>
       <description></description>
@@ -1637,6 +1745,24 @@
       <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://copenlu.github.io/authors/yova-kementchedjhieva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuxia Wang</title>
+      <link>https://copenlu.github.io/authors/yuxia-wang/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/yuxia-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zain Muhammad Mujahid</title>
+      <link>https://copenlu.github.io/authors/zain-muhammad-mujahid/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/authors/zain-muhammad-mujahid/</guid>
       <description></description>
     </item>
     
