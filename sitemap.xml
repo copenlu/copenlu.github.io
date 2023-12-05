@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/talk/2023_12_emnlp/</loc>
+      <lastmod>2023-12-05T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2023_arxiv_stanczak/</loc>
       <lastmod>2023-11-30T00:00:00+01:00</lastmod>
     </url>
@@ -3451,7 +3459,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/explainability/</loc>
-      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
+      <lastmod>2023-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3460,7 +3468,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/fact-checking/</loc>
-      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
+      <lastmod>2023-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3469,7 +3477,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/gender-bias/</loc>
-      <lastmod>2022-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2023-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3487,7 +3495,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/limited-data/</loc>
-      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
+      <lastmod>2023-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3505,7 +3513,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/multilingual-learning/</loc>
-      <lastmod>2023-05-22T00:00:00+02:00</lastmod>
+      <lastmod>2023-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

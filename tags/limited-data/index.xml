@@ -6,10 +6,22 @@
     <description>Recent content in limited-data on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/limited-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Papers Accepted to EMNLP 2023</title>
+      <link>https://copenlu.github.io/talk/2023_12_emnlp/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2023_12_emnlp/</guid>
+      <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics ranging from explainability to language modelling.
+Explaining Interactions Between Text Spans. Sagnik Ray Choudhury, Pepa Atanasova, Isabelle Augenstein.
+Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions. Lucie-Aimée Kaffee, Arnav Arora, Isabelle Augenstein.
+Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing. Lucie-Aimée Kaffee, Arnav Arora, Zeerak Talat, Isabelle Augenstein.</description>
+    </item>
     
     <item>
       <title>4 Papers Accepted to ACL 2023</title>
