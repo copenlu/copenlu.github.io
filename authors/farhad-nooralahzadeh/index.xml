@@ -6,7 +6,7 @@
     <description>Recent content in Farhad Nooralahzadeh on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/farhad-nooralahzadeh/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
       <link>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</guid>
       <description></description>

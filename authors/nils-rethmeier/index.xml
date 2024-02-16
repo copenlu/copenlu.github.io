@@ -6,7 +6,7 @@
     <description>Recent content in Nils Rethmeier on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/nils-rethmeier/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings</title>
       <link>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_emnlp_ostendorff/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives</title>
       <link>https://copenlu.github.io/publication/2022_csur_rethmeier/</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_csur_rethmeier/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Contrastive Text Pretraining for Zero to Few-Shot Long-Tail Learning</title>
       <link>https://copenlu.github.io/publication/2022_aibsd_rethmeier/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_aibsd_rethmeier/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>TX-Ray: Quantifying and Explaining Model-Knowledge Transfer in (Un-)Supervised NLP</title>
       <link>https://copenlu.github.io/publication/2020_uai_rethmeier/</link>
-      <pubDate>Wed, 20 May 2020 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_uai_rethmeier/</guid>
       <description></description>

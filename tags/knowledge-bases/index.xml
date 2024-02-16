@@ -6,7 +6,7 @@
     <description>Recent content in knowledge-bases on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/knowledge-bases/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>4 Papers Accepted to ACL 2023</title>
       <link>https://copenlu.github.io/talk/2023_05_acl/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
       <description>4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.
@@ -26,7 +26,7 @@ Measuring Intersectional Biases in Historical Documents. Nadav Borenstein, Karol
     <item>
       <title>Knowledge Base Population</title>
       <link>https://copenlu.github.io/project/knowledge-bases/</link>
-      <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
       <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text, as well as automatic completion of typological knowledge bases.

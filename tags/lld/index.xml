@@ -6,7 +6,7 @@
     <description>Recent content in lld on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/lld/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Learning with Limited Labelled Data</title>
       <link>https://copenlu.github.io/project/limited-data/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/limited-data/</guid>
       <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.
@@ -25,7 +25,7 @@ Multi3Generation is a COST Action that funds collaboration of researchers in Eur
     <item>
       <title>Multilingual Learning</title>
       <link>https://copenlu.github.io/project/multilingual-learning/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/multilingual-learning/</guid>
       <description>Multi-lingual learning is concerned with training models to work well for multiple languages, including low-resource ones. We research methods for enabling information sharing between multiple languages, and also study how to utilise typological knowledge bases to this end. We are currently involved in three larger funded projects on this.

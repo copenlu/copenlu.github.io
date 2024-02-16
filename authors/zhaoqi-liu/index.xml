@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhaoqi Liu on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/zhaoqi-liu/</link>
+    <description>Recent content in Zhaoqi Liu on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/zhaoqi-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</title>
+      <link>https://copenlu.github.io/publication/2024_eacl_arakelyan/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_eacl_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

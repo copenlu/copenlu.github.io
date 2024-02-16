@@ -6,7 +6,7 @@
     <description>Recent content in nlu on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/nlu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Stance Detection and Fact Checking</title>
       <link>https://copenlu.github.io/project/fact-checking/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/fact-checking/</guid>
       <description>We are interested in studying method to determine the attitude expressed in a text towards a topic (stance detection), such as determining if a tweet expresses a positive, negative or neutral stance towards a political entity. One additional challenge we are exploring is stance detection in a conversational context, where the stance depends on the context of the conversation. Fact checking using textual data can be framed very similarly, namely as if an evidence document agrees with, disagrees with or is topically unrelated to a headline or claim.</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Explainable Machine Learning</title>
       <link>https://copenlu.github.io/project/explainability/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/explainability/</guid>
       <description>We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.
@@ -34,7 +34,7 @@ Moreover, we&amp;rsquo;re investigating fair and accountable Natural Language Pr
     <item>
       <title>Gender Bias Detection</title>
       <link>https://copenlu.github.io/project/gender-bias/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/gender-bias/</guid>
       <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
@@ -44,7 +44,7 @@ Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual 
     <item>
       <title>Scholarly Data Processing</title>
       <link>https://copenlu.github.io/project/scholarly-data/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/scholarly-data/</guid>
       <description>We are working on studying methods to automatically process scholarly data. This is to assist researchers in finding publications (e.g. by extracting content from papers automatically, which can be used to populate knowledge bases), writing better papers (e.g. by suggesting which sentences need citations, improving peer review), or tracking their impact (e.g. by tracking which papers are highly cited and how this relates to meta-data, such as venues or authors).</description>
@@ -53,7 +53,7 @@ Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual 
     <item>
       <title>Question Answering</title>
       <link>https://copenlu.github.io/project/question-answering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/question-answering/</guid>
       <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.
@@ -63,7 +63,7 @@ We are currently involved in two funded projects related to this theme: a projec
     <item>
       <title>Knowledge Base Population</title>
       <link>https://copenlu.github.io/project/knowledge-bases/</link>
-      <pubDate>Sun, 27 Mar 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/knowledge-bases/</guid>
       <description>Information extraction is concerned with extracting information about entities, phrases and relations between them from text to populate knowledge bases, such as extracting &amp;ldquo;employee-at&amp;rdquo; relations. Within this context, we have worked on automatic knowledge base completion, knowledge base cleansing and detecting scientific keyphrases in text, as well as automatic completion of typological knowledge bases.

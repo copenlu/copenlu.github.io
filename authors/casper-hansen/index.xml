@@ -6,7 +6,7 @@
     <description>Recent content in Casper Hansen on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/casper-hansen/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
       <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_emnlp_augenstein/</guid>
       <description></description>

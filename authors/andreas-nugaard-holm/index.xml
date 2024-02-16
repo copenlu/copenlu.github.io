@@ -6,7 +6,7 @@
     <description>Recent content in Andreas Nugaard Holm on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/andreas-nugaard-holm/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
       <link>https://copenlu.github.io/publication/2022_information_holm/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_information_holm/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Longitudinal Citation Prediction using Temporal Graph Neural Networks</title>
       <link>https://copenlu.github.io/publication/2022_sdu_holm/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_sdu_holm/</guid>
       <description></description>

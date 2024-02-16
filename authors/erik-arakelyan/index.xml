@@ -6,15 +6,24 @@
     <description>Recent content in Erik Arakelyan on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/erik-arakelyan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</title>
+      <link>https://copenlu.github.io/publication/2024_eacl_arakelyan/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_eacl_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adapting Neural Link Predictors for Complex Query Answering</title>
       <link>https://copenlu.github.io/publication/2023_neurips_arakelyan/</link>
-      <pubDate>Thu, 21 Sep 2023 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_neurips_arakelyan/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Topic-Guided Sampling For Data-Efficient Multi-Domain Stance Detection</title>
       <link>https://copenlu.github.io/publication/2023_acl_arakelyan/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_acl_arakelyan/</guid>
       <description></description>

@@ -6,7 +6,7 @@
     <description>Recent content in Preslav Nakov on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_wang/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_wang/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Detecting Harmful Content on Online Platforms: What Platforms Need vs. Where Research Efforts Go</title>
       <link>https://copenlu.github.io/publication/2023_csur_arora/</link>
-      <pubDate>Tue, 06 Jun 2023 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_csur_arora/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
       <link>https://copenlu.github.io/publication/2022_naacl_hardalov/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_naacl_hardalov/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
       <link>https://copenlu.github.io/publication/2022_tacl_sarwar/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_tacl_sarwar/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
       <link>https://copenlu.github.io/publication/2022_aaai_hardalov/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_aaai_hardalov/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Cross-Domain Label-Adaptive Stance Detection</title>
       <link>https://copenlu.github.io/publication/2021_emlnp_hardalov/</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_emlnp_hardalov/</guid>
       <description></description>

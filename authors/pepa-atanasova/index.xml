@@ -6,7 +6,7 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Explaining Interactions Between Text Spans</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_choudhury/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_choudhury/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Faithfulness Tests for Natural Language Explanations</title>
       <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_acl_atanasova/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</title>
       <link>https://copenlu.github.io/publication/2022_information_jolly/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_information_jolly/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Fact Checking with Insufficient Evidence</title>
       <link>https://copenlu.github.io/publication/2022_tacl_atanasova/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_tacl_atanasova/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Diagnostics-Guided Explanation Generation</title>
       <link>https://copenlu.github.io/publication/2022_aaai_atanasova/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_aaai_atanasova/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Joint Emotion Label Space Modelling for Affect Lexica</title>
       <link>https://copenlu.github.io/publication/2022_csl_debruyne/</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_csl_debruyne/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Multi-Hop Fact Checking of Political Claims</title>
       <link>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_ijcai_ostrowski/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>A Diagnostic Study of Explainability Techniques for Text Classification</title>
       <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Generating Label Cohesive and Well-Formed Adversarial Claims</title>
       <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Generating Fact Checking Explanations</title>
       <link>https://copenlu.github.io/publication/2020_acl_atanasova/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_acl_atanasova/</guid>
       <description></description>

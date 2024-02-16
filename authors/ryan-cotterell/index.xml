@@ -6,7 +6,7 @@
     <description>Recent content in Ryan Cotterell on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/ryan-cotterell/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_stanczak/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_stanczak/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
       <link>https://copenlu.github.io/publication/2023_plosone_stanczak/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_plosone_stanczak/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>A Latent-Variable Model for Intrinsic Probing</title>
       <link>https://copenlu.github.io/publication/2023_aaai_stanczak/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_aaai_stanczak/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
       <link>https://copenlu.github.io/publication/2022_naacl_stanczak/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_naacl_stanczak/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Is Sparse Attention more Interpretable?</title>
       <link>https://copenlu.github.io/publication/2021_acl_meister_sparse/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2021_acl_meister_sparse/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>
       <link>https://copenlu.github.io/publication/2020_sigtyp_bjerva/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_sigtyp_bjerva/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
       <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_acl_bjerva/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
       <link>https://copenlu.github.io/publication/2019_acl_hoyle/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_acl_hoyle/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>A Probabilistic Generative Model of Linguistic Typology</title>
       <link>https://copenlu.github.io/publication/2019_naacl_bjerva/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_bjerva/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder</title>
       <link>https://copenlu.github.io/publication/2019_naacl_hoyle/</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_naacl_hoyle/</guid>
       <description></description>

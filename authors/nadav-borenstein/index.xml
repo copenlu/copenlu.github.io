@@ -6,7 +6,7 @@
     <description>Recent content in Nadav Borenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/nadav-borenstein/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_wang/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_wang/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>PHD: Pixel-Based Language Modeling of Historical Documents</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_borenstein/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_borenstein/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Measuring Intersectional Biases in Historical Documents</title>
       <link>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_acl_borenstein_measuring/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Multilingual Event Extraction from Historical Newspaper Adverts</title>
       <link>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_acl_borenstein_multilingual/</guid>
       <description></description>

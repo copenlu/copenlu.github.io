@@ -6,7 +6,7 @@
     <description>Recent content in Christina Lioma on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/christina-lioma/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Faithfulness Tests for Natural Language Explanations</title>
       <link>https://copenlu.github.io/publication/2023_acl_atanasova/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_acl_atanasova/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Fact Checking with Insufficient Evidence</title>
       <link>https://copenlu.github.io/publication/2022_tacl_atanasova/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_tacl_atanasova/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Diagnostics-Guided Explanation Generation</title>
       <link>https://copenlu.github.io/publication/2022_aaai_atanasova/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_aaai_atanasova/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>A Diagnostic Study of Explainability Techniques for Text Classification</title>
       <link>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Generating Fact Checking Explanations</title>
       <link>https://copenlu.github.io/publication/2020_acl_atanasova/</link>
-      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2020_acl_atanasova/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims</title>
       <link>https://copenlu.github.io/publication/2019_emnlp_augenstein/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2019_emnlp_augenstein/</guid>
       <description></description>

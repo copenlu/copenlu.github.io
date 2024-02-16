@@ -6,7 +6,7 @@
     <description>Recent content in Jiaxin Pei on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/jiaxin-pei/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</title>
       <link>https://copenlu.github.io/publication/2022_emnlp_wright/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2022_emnlp_wright/</guid>
       <description>Code, models, and data We&amp;rsquo;ve released all of the code, models, and data for the project to help with further research on NLP for understanding science communication. The code can be found here, the sentence-transformers model here, and the dataset here. We&amp;rsquo;ve additionally released a lightweight python package scientific-information-change, which can be used to measure the information matching score (IMS) between scientific sentences. You can download the package as follows:</description>

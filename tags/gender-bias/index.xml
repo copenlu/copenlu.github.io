@@ -6,7 +6,7 @@
     <description>Recent content in gender-bias on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/gender-bias/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>5 Papers Accepted to EMNLP 2023</title>
       <link>https://copenlu.github.io/talk/2023_12_emnlp/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_12_emnlp/</guid>
       <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics ranging from explainability to language modelling.
@@ -26,7 +26,7 @@ Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing.
     <item>
       <title>3 Papers Accepted to NAACL 2022</title>
       <link>https://copenlu.github.io/talk/2022_07_naacl/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2022_07_naacl/</guid>
       <description>3 papers by CopeNLU authors are accepted to appear at NAACL 2022, which are on the topics of hatespeech detection, misinformation detection and multilingual probing.
@@ -38,7 +38,7 @@ Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trai
     <item>
       <title>Gender Bias Detection</title>
       <link>https://copenlu.github.io/project/gender-bias/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/gender-bias/</guid>
       <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.

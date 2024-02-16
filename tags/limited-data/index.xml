@@ -6,7 +6,7 @@
     <description>Recent content in limited-data on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/limited-data/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>5 Papers Accepted to EMNLP 2023</title>
       <link>https://copenlu.github.io/talk/2023_12_emnlp/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_12_emnlp/</guid>
       <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics ranging from explainability to language modelling.
@@ -26,7 +26,7 @@ Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing.
     <item>
       <title>4 Papers Accepted to ACL 2023</title>
       <link>https://copenlu.github.io/talk/2023_05_acl/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
       <description>4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.
@@ -38,7 +38,7 @@ Measuring Intersectional Biases in Historical Documents. Nadav Borenstein, Karol
     <item>
       <title>3 Papers Accepted to NAACL 2022</title>
       <link>https://copenlu.github.io/talk/2022_07_naacl/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2022_07_naacl/</guid>
       <description>3 papers by CopeNLU authors are accepted to appear at NAACL 2022, which are on the topics of hatespeech detection, misinformation detection and multilingual probing.
@@ -50,7 +50,7 @@ Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trai
     <item>
       <title>2 Papers Accepted to AAAI 2022</title>
       <link>https://copenlu.github.io/talk/2021_12_aaai/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2021_12_aaai/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at AAAI 2022. One paper is on explanation generation, demonstrating how directly optimising for diagnostic properties of explanations, such as faithfulness, data consistency and confidence indication, can improve explanation quality. The other paper presents the most comprehensive study of cross-lingual stance detection to date, and proposes methods for learning with limited labelled data across languages and domains.
@@ -60,7 +60,7 @@ Diagnostics-Guided Explanation Generation. Pepa Atanasova, Jakob Grue Simonsen, 
     <item>
       <title>Paper Accepted to IJCAI 2021</title>
       <link>https://copenlu.github.io/talk/2021_04_ijcai/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2021_04_ijcai/</guid>
       <description>A paper by CopeNLU author is accepted to appear at IJCAI 2021. The paper studies how to perform complex claim verification on naturally occurring political claims with multiple hops over evidence chunks.
@@ -70,7 +70,7 @@ Multi-Hop Fact Checking of Political Claims. Wojciech Ostrowski, Arnav Arora, Pe
     <item>
       <title>2 Papers Accepted to ACL 2021</title>
       <link>https://copenlu.github.io/talk/2021_04_acl/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2021_04_acl/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.
@@ -81,7 +81,7 @@ CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understand
     <item>
       <title>Paper Accepted to EACL 2021</title>
       <link>https://copenlu.github.io/talk/2021_01_eacl/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2021_01_eacl/</guid>
       <description>A paper by CopeNLU author is accepted to appear at EACL 2021. The paper aims to bridge the gap between high- and low-resource languages by investigating to what degree cross-lingual models share structural information about languages.
@@ -91,7 +91,7 @@ Does Typological Blinding Impede Cross-Lingual Sharing?. Johannes Bjerva, Isabel
     <item>
       <title>Learning with Limited Labelled Data</title>
       <link>https://copenlu.github.io/project/limited-data/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/limited-data/</guid>
       <description>Learning with limited labelled data is useful for small domains or languages with little resources. Methods we research to mitigate problems arising in these contexts include multi-task learning, weakly supervised and zero-shot learning.

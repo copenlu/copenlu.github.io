@@ -6,7 +6,7 @@
     <description>Recent content in question-answering on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/question-answering/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>4 Papers Accepted to ACL 2023</title>
       <link>https://copenlu.github.io/talk/2023_05_acl/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_05_acl/</guid>
       <description>4 papers by CopeNLU authors are accepted to appear at ACL 2023. The papers make contributions within faithfulness of explanations, measuring intersectional biases, event extraction and few-shot stance detection.
@@ -26,7 +26,7 @@ Measuring Intersectional Biases in Historical Documents. Nadav Borenstein, Karol
     <item>
       <title>2 Papers Accepted to Coling 2022</title>
       <link>https://copenlu.github.io/talk/2022_08_coling/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2022_08_coling/</guid>
       <description>2 papers by CopeNLU authors on probing question answering models are accepted to appear at Coling 2022.
@@ -37,7 +37,7 @@ Can Edge Probing Tasks Reveal Linguistic Knowledge in QA Models?. Sagnik Ray Cho
     <item>
       <title>Question Answering</title>
       <link>https://copenlu.github.io/project/question-answering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/question-answering/</guid>
       <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.

@@ -6,13 +6,22 @@
     <description>Recent content in CopeNLU on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</title>
+      <link>https://copenlu.github.io/publication/2024_eacl_arakelyan/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_eacl_arakelyan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>5 Papers Accepted to EMNLP 2023</title>
       <link>https://copenlu.github.io/talk/2023_12_emnlp/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_12_emnlp/</guid>
       <description>&lt;p&gt;5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics ranging from explainability to language modelling.&lt;/p&gt;
@@ -37,7 +46,7 @@
     <item>
       <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_stanczak/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_stanczak/</guid>
       <description></description>
@@ -46,7 +55,7 @@
     <item>
       <title>Invisible Women in Digital Diplomacy: A Multidimensional Framework for Online Gender Bias Against Women Ambassadors Worldwide</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</guid>
       <description></description>
@@ -55,7 +64,7 @@
     <item>
       <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_wang/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_wang/</guid>
       <description></description>
@@ -64,7 +73,7 @@
     <item>
       <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
       <link>https://copenlu.github.io/publication/2023_arxiv_manerba/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_manerba/</guid>
       <description></description>
@@ -73,7 +82,7 @@
     <item>
       <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
       <link>https://copenlu.github.io/publication/2023_plosone_stanczak/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_plosone_stanczak/</guid>
       <description></description>
@@ -82,7 +91,7 @@
     <item>
       <title>PhD position available in context of ERC Starting Grant project ExplainYourself</title>
       <link>https://copenlu.github.io/talk/2023_11_erc/</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_11_erc/</guid>
       <description>&lt;p&gt;A PhD fellowship on explainable natural language understanding is available in CopeNLU. The successful candidate will be supervised by &lt;a href=&#34;http://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and &lt;a href=&#34;https://apepa.github.io/&#34;&gt;Pepa Atanasova&lt;/a&gt;. The positions are offered in the context of an &lt;a href=&#34;https://erc.europa.eu/apply-grant/starting-grant&#34;&gt;ERC Starting Grant&lt;/a&gt; on &amp;lsquo;&lt;a href=&#34;https://erc.europa.eu/news/erc-2021-starting-grants-results&#34;&gt;Explainable and Robust Automatic Fact Checking (ExplainYourself)&lt;/a&gt;&amp;rsquo;. ERC Starting Grant is a highly competitive funding program by the &lt;a href=&#34;https://erc.europa.eu/homepage&#34;&gt;European Research Council&lt;/a&gt; to support the most talented early-career scientists in Europe with funding for a period of 5 years for blue-skies research to build up or expand their research groups.&lt;/p&gt;
@@ -98,7 +107,7 @@
     <item>
       <title>People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_sen/</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_sen/</guid>
       <description></description>
@@ -107,7 +116,7 @@
     <item>
       <title>PHD: Pixel-Based Language Modeling of Historical Documents</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_borenstein/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_borenstein/</guid>
       <description></description>
@@ -116,7 +125,7 @@
     <item>
       <title>Explaining Interactions Between Text Spans</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_choudhury/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_choudhury/</guid>
       <description></description>
@@ -125,7 +134,7 @@
     <item>
       <title>Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_kaffee-dual/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_kaffee-dual/</guid>
       <description></description>
@@ -134,7 +143,7 @@
     <item>
       <title>Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions</title>
       <link>https://copenlu.github.io/publication/2023_emnlp_kaffee-wikipedia/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_kaffee-wikipedia/</guid>
       <description></description>
@@ -143,7 +152,7 @@
     <item>
       <title>Adapting Neural Link Predictors for Complex Query Answering</title>
       <link>https://copenlu.github.io/publication/2023_neurips_arakelyan/</link>
-      <pubDate>Thu, 21 Sep 2023 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_neurips_arakelyan/</guid>
       <description></description>
@@ -152,7 +161,7 @@
     <item>
       <title>ExplainYourself Project Kick-Off</title>
       <link>https://copenlu.github.io/talk/2023_09_explainyourself/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2023_09_explainyourself/</guid>
       <description>&lt;p&gt;On 1 September 2023, the ERC Starting Grant project ExplainYourself on &amp;lsquo;Explainable and Robust Automatic Fact Checking&amp;rsquo; is officially kicking off. &lt;a href=&#34;https://erc.europa.eu/apply-grant/starting-grant&#34;&gt;ERC Starting Grant&lt;/a&gt; is a highly competitive fellowship programme by the European Research Council to support talented early-career scientists who show potential to be a research leader. It provides funding of blue-skies research for a period of up to 5 years.&lt;/p&gt;
@@ -169,15 +178,6 @@
 &lt;p&gt;They will both be supervised by &lt;a href=&#34;http://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and &lt;a href=&#34;https://apepa.github.io/&#34;&gt;Pepa Atanasova&lt;/a&gt;.
 A postdoctoral researcher with a focus on human-centered explainability methods for fact checking is expected to join the team in Spring 2024, and there will soon be openings for further positions for a start in autumn 2024.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Revisiting Softmax for Uncertainty Approximation in Text Classification</title>
-      <link>https://copenlu.github.io/publication/2022_information_holm/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_information_holm/</guid>
-      <description></description>
     </item>
     
   </channel>

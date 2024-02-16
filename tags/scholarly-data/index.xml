@@ -6,7 +6,7 @@
     <description>Recent content in scholarly-data on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/scholarly-data/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>2 Papers Accepted to EMNLP 2022</title>
       <link>https://copenlu.github.io/talk/2022_11_emnlp/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2022_11_emnlp/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at EMNLP 2022, which are on scholarly document understanding.
@@ -25,7 +25,7 @@ Neighborhood Contrastive Learning for Scientific Document Representations with C
     <item>
       <title>2 Papers Accepted to ACL 2021</title>
       <link>https://copenlu.github.io/talk/2021_04_acl/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/talk/2021_04_acl/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.
@@ -36,7 +36,7 @@ CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understand
     <item>
       <title>Scholarly Data Processing</title>
       <link>https://copenlu.github.io/project/scholarly-data/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/project/scholarly-data/</guid>
       <description>We are working on studying methods to automatically process scholarly data. This is to assist researchers in finding publications (e.g. by extracting content from papers automatically, which can be used to populate knowledge bases), writing better papers (e.g. by suggesting which sentences need citations, improving peer review), or tracking their impact (e.g. by tracking which papers are highly cited and how this relates to meta-data, such as venues or authors).</description>
