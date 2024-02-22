@@ -1,6 +1,6 @@
 This is the deployed website for the CopeNLU research group, built with [Hugo Academic](https://sourcethemes.com/academic). 
 
-If you want to change website content, edit the [Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository.
+If you want to change website content, edit the [CopeNLU clone of the Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository.
 
 
 ### Useful Resources
