@@ -25,7 +25,7 @@ Here's a short guide to where what content can be found:
 - [Hugo](https://gohugo.io/). Note that the CopeNLU website is only compatible with Hugo >= 0.54.0. To install it, run `docker pull klakegg/hugo:0.54.0`.
 
 ## Compiling and Deployment -- with native Hugo
-- Clone the [CopeNLU fork of the Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository.
+- Clone the [CopeNLU fork of the Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository: `git clone https://github.com/copenlu/academic-kickstart.git CopeNLU_Website`
 - Open a new terminal and navigate to the folder containing this repository. Run `hugo server`, then open a browser window and navigate to `http://localhost:1313`.
 - Edit the source code, the website will automatically refresh. If you add new folders or files as opposed to editing existing ones, you sometimes need to restart the server (i.e. terminate the hugo process and type `hugo server` again). If there are errors, an error log will be displayed. Often these are down to small syntax or naming mistakes, so stick to an existing template as closely as possible.
 - When you are done, follow the instructions on [deployment of Hugo Academic](https://sourcethemes.com/academic/docs/deployment/) to recompile the code and deploy the site. Here's a short version for if you've already done this once:
@@ -43,7 +43,7 @@ git commit -m "My commit message"
 git push origin master
 ```
 ## Compiling and Deployment -- with Docker version of Hugo
-- Clone the [CopeNLU fork of the Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository.
+- Clone the [CopeNLU fork of the Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository: `git clone https://github.com/copenlu/academic-kickstart.git CopeNLU_Website`
 - Open a new terminal and navigate to the folder containing this repository. Run `docker run --rm -it -p 1313:1313 -v $(pwd):/src klakegg/hugo:0.54.0 server`, then open a browser window and navigate to `http://localhost:1313`.
 - Edit the code, the website will automatically refresh.
 - When you are done, push the changes to the code as follows:
