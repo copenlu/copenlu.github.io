@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Vera Marjanović on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/sara-vera-marjanovi%C4%87/</link>
+    <description>Recent content in Sara Vera Marjanović on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/sara-vera-marjanovi%C4%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Investigating the Impact of Model Instability on Explanations and Uncertainty</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

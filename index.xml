@@ -10,6 +10,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Investigating Human Values in Online Communities</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_borenstein/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Impact of Model Instability on Explanations and Uncertainty</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Fine-grained Distortions in Reports of Scientific Findings</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_wuehrl/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_wuehrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</title>
       <link>https://copenlu.github.io/publication/2024_eacl_arakelyan/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
@@ -138,46 +165,6 @@
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_kaffee-dual/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions</title>
-      <link>https://copenlu.github.io/publication/2023_emnlp_kaffee-wikipedia/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_emnlp_kaffee-wikipedia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adapting Neural Link Predictors for Complex Query Answering</title>
-      <link>https://copenlu.github.io/publication/2023_neurips_arakelyan/</link>
-      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_neurips_arakelyan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ExplainYourself Project Kick-Off</title>
-      <link>https://copenlu.github.io/talk/2023_09_explainyourself/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2023_09_explainyourself/</guid>
-      <description>&lt;p&gt;On 1 September 2023, the ERC Starting Grant project ExplainYourself on &amp;lsquo;Explainable and Robust Automatic Fact Checking&amp;rsquo; is officially kicking off. &lt;a href=&#34;https://erc.europa.eu/apply-grant/starting-grant&#34;&gt;ERC Starting Grant&lt;/a&gt; is a highly competitive fellowship programme by the European Research Council to support talented early-career scientists who show potential to be a research leader. It provides funding of blue-skies research for a period of up to 5 years.&lt;/p&gt;
-
-&lt;p&gt;ExplainYourself proposes to study explainable automatic fact checking, the task of automatically predicting the veracity of textual claims using machine learning (ML) methods, while also producing explanations about how the model arrived at the prediction. Automatic fact checking methods often use opaque deep neural network models, whose inner workings cannot easily be explained. Especially for complex tasks such as automatic fact checking, this hinders greater adoption, as it is unclear to users when the models’ predictions can be trusted. Existing explainable ML methods partly overcome this by reducing the task of explanation generation to highlighting the right rationale. While a good first step, this does not fully explain how a ML model arrived at a prediction. For knowledge intensive natural language understanding (NLU) tasks such as fact checking, a ML model needs to learn complex relationships between the claim, multiple evidence documents, and common sense knowledge in addition to retrieving the right evidence. There is currently no explainability method that aims to illuminate this highly complex process. In addition, existing approaches are unable to produce diverse explanations, geared towards users with different information needs. ExplainYourself radically departs from existing work in proposing methods for explainable fact checking that more accurately reflect how fact checking models make decisions, and are useful to diverse groups of end users. It is expected that these innovations will apply to explanation generation for other knowledge-intensive NLU tasks, such as question answering or entity linking.&lt;/p&gt;
-
-&lt;p&gt;The following &lt;a href=&#34;www.copenlu.com/#people&#34;&gt;researchers&lt;/a&gt; affiliated with the ExplainYourself project are joining CopeNLU on 1 September 2023:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://haeunyu.github.io/&#34;&gt;Haeun Yu&lt;/a&gt; (PhD Student), whose main research interests include enhancing explainability in fact-checking and transparency of knowledge-enhanced LM;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://scholar.google.com.hk/citations?hl=zh-CN&amp;user=KD_0W9sAAAAJ&#34;&gt;Jingyi Sun&lt;/a&gt; (PhD student), whose research interests include explainability, fact-checking, and question answering.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;They will both be supervised by &lt;a href=&#34;http://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and &lt;a href=&#34;https://apepa.github.io/&#34;&gt;Pepa Atanasova&lt;/a&gt;.
-A postdoctoral researcher with a focus on human-centered explainability methods for fact checking is expected to join the team in Spring 2024, and there will soon be openings for further positions for a start in autumn 2024.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

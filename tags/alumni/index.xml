@@ -6,10 +6,19 @@
     <description>Recent content in Alumni on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2017 17:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 17:07:01 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Karolina Stanczak</title>
+      <link>https://copenlu.github.io/people/karolina/</link>
+      <pubDate>Mon, 06 Feb 2017 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/karolina/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Marta Marchiori Manerba</title>
