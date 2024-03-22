@@ -6,10 +6,21 @@
     <description>Recent content in explainability on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/explainability/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oustanding paper award at EACL 2024</title>
+      <link>https://copenlu.github.io/talk/2024_03_eacl/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2024_03_eacl/</guid>
+      <description>We are honoured to share that our paper on measuring the fragility of natural language inference models has won an outstanding paper award at EACL 2024. The paper is based on the MSc thesis of Zhaoqi Liu, who was supervised by Isabelle Augenstein and Erik Arakelyan.
+Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models. Erik Arakelyan, Zhaoqi Liu, Isabelle Augenstein.
+   </description>
+    </item>
     
     <item>
       <title>5 Papers Accepted to EMNLP 2023</title>

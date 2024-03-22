@@ -10,6 +10,59 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Oustanding paper award at EACL 2024</title>
+      <link>https://copenlu.github.io/talk/2024_03_eacl/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2024_03_eacl/</guid>
+      <description>&lt;p&gt;We are honoured to share that our paper on measuring the fragility of natural language inference models has won an outstanding paper award at EACL 2024. The paper is based on the MSc thesis of Zhaoqi Liu, who was supervised by Isabelle Augenstein and Erik Arakelyan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2024_eacl_arakelyan/&#34;&gt;Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/erik-arakelyan/&#34;&gt;Erik Arakelyan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/zhaoqi liu/&#34;&gt;Zhaoqi Liu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award.jpg&#34; &gt;
+  &lt;img src=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award2.jpg&#34; &gt;
+  &lt;img src=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award2.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD and postdoc positions available at Pioneer Centre for AI</title>
       <link>https://copenlu.github.io/talk/2024_03_positions/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
@@ -186,15 +239,6 @@
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_borenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining Interactions Between Text Spans</title>
-      <link>https://copenlu.github.io/publication/2023_emnlp_choudhury/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_emnlp_choudhury/</guid>
       <description></description>
     </item>
     
