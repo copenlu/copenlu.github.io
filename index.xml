@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_yu/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oustanding paper award at EACL 2024</title>
       <link>https://copenlu.github.io/talk/2024_03_eacl/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
@@ -230,15 +239,6 @@
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_emnlp_sen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PHD: Pixel-Based Language Modeling of Historical Documents</title>
-      <link>https://copenlu.github.io/publication/2023_emnlp_borenstein/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_emnlp_borenstein/</guid>
       <description></description>
     </item>
     

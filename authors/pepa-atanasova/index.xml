@@ -6,10 +6,19 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_yu/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_yu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explaining Interactions Between Text Spans</title>
