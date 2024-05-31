@@ -44,7 +44,9 @@ git push origin master
 ```
 ## Compiling and Deployment -- with Docker version of Hugo
 - Clone the [CopeNLU fork of the Academic Kickstart](https://github.com/copenlu/academic-kickstart) repository: `git clone https://github.com/copenlu/academic-kickstart.git CopeNLU_Website`
-- Open a new terminal and navigate to the folder containing this repository. Run `docker run --rm -it -p 1313:1313 -v $(pwd):/src klakegg/hugo:0.54.0 server`, then open a browser window and navigate to `http://localhost:1313`.
+- Open a new terminal and navigate to the folder containing this repository. 
+- Initialize the public submodule: 1. `rm -rf public` 2. `git submodule update --init --recursive`
+- Run `docker run --rm -it -p 1313:1313 -v $(pwd):/src klakegg/hugo:0.54.0 server`, then open a browser window and navigate to `http://localhost:1313`.
 - Edit the code, the website will automatically refresh.
 - When you are done, push the changes to the code as follows:
 ```
