@@ -6,10 +6,37 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</title>
+      <link>https://copenlu.github.io/publication/2024_acl_yu/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_acl_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Impact of Model Instability on Explanations and Uncertainty</title>
+      <link>https://copenlu.github.io/publication/2024_acl_marjanovic/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_acl_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Fine-grained Distortions in Reports of Scientific Findings</title>
+      <link>https://copenlu.github.io/publication/2024_acl_wuehrl/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_acl_wuehrl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</title>

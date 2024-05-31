@@ -6,17 +6,35 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_yu/</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <link>https://copenlu.github.io/publication/2024_acl_yu/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2024_arxiv_yu/</guid>
+      <guid>https://copenlu.github.io/publication/2024_acl_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Impact of Model Instability on Explanations and Uncertainty</title>
+      <link>https://copenlu.github.io/publication/2024_acl_marjanovic/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_acl_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Fine-grained Distortions in Reports of Scientific Findings</title>
+      <link>https://copenlu.github.io/publication/2024_acl_wuehrl/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_acl_wuehrl/</guid>
       <description></description>
     </item>
     
@@ -26,24 +44,6 @@
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_borenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating the Impact of Model Instability on Explanations and Uncertainty</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</link>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Fine-grained Distortions in Reports of Scientific Findings</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_wuehrl/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_wuehrl/</guid>
       <description></description>
     </item>
     
