@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josef Valvoda on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/josef-valvoda/</link>
+    <description>Recent content in Josef Valvoda on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/josef-valvoda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages</title>
+      <link>https://copenlu.github.io/publication/2024_acl_borenstein/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_acl_borenstein/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
