@@ -10,6 +10,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Factuality Challenges in the Era of Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_nature_augenstein/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_nature_augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
+      <link>https://copenlu.github.io/publication/2024_tacl_stanczak/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_tacl_stanczak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Framework for Input Feature Attribution Analysis</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_sun/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Benchmarking Large Language Models&#39; Capabilities to Generate Persuasive Language</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_pauli/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Participate in research on explainable fact checking</title>
       <link>https://copenlu.github.io/talk/2024_05_interviews/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -232,51 +277,6 @@ If you have any questions or would like more information about the project, you 
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2023_emnlp_borenstein/&#34;&gt;PHD: Pixel-Based Language Modeling of Historical Documents&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/phillip-rust/&#34;&gt;Philipp Rust&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/desmond-elliott/&#34;&gt;Desmond Elliott&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_stanczak/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invisible Women in Digital Diplomacy: A Multidimensional Framework for Online Gender Bias Against Women Ambassadors Worldwide</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_wang/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_manerba/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_manerba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
-      <link>https://copenlu.github.io/publication/2023_plosone_stanczak/</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_plosone_stanczak/</guid>
-      <description></description>
     </item>
     
   </channel>

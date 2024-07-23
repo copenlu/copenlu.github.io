@@ -6,10 +6,37 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Unified Framework for Input Feature Attribution Analysis</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_sun/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Benchmarking Large Language Models&#39; Capabilities to Generate Persuasive Language</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_pauli/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigating Human Values in Online Communities</title>
@@ -17,15 +44,6 @@
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_borenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
-      <link>https://copenlu.github.io/publication/2023_arxiv_stanczak/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2023_arxiv_stanczak/</guid>
       <description></description>
     </item>
     

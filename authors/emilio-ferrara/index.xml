@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilio Ferrara on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/emilio-ferrara/</link>
+    <description>Recent content in Emilio Ferrara on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/emilio-ferrara/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Factuality Challenges in the Era of Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_nature_augenstein/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_nature_augenstein/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
