@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Explainable AI methods facilitate the understanding of model behaviour, yet, small, imperceptible perturbations to inputs can vastly distort explanations. As these explanations are typically evaluated holistically, before model deployment, it is difficult to assess when a particular explanation is trustworthy. Some studies have tried to create confidence estimators for explanations, but none have investigated an existing link between uncertainty and explanation quality. We artificially simulate epistemic uncertainty in text input by introducing noise at inference time. In this large-scale empirical study, we insert different levels of noise perturbations and measure the effect on the output of pre-trained language models and different uncertainty metrics. Realistic perturbations have minimal effect on performance and explanations, yet masking has a drastic effect. We find that high uncertainty doesn&#39;t necessarily imply low explanation plausibility; the correlation between the two metrics can be moderately positive when noise is exposed during the training process. This suggests that noise-augmented models may be better at identifying salient tokens when uncertain. Furthermore, when predictive and epistemic uncertainty measures are over-confident, the robustness of a saliency map to perturbation can indicate model stability issues. Integrated Gradients shows the overall greatest robustness to perturbation, while still showing model-specific patterns in performance; however, this phenomenon is limited to smaller Transformer-based language models.">
+  <meta name="description" content="Knowledge-intensive language understanding tasks require Language Models (LMs) to integrate relevant context, mitigating their inherent weaknesses, such as incomplete or outdated knowledge. Nevertheless, studies indicate that LMs often ignore the provided context as it can conflict with the pre-existing LM&#39;s memory learned during pre-training. Moreover, conflicting knowledge can already be present in the LM&#39;s parameters, termed intra-memory conflict. Existing works have studied the two types of knowledge conflicts only in isolation. We conjecture that the (degree of) intra-memory conflicts can in turn affect LM&#39;s handling of context-memory conflicts. To study this, we introduce the DYNAMICQA dataset, which includes facts with a temporal dynamic nature where a fact can change with a varying time frequency and disputable dynamic facts, which can change depending on the viewpoint. DYNAMICQA is the first to include real-world knowledge conflicts and provide context to study the link between the different types of knowledge conflicts. With the proposed dataset, we assess the use of uncertainty for measuring the intra-memory conflict and introduce a novel Coherent Persuasion (CP) score to evaluate the context&#39;s ability to sway LM&#39;s semantic output. Our extensive experiments reveal that static facts, which are unlikely to change, are more easily updated with additional context, relative to temporal and disputable facts.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2024_arxiv_marjanovic/">
@@ -122,20 +122,20 @@
   
   <meta property="og:site_name" content="CopeNLU">
   <meta property="og:url" content="https://copenlu.github.io/publication/2024_arxiv_marjanovic/">
-  <meta property="og:title" content="Investigating the Impact of Model Instability on Explanations and Uncertainty | CopeNLU">
-  <meta property="og:description" content="Explainable AI methods facilitate the understanding of model behaviour, yet, small, imperceptible perturbations to inputs can vastly distort explanations. As these explanations are typically evaluated holistically, before model deployment, it is difficult to assess when a particular explanation is trustworthy. Some studies have tried to create confidence estimators for explanations, but none have investigated an existing link between uncertainty and explanation quality. We artificially simulate epistemic uncertainty in text input by introducing noise at inference time. In this large-scale empirical study, we insert different levels of noise perturbations and measure the effect on the output of pre-trained language models and different uncertainty metrics. Realistic perturbations have minimal effect on performance and explanations, yet masking has a drastic effect. We find that high uncertainty doesn&#39;t necessarily imply low explanation plausibility; the correlation between the two metrics can be moderately positive when noise is exposed during the training process. This suggests that noise-augmented models may be better at identifying salient tokens when uncertain. Furthermore, when predictive and epistemic uncertainty measures are over-confident, the robustness of a saliency map to perturbation can indicate model stability issues. Integrated Gradients shows the overall greatest robustness to perturbation, while still showing model-specific patterns in performance; however, this phenomenon is limited to smaller Transformer-based language models."><meta property="og:image" content="https://copenlu.github.io/publication/2024_arxiv_marjanovic/featured.png">
+  <meta property="og:title" content="From Internal Conflict to Contextual Adaptation of Language Models | CopeNLU">
+  <meta property="og:description" content="Knowledge-intensive language understanding tasks require Language Models (LMs) to integrate relevant context, mitigating their inherent weaknesses, such as incomplete or outdated knowledge. Nevertheless, studies indicate that LMs often ignore the provided context as it can conflict with the pre-existing LM&#39;s memory learned during pre-training. Moreover, conflicting knowledge can already be present in the LM&#39;s parameters, termed intra-memory conflict. Existing works have studied the two types of knowledge conflicts only in isolation. We conjecture that the (degree of) intra-memory conflicts can in turn affect LM&#39;s handling of context-memory conflicts. To study this, we introduce the DYNAMICQA dataset, which includes facts with a temporal dynamic nature where a fact can change with a varying time frequency and disputable dynamic facts, which can change depending on the viewpoint. DYNAMICQA is the first to include real-world knowledge conflicts and provide context to study the link between the different types of knowledge conflicts. With the proposed dataset, we assess the use of uncertainty for measuring the intra-memory conflict and introduce a novel Coherent Persuasion (CP) score to evaluate the context&#39;s ability to sway LM&#39;s semantic output. Our extensive experiments reveal that static facts, which are unlikely to change, are more easily updated with additional context, relative to temporal and disputable facts."><meta property="og:image" content="https://copenlu.github.io/publication/2024_arxiv_marjanovic/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2024-02-20T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2024-07-25T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-02-20T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2024-07-25T00:00:00&#43;00:00">
   
 
   
 
-  <title>Investigating the Impact of Model Instability on Explanations and Uncertainty | CopeNLU</title>
+  
+
+  <title>From Internal Conflict to Contextual Adaptation of Language Models | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -369,7 +369,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Investigating the Impact of Model Instability on Explanations and Uncertainty</h1>
+  <h1 itemprop="name">From Internal Conflict to Contextual Adaptation of Language Models</h1>
 
   
 
@@ -389,12 +389,27 @@
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
-        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+        <a href="/authors/haeun-yu/">Haeun Yu</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/maria-maistro/">Maria Maistro</a>
       </span>
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
         <a href="/authors/christina-lioma/">Christina Lioma</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
       </span>
     </span>
     
@@ -403,9 +418,9 @@
 
   <span class="article-date">
     
-    <meta content="2024-02-20 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2024-02-20 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      20 Feb 2024
+    <meta content="2024-07-25 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2024-07-25 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      25 Jul 2024
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -425,7 +440,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Investigating%20the%20Impact%20of%20Model%20Instability%20on%20Explanations%20and%20Uncertainty&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f"
+         href="https://twitter.com/intent/tweet?text=From%20Internal%20Conflict%20to%20Contextual%20Adaptation%20of%20Language%20Models&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -439,21 +454,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f&amp;title=Investigating%20the%20Impact%20of%20Model%20Instability%20on%20Explanations%20and%20Uncertainty"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f&amp;title=From%20Internal%20Conflict%20to%20Contextual%20Adaptation%20of%20Language%20Models"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f&amp;title=Investigating%20the%20Impact%20of%20Model%20Instability%20on%20Explanations%20and%20Uncertainty"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f&amp;title=From%20Internal%20Conflict%20to%20Contextual%20Adaptation%20of%20Language%20Models"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Investigating%20the%20Impact%20of%20Model%20Instability%20on%20Explanations%20and%20Uncertainty&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f">
+         href="mailto:?subject=From%20Internal%20Conflict%20to%20Contextual%20Adaptation%20of%20Language%20Models&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2024_arxiv_marjanovic%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -499,7 +514,7 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2402.13006" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2407.17023" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -521,7 +536,7 @@
   
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/limited-data/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
     Project
   </a>
   
@@ -548,7 +563,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Explainable AI methods facilitate the understanding of model behaviour, yet, small, imperceptible perturbations to inputs can vastly distort explanations. As these explanations are typically evaluated holistically, before model deployment, it is difficult to assess when a particular explanation is trustworthy. Some studies have tried to create confidence estimators for explanations, but none have investigated an existing link between uncertainty and explanation quality. We artificially simulate epistemic uncertainty in text input by introducing noise at inference time. In this large-scale empirical study, we insert different levels of noise perturbations and measure the effect on the output of pre-trained language models and different uncertainty metrics. Realistic perturbations have minimal effect on performance and explanations, yet masking has a drastic effect. We find that high uncertainty doesn&rsquo;t necessarily imply low explanation plausibility; the correlation between the two metrics can be moderately positive when noise is exposed during the training process. This suggests that noise-augmented models may be better at identifying salient tokens when uncertain. Furthermore, when predictive and epistemic uncertainty measures are over-confident, the robustness of a saliency map to perturbation can indicate model stability issues. Integrated Gradients shows the overall greatest robustness to perturbation, while still showing model-specific patterns in performance; however, this phenomenon is limited to smaller Transformer-based language models.</p>
+    <p class="pub-abstract" itemprop="text">Knowledge-intensive language understanding tasks require Language Models (LMs) to integrate relevant context, mitigating their inherent weaknesses, such as incomplete or outdated knowledge. Nevertheless, studies indicate that LMs often ignore the provided context as it can conflict with the pre-existing LM&rsquo;s memory learned during pre-training. Moreover, conflicting knowledge can already be present in the LM&rsquo;s parameters, termed intra-memory conflict. Existing works have studied the two types of knowledge conflicts only in isolation. We conjecture that the (degree of) intra-memory conflicts can in turn affect LM&rsquo;s handling of context-memory conflicts. To study this, we introduce the DYNAMICQA dataset, which includes facts with a temporal dynamic nature where a fact can change with a varying time frequency and disputable dynamic facts, which can change depending on the viewpoint. DYNAMICQA is the first to include real-world knowledge conflicts and provide context to study the link between the different types of knowledge conflicts. With the proposed dataset, we assess the use of uncertainty for measuring the intra-memory conflict and introduce a novel Coherent Persuasion (CP) score to evaluate the context&rsquo;s ability to sway LM&rsquo;s semantic output. Our extensive experiments reveal that static facts, which are unlikely to change, are more easily updated with additional context, relative to temporal and disputable facts.</p>
     
 
     
@@ -577,7 +592,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">CoRR, abs/2402.13006</div>
+          <div class="col-12 col-md-9">CoRR, abs/2407.17023</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -591,7 +606,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            February, 2024
+            July, 2024
           </div>
         </div>
       </div>

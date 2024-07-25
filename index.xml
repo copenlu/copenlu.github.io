@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From Internal Conflict to Contextual Adaptation of Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Factuality Challenges in the Era of Large Language Models</title>
       <link>https://copenlu.github.io/publication/2024_nature_augenstein/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
@@ -251,15 +260,6 @@ If you have any questions or would like more information about the project, you 
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_borenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models</title>
-      <link>https://copenlu.github.io/publication/2024_eacl_arakelyan/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_eacl_arakelyan/</guid>
       <description></description>
     </item>
     
