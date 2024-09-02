@@ -10,6 +10,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pepa has been appointed as a Tenure-Track Assistant Professor</title>
+      <link>https://copenlu.github.io/talk/2024_09_pepa/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2024_09_pepa/</guid>
+      <description>&lt;p&gt;We are delighted to share that Pepa, who has been a key member of the CopeNLU group during her PhD and postdoctoral fellowship, is now joining us as an Assistant Professor in the Department of Computer Science at the University of Copenhagen. Pepa&amp;rsquo;s research in Natural Language Processing has made significant progress in developing explainability techniques that enhance the fairness, transparency, and accountability of machine learning models. Her research, which aims to enhance the fairness, transparency, and accountability of machine learning models, particularly in the context of large language models, has already garnered significant recognition, including two prestigious awards (&lt;a href=&#34;https://ellis.eu/news/the-ellis-phd-award-2023-recognizes-two-young-scientists-from-the-universities-in-copenhagen-and-tubingen&#34;&gt;ELLIS&lt;/a&gt;, &lt;a href=&#34;https://www.informatics-europe.org/news/849-university-of-copenhagen-phd-graduate-wins-2023-best-dissertation-award.html&#34;&gt;Informatics Europe&lt;/a&gt;) for her PhD thesis.&lt;/p&gt;
+
+&lt;p&gt;In her new role, Pepa will not only continue her research but also contribute to DIKU’s educational initiatives, helping to provide essential data science skills to industry professionals. CopeNLU is excited to have her as a new faculty member and we look forward to her continued contributions to the academic community!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From Internal Conflict to Contextual Adaptation of Language Models</title>
       <link>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
@@ -221,46 +233,6 @@ If you have any questions or would like more information about the project, you 
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_eijsbroek/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>PhD and postdoc positions available at Pioneer Centre for AI</title>
-      <link>https://copenlu.github.io/talk/2024_03_positions/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2024_03_positions/</guid>
-      <description>
-
-&lt;p&gt;A PhD and two postdoc positions on natural language understanding are available. The positions are funded by the &lt;a href=&#34;https://www.aicentre.dk/&#34;&gt;Pioneer Centre for AI&lt;/a&gt;. Read more about reasons to join us &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. You can read more about the positions at the Pioneer Centre &lt;a href=&#34;https://www.aicentre.dk/jobs&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;phd-fellowship-on-factual-text-generation&#34;&gt;PhD Fellowship on Factual Text Generation&lt;/h2&gt;
-
-&lt;p&gt;While recent large language models demonstrate surprising fluency and predictive capabilities in their generated text, they have been demonstrated to generate factual inaccuracies even when they have encoded truthful information. This limits their utility and safety in real world scenarios where guarantees of factuality are needed. To address this, the project will explore methods for improving the factuality of text generation with respect to both objective real-world facts and provided source documents.&lt;/p&gt;
-
-&lt;p&gt;We are looking for candidates with a background in computer science, machine learning, natural language processing, computational social science, or similar. The candidate should have an interest in automatic text generation and fact checking. They should also have an interest in interdisciplinary research endeavors, including at the Pioneer Center for AI. Early research experience, especially with empirical research methods, or relevant industry experience, will be a bonus.&lt;/p&gt;
-
-&lt;p&gt;The principal supervisor is &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34;&gt;Professor Isabelle Augenstein&lt;/a&gt; and the co-supervisor is &lt;a href=&#34;mailto:dw@di.ku.dk&#34;&gt;Dustin Wright&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Application deadline: 1 April 2024. &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&amp;departmentId=18970&amp;ProjectId=161235&amp;MediaId=5&amp;SkipAdvertisement=false&#34;&gt;Apply here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;postdoctoral-fellowship-on-nlp-for-computational-social-science&#34;&gt;Postdoctoral Fellowship on NLP for Computational Social Science&lt;/h2&gt;
-
-&lt;p&gt;The Pioneer Centre for AI and Department of Computer Science at the University of Copenhagen invite applications for a 2-year postdoctoral full-time research position in the domain of Natural Language Processing.&lt;/p&gt;
-
-&lt;p&gt;NLP is becoming an increasingly powerful tool for social scientists. Yet, the intersection between the two disciplines is still poorly explored, with research in the two disciplines often being conducted as separate streams. The goal of this project is to research methods which can more directly be useful for downstream social science applications. One such application is to analyse common narratives in news, which requires methods including (interpretable) topic modelling, framing detection, social media analysis, etc. The successful candidate will be affiliated with a larger initiative on narrative analysis, spanning different content modalities, with the autonomy to define their project in this larger context.&lt;/p&gt;
-
-&lt;p&gt;The research will be conducted in collaboration with researchers at the Pioneer Centre for Artificial Intelligence&amp;rsquo;s Speech and Language Collaboratory, &lt;a href=&#34;https://www.copenlu.com/&#34;&gt;CopeNLU&lt;/a&gt; and the &lt;a href=&#34;https://www.belongielab.org/&#34;&gt;Belongie Lab&lt;/a&gt;. Inquiries about the position can be made to &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34;&gt;Professor Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Application deadline: 7 April 2024. &lt;a href=&#34;https://jobportal.ku.dk/videnskabelige-stillinger/?show=161353&#34;&gt;Apply here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;postdoctoral-fellowship-on-multi-modal-fact-checking&#34;&gt;Postdoctoral Fellowship on Multi-Modal Fact Checking&lt;/h2&gt;
-
-&lt;p&gt;The Pioneer Centre for AI and Department of Computer Science at the University of Copenhagen invite applications for a 2-year postdoctoral full-time research position in the domain of Natural Language Processing.&lt;/p&gt;
-
-&lt;p&gt;Online content can include multiple different modalities, ranging from text to images or tables. Increasingly, detecting false information requires the understanding of a combination of these modalities and the relationship between them. This project will focus on developing general-purpose multi-modal methods for automatic fact checking in various domains, such as scientific publications, news or social media. Inquiries about the position can be made to &lt;a href=&#34;mailto:augenstein@di.ku.dk&#34;&gt;Professor Isabelle Augenstein&lt;/a&gt; or &lt;a href=&#34;mailto:de@di.ku.dk&#34;&gt;Assistant Professor Desmond Elliot&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Application deadline: 7 April 2024. &lt;a href=&#34;https://jobportal.ku.dk/videnskabelige-stillinger/?show=161352&#34;&gt;Apply here&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
