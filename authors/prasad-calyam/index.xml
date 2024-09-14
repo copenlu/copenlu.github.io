@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prasad Calyam on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/prasad-calyam/</link>
+    <description>Recent content in Prasad Calyam on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/prasad-calyam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Claim Verification in the Age of Large Language Models: A Survey</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_dmonte/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_dmonte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
