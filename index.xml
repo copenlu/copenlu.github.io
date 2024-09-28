@@ -10,6 +10,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Can Transformers Learn n-gram Language Models?</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_svete/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_svete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_wang/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Internal Conflict to Contextual Adaptation of Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Fine-Grained Values and Opinions in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_wright/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_manerba/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_manerba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pepa has been appointed as a Tenure-Track Assistant Professor</title>
       <link>https://copenlu.github.io/talk/2024_09_pepa/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -31,15 +76,6 @@
     </item>
     
     <item>
-      <title>From Internal Conflict to Contextual Adaptation of Language Models</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Factuality Challenges in the Era of Large Language Models</title>
       <link>https://copenlu.github.io/publication/2024_nature_augenstein/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
@@ -54,15 +90,6 @@
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_tacl_stanczak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revealing Fine-Grained Values and Opinions in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_wright/</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_wright/</guid>
       <description></description>
     </item>
     
@@ -162,77 +189,6 @@ If you have any questions or would like more information about the project, you 
       
       <guid>https://copenlu.github.io/publication/2024_acl_borenstein/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating the Impact of Model Instability on Explanations and Uncertainty</title>
-      <link>https://copenlu.github.io/publication/2024_acl_marjanovic/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_acl_marjanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Fine-grained Distortions in Reports of Scientific Findings</title>
-      <link>https://copenlu.github.io/publication/2024_acl_wuehrl/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_acl_wuehrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oustanding paper award at EACL 2024</title>
-      <link>https://copenlu.github.io/talk/2024_03_eacl/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2024_03_eacl/</guid>
-      <description>&lt;p&gt;We are honoured to share that our paper on measuring the fragility of natural language inference models has won an outstanding paper award at EACL 2024. The paper is based on the MSc thesis of Zhaoqi Liu, who was supervised by Isabelle Augenstein and Erik Arakelyan.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2024_eacl_arakelyan/&#34;&gt;Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/erik-arakelyan/&#34;&gt;Erik Arakelyan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/zhaoqi liu/&#34;&gt;Zhaoqi Liu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award.jpg&#34; &gt;
-  &lt;img src=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award2.jpg&#34; &gt;
-  &lt;img src=&#34;https://copenlu.github.io/talk/2024_03_eacl/gallery/award2.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
     </item>
     
   </channel>

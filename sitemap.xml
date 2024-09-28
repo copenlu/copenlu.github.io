@@ -4,6 +4,46 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2024_emnlp_svete/</loc>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2024_emnlp_wang/</loc>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</loc>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2024_emnlp_wright/</loc>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/publication/2024_emnlp_manerba/</loc>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/talk/2024_09_pepa/</loc>
       <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -20,14 +60,6 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/publication/2024_arxiv_marjanovic/</loc>
-      <lastmod>2024-07-25T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/publication/2024_nature_augenstein/</loc>
       <lastmod>2024-07-10T00:00:00+00:00</lastmod>
     </url>
@@ -38,14 +70,6 @@
     
       <loc>https://copenlu.github.io/publication/2024_tacl_stanczak/</loc>
       <lastmod>2024-07-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2024_arxiv_wright/</loc>
-      <lastmod>2024-06-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -166,22 +190,6 @@
     
       <loc>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</loc>
       <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2023_arxiv_wang/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/publication/2023_arxiv_manerba/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -1732,7 +1740,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/1/</loc>
-      <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1804,7 +1812,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/aditya-pillai/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1840,7 +1848,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/aleksandr-rubashevskii/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2002,7 +2010,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/anej-svete/</loc>
-      <lastmod>2024-05-28T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2038,7 +2046,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/arnav-arora/</loc>
-      <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2180,7 +2188,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/christina-lioma/</loc>
-      <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2324,7 +2332,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/dustin-wright/</loc>
-      <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2621,7 +2629,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/haeun-yu/</loc>
-      <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2720,7 +2728,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/iryna-gurevych/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2729,7 +2737,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2783,7 +2791,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/jiahui-geng/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2882,7 +2890,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/karolina-sta%C5%84czak/</loc>
-      <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2981,7 +2989,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/liangming-pan/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3134,7 +3142,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/maria-maistro/</loc>
-      <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3152,7 +3160,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/marta-marchiori-manerba/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3232,6 +3240,15 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/authors/mike-zhou/</loc>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/authors/mirela-alhasani/</loc>
       <lastmod>2022-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -3278,7 +3295,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/nadav-borenstein/</loc>
-      <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3350,7 +3367,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/osama-mohammed-afzal/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3431,7 +3448,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/pepa-atanasova/</loc>
-      <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3485,7 +3502,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/preslav-nakov/</loc>
-      <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3503,7 +3520,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/</loc>
-      <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3539,7 +3556,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/revanth-gangi-reddy/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3548,7 +3565,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/riccardo-guidotti/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3620,7 +3637,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/ryan-cotterell/</loc>
-      <lastmod>2024-07-10T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3665,7 +3682,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/sara-vera-marjanovi%C4%87/</loc>
-      <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3701,7 +3718,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/serge-belongie/</loc>
-      <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3755,7 +3772,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/srishti-yadav/</loc>
-      <lastmod>2024-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4034,7 +4051,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/yuxia-wang/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4043,7 +4060,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/zain-muhammad-mujahid/</loc>
-      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

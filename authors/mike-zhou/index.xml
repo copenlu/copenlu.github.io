@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Zhou on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/mike-zhou/</link>
+    <description>Recent content in Mike Zhou on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/mike-zhou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can Transformers Learn n-gram Language Models?</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_svete/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_svete/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

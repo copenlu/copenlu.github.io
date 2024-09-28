@@ -6,10 +6,19 @@
     <description>Recent content in Anej Svete on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/anej-svete/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can Transformers Learn n-gram Language Models?</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_svete/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_svete/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages</title>
