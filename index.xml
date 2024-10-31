@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Can Transformers Learn n-gram Language Models?</title>
       <link>https://copenlu.github.io/publication/2024_emnlp_svete/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
@@ -19,20 +28,20 @@
     </item>
     
     <item>
+      <title>DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models</title>
+      <link>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
       <link>https://copenlu.github.io/publication/2024_emnlp_wang/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_emnlp_wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From Internal Conflict to Contextual Adaptation of Language Models</title>
-      <link>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</guid>
       <description></description>
     </item>
     
@@ -179,15 +188,6 @@ If you have any questions or would like more information about the project, you 
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_acl_yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages</title>
-      <link>https://copenlu.github.io/publication/2024_acl_borenstein/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_acl_borenstein/</guid>
       <description></description>
     </item>
     

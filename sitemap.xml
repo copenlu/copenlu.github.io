@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</loc>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2024_emnlp_svete/</loc>
       <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     </url>
@@ -12,7 +20,7 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/publication/2024_emnlp_wang/</loc>
+      <loc>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</loc>
       <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +28,7 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</loc>
+      <loc>https://copenlu.github.io/publication/2024_emnlp_wang/</loc>
       <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -1124,6 +1132,14 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/people/lovisa/</loc>
+      <lastmod>2019-01-02T16:07:01+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/people/siddhesh/</loc>
       <lastmod>2019-01-02T16:07:01+00:00</lastmod>
     </url>
@@ -1133,6 +1149,14 @@
     <url>
     
       <loc>https://copenlu.github.io/people/dustin/</loc>
+      <lastmod>2019-01-01T16:07:01+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/ercong/</loc>
       <lastmod>2019-01-01T16:07:01+00:00</lastmod>
     </url>
     
@@ -1180,24 +1204,8 @@
     
     <url>
     
-      <loc>https://copenlu.github.io/people/lovisa/</loc>
-      <lastmod>2018-12-26T16:07:01+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://copenlu.github.io/people/sekh/</loc>
       <lastmod>2018-12-26T16:07:01+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://copenlu.github.io/people/ercong/</loc>
-      <lastmod>2018-12-25T16:07:01+00:00</lastmod>
     </url>
     
   
@@ -1350,6 +1358,22 @@
     
       <loc>https://copenlu.github.io/people/amalie/</loc>
       <lastmod>2018-01-14T17:07:01+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/lucas/</loc>
+      <lastmod>2018-01-12T17:07:01+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/dawar/</loc>
+      <lastmod>2018-01-11T17:07:01+00:00</lastmod>
     </url>
     
   
@@ -1758,7 +1782,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1902,7 +1926,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/alumni/</loc>
-      <lastmod>2018-12-31T16:07:01+00:00</lastmod>
+      <lastmod>2019-01-02T16:07:01+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2440,7 +2464,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/erik-arakelyan/</loc>
-      <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2737,7 +2761,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3394,7 +3418,16 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/pasquale-minervini/</loc>
-      <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/pat-verga/</loc>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3404,6 +3437,15 @@
     
       <loc>https://copenlu.github.io/authors/patrice-wangen/</loc>
       <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/patrick-lewis/</loc>
+      <lastmod>2024-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

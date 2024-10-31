@@ -6,10 +6,28 @@
     <description>Recent content in Alumni on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Dec 2018 16:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 16:07:01 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lovisa Hagström</title>
+      <link>https://copenlu.github.io/people/lovisa/</link>
+      <pubDate>Wed, 02 Jan 2019 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/lovisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ercong Nie</title>
+      <link>https://copenlu.github.io/people/ercong/</link>
+      <pubDate>Tue, 01 Jan 2019 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/ercong/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Steffen Eger</title>
