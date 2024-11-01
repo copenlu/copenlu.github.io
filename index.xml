@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
+      <link>https://copenlu.github.io/publication/2024_openreview_sawar/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_openreview_sawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
       <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
@@ -180,15 +189,6 @@ If you have any questions or would like more information about the project, you 
 &lt;p&gt;&lt;a href=&#34;https://isabelleaugenstein.github.io/&#34;&gt;Prof. Isabelle Augenstein&lt;/a&gt; (Principal Investigator)&lt;br /&gt;
 &lt;em&gt;Professor, Department of Computer Science, University of Copenhagen&lt;/em&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</title>
-      <link>https://copenlu.github.io/publication/2024_acl_yu/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_acl_yu/</guid>
-      <description></description>
     </item>
     
   </channel>

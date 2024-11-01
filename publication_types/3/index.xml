@@ -6,10 +6,19 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
+      <link>https://copenlu.github.io/publication/2024_openreview_sawar/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_openreview_sawar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>

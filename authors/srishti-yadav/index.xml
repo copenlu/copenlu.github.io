@@ -6,10 +6,19 @@
     <description>Recent content in Srishti Yadav on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/srishti-yadav/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
+      <link>https://copenlu.github.io/publication/2024_openreview_sawar/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_openreview_sawar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revealing Fine-Grained Values and Opinions in Large Language Models</title>

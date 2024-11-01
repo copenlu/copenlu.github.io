@@ -28,7 +28,7 @@
       <guid>https://copenlu.github.io/project/explainability/</guid>
       <description>We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.
 We are researching methods for explainable stance detection in the context of a DFF Sapere Aude Research Leader project, and explainable fact checking as part of an ERC Starting Grant project.
-Moreover, we&amp;rsquo;re investigating fair and accountable Natural Language Processing methods to understand what influences the employer images that organisations project in job ads, as part of a Carlsberg-funded project.</description>
+Moreover, we are investigating fair and accountable Natural Language Processing methods to understand what influences the employer images that organisations project in job ads, as part of a Carlsberg-funded project.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@ Moreover, we&amp;rsquo;re investigating fair and accountable Natural Language Pr
       
       <guid>https://copenlu.github.io/project/gender-bias/</guid>
       <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
-Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
+Currently, we are interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ Currently, we&amp;rsquo;re interested in expanding the above to a cross-lingual 
       
       <guid>https://copenlu.github.io/project/question-answering/</guid>
       <description>Question answering is concerned with answer user questions, either in a closed-domain or open-domain setting automatically. We are interested in exploiting synergies between question answering and related tasks, such as framing entailment or relation extraction as question answering tasks. Further research interests are question answering in conversational settings, such as for chatbots.
-We are currently involved in two funded projects related to this theme: a project on subjectivity in question answering, funded by a faculty research award from Megagon Labs; as well a PhD fellowship grant on conversational question answering for customer support from BotXO, which Ana Valeria Gonzalez works on.</description>
+We were prevously involved in two funded projects related to this theme: a project on subjectivity in question answering, funded by a faculty research award from Megagon Labs; as well a PhD fellowship grant on conversational question answering for customer support from BotXO, which Ana Valeria Gonzalez works on.</description>
     </item>
     
     <item>
