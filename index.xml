@@ -10,11 +10,23 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PhD fellowship on Interpretable Machine Learning available</title>
+      <link>https://copenlu.github.io/talk/2024_11_phd/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2024_11_phd/</guid>
+      <description>&lt;p&gt;One PhD fellowship on Interpretable Machine Learning is available for a start in Autumn 2025. The successfull candidate will be supervised by Pepa Atanasova and Isabelle Augenstein, and will join the &lt;a href=&#34;https://di.ku.dk/english/research/nlp/&#34;&gt;Natural Language Processing Section&lt;/a&gt; at the Department of Computer Science, Faculty of Science, University of Copenhagen.&lt;/p&gt;
+
+&lt;p&gt;The full call and application link can be found &lt;a href=&#34;https://employment.ku.dk/phd/?show=162869&#34;&gt;here&lt;/a&gt;; the application deadline is &lt;b&gt;January 15, 2025&lt;/b&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
-      <link>https://copenlu.github.io/publication/2024_openreview_sawar/</link>
+      <link>https://copenlu.github.io/publication/2024_arxiv_sawar/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2024_openreview_sawar/</guid>
+      <guid>https://copenlu.github.io/publication/2024_arxiv_sawar/</guid>
       <description></description>
     </item>
     
@@ -46,7 +58,7 @@
     </item>
     
     <item>
-      <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
+      <title>Factcheck-Bench: Fine-Grained Evaluation Benchmark for Automatic Fact-Checkers</title>
       <link>https://copenlu.github.io/publication/2024_emnlp_wang/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
@@ -136,59 +148,6 @@
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Participate in research on explainable fact checking</title>
-      <link>https://copenlu.github.io/talk/2024_05_interviews/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2024_05_interviews/</guid>
-      <description>
-
-&lt;p&gt;We are recruiting professional fact checkers to take part in an interview and/or a survey about their experiences of fact checking and fact checking technologies.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in participating in this research (interviews, surveys, or both), please complete the short online form linked below. A member of the research team will then contact you with more information about the study and taking part.&lt;/p&gt;
-
-&lt;p&gt;Interview participants will be offered an &lt;a href=&#34;https://www.tangocard.com/reward-catalog?rewardcountries=US&amp;rewardcategory=gift+card&#34;&gt;online gift voucher&lt;/a&gt; to the value of 50 USD as compensation for their time. Participants who complete the survey will be offered an online gift voucher to the value of 15 USD. All personal data you may share will be kept confidential within the research team.&lt;/p&gt;
-
-&lt;h2 id=&#34;p-style-text-align-center-a-href-https-forms-office-com-e-cwrtediqbf-origin-lprlink-sign-up-form-a-p&#34;&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://forms.office.com/e/CwrTediqbF?origin=lprLink&#34;&gt;Sign up form&lt;/a&gt;&lt;/p&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;what-s-involved&#34;&gt;What’s involved?&lt;/h2&gt;
-
-&lt;p&gt;We are conducting remote interviews (e.g., on Zoom) and online surveys with professional fact-checkers, members of the general public, and other stakeholders in the fact checking sector such as journalists and content moderators.&lt;/p&gt;
-
-&lt;p&gt;The interviews will be 60 minutes in duration and will take place remotely via Zoom. Interview participants will be offered an online gift voucher to the value of 50 USD as compensation for their time.&lt;/p&gt;
-
-&lt;p&gt;Participants who agree to take part in the survey will receive a link via email to an online survey in July 2024. The survey will take about 20 minutes to complete. All participants who complete the survey will be offered an online gift voucher to the value of 15 USD.&lt;/p&gt;
-
-&lt;p&gt;All personal data will be kept confidential within the project team and always anonymised for publications and presentations. This project has received ethical approval from the University of Copenhagen Research Ethics Committee for the Faculty of Science and Faculty of Health and Medical Sciences.&lt;/p&gt;
-
-&lt;p&gt;You can read the
-&lt;a href=&#34;https://www.copenlu.com/talk/2024_05_interviews/InformationSheet_FactChecking.pdf&#34;&gt;study information sheet here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;how-do-i-take-part&#34;&gt;How do I take part?&lt;/h2&gt;
-
-&lt;p&gt;Simply fill in &lt;a href=&#34;https://forms.office.com/e/CwrTediqbF?origin=lprLink&#34;&gt;the online form here&lt;/a&gt;, and we will get in touch with you with more information.
-If you have any questions or would like more information about the project, you can contact Greta Warren at &lt;a href=&#34;mailto:grwa@di.ku.dk&#34;&gt;grwa@di.ku.dk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-this-research-about&#34;&gt;What is this research about?&lt;/h2&gt;
-
-&lt;p&gt;This research is part of the European Research Council-funded &lt;a href=&#34;https://cordis.europa.eu/project/id/101077481&#34;&gt;ExplainYourself project&lt;/a&gt; (grant agreement ID no. 101077481), which focuses on explainable automatic fact checking.  Explainable automatic fact checking involves developing Artificial Intelligence (AI) systems that can detect and correct false information as well as produce explanations about how a system arrived at its prediction that a particular piece of information is true or false.&lt;/p&gt;
-
-&lt;p&gt;The aim of the current research is to understand what kinds of explanations people require when using or when impacted by automated fact checking systems, and how these information needs may differ between different groups of stakeholders. We seek to ensure that the explanations that these systems provide are truly useful to the people that interact with them.&lt;/p&gt;
-
-&lt;h2 id=&#34;research-team&#34;&gt;Research Team:&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gretawarren.github.io/&#34;&gt;Dr Greta Warren&lt;/a&gt; &lt;br /&gt;
-&lt;em&gt;Postdoctoral Researcher, Department of Computer Science, University of Copenhagen&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://miswritings.org/&#34;&gt;Prof. Irina Shklovski&lt;/a&gt; &lt;br /&gt;
-&lt;em&gt;Professor, Department of Computer Science, University of Copenhagen&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://isabelleaugenstein.github.io/&#34;&gt;Prof. Isabelle Augenstein&lt;/a&gt; (Principal Investigator)&lt;br /&gt;
-&lt;em&gt;Professor, Department of Computer Science, University of Copenhagen&lt;/em&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

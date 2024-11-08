@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>PhD fellowship on Interpretable Machine Learning available</title>
+      <link>https://copenlu.github.io/talk/2024_11_phd/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2024_11_phd/</guid>
+      <description>One PhD fellowship on Interpretable Machine Learning is available for a start in Autumn 2025. The successfull candidate will be supervised by Pepa Atanasova and Isabelle Augenstein, and will join the Natural Language Processing Section at the Department of Computer Science, Faculty of Science, University of Copenhagen.
+The full call and application link can be found here; the application deadline is January 15, 2025.</description>
+    </item>
+    
+    <item>
       <title>Pepa has been appointed as a Tenure-Track Assistant Professor</title>
       <link>https://copenlu.github.io/talk/2024_09_pepa/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -62,6 +72,18 @@ PhD Fellowship on Factual Text Generation While recent large language models dem
 Explaining Interactions Between Text Spans. Sagnik Ray Choudhury, Pepa Atanasova, Isabelle Augenstein.
 Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions. Lucie-Aimée Kaffee, Arnav Arora, Isabelle Augenstein.
 Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing. Lucie-Aimée Kaffee, Arnav Arora, Zeerak Talat, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
+      <title>5 Papers Accepted to EMNLP 2024</title>
+      <link>https://copenlu.github.io/talk/2024_11_emnlp/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2024_11_emnlp/</guid>
+      <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics including factuality and probing for bias.
+Social Bias Probing: Fairness Benchmarking for Language Models. Marta Marchiori Manerba, Karolina Stańczak, Riccardo Guidotti, Isabelle Augenstein.
+Can Transformers Learn n-gram Language Models?. Anej Svete, Nadav Borenstein, Mike Zhou, Isabelle Augenstein, Ryan Cotterell.
+DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models. Sara Vera Marjanović, Haeun Yu, Pepa Atanasova, Maria Maistro, Maria Maistro, Christina Lioma, Isabelle Augenstein.</description>
     </item>
     
     <item>

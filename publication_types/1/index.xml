@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Factcheck-GPT: End-to-End Fine-Grained Document-Level Fact-Checking and Correction of LLM Output</title>
+      <title>Factcheck-Bench: Fine-Grained Evaluation Benchmark for Automatic Fact-Checkers</title>
       <link>https://copenlu.github.io/publication/2024_emnlp_wang/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
