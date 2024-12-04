@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
+      <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PhD fellowship on Interpretable Machine Learning available</title>
       <link>https://copenlu.github.io/talk/2024_11_phd/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
@@ -138,15 +147,6 @@
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
       <description></description>
     </item>
     
