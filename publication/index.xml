@@ -12,6 +12,42 @@
     
     
     <item>
+      <title>A Unified Framework for Input Feature Attribution Analysis</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_sun/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Human Values in Online Communities</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_borenstein/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Benchmarking Large Language Models&#39; Capabilities to Generate Persuasive Language</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_pauli/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_cao/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
       <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
@@ -111,24 +147,6 @@
     </item>
     
     <item>
-      <title>A Unified Framework for Input Feature Attribution Analysis</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_sun/</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_sun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring and Benchmarking Large Language Models&#39; Capabilities to Generate Persuasive Language</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_pauli/</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</title>
       <link>https://copenlu.github.io/publication/2024_acl_yu/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
@@ -170,15 +188,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_eijsbroek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating Human Values in Online Communities</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_borenstein/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_borenstein/</guid>
       <description></description>
     </item>
     

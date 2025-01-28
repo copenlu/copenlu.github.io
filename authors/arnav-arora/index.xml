@@ -6,10 +6,28 @@
     <description>Recent content in Arnav Arora on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/arnav-arora/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating Human Values in Online Communities</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_borenstein/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_cao/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_cao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
@@ -35,15 +53,6 @@
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_emnlp_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating Human Values in Online Communities</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_borenstein/</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_borenstein/</guid>
       <description></description>
     </item>
     

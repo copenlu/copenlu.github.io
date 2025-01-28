@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haijiang Liu on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/haijiang-liu/</link>
+    <description>Recent content in Haijiang Liu on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/haijiang-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_cao/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_cao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Unified Framework for Input Feature Attribution Analysis</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_sun/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_sun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unified Framework for Input Feature Attribution Analysis</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_sun/</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_sun/</guid>
       <description></description>
     </item>
     

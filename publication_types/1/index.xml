@@ -6,10 +6,46 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Unified Framework for Input Feature Attribution Analysis</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_sun/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Human Values in Online Communities</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_borenstein/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Benchmarking Large Language Models&#39; Capabilities to Generate Persuasive Language</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_pauli/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations</title>
+      <link>https://copenlu.github.io/publication/2025_naacl_cao/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_naacl_cao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
