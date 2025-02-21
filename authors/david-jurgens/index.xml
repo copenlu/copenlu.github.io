@@ -6,10 +6,19 @@
     <description>Recent content in David Jurgens on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/david-jurgens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unstructured Evidence Attribution for Long Context Query Focused Summarization</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling Information Change in Science Communication with Semantically Matched Paraphrases</title>

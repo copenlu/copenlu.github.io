@@ -6,10 +6,46 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can Community Notes Replace Professional Fact-Checkers?</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_borenstein/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presumed Cultural Identity: How Names Shape LLM Responses</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_pawar/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_pawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unstructured Evidence Attribution for Long Context Query Focused Summarization</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show Me the Work: Fact-Checkers&#39; Requirements for Explainable Automated Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2025_chi_warren/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_chi_warren/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Unified Framework for Input Feature Attribution Analysis</title>
@@ -48,11 +84,29 @@
     </item>
     
     <item>
-      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_roitero/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
+      <guid>https://copenlu.github.io/publication/2025_arxiv_roitero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>With Great Backbones Comes Great Adversarial Transferability</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
+      <link>https://copenlu.github.io/publication/2025_coling_ghazaryan/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_coling_ghazaryan/</guid>
       <description></description>
     </item>
     
@@ -67,10 +121,10 @@
     
     <item>
       <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</link>
+      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</guid>
+      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</guid>
       <description></description>
     </item>
     

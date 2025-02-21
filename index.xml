@@ -10,6 +10,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Can Community Notes Replace Professional Fact-Checkers?</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_borenstein/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_borenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presumed Cultural Identity: How Names Shape LLM Responses</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_pawar/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_pawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unstructured Evidence Attribution for Long Context Query Focused Summarization</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Show Me the Work: Fact-Checkers&#39; Requirements for Explainable Automated Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2025_chi_warren/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_chi_warren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Unified Framework for Input Feature Attribution Analysis</title>
       <link>https://copenlu.github.io/publication/2025_naacl_sun/</link>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
@@ -46,11 +82,29 @@
     </item>
     
     <item>
-      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_roitero/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2024_arxiv_ghazaryan/</guid>
+      <guid>https://copenlu.github.io/publication/2025_arxiv_roitero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>With Great Backbones Comes Great Adversarial Transferability</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
+      <link>https://copenlu.github.io/publication/2025_coling_ghazaryan/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_coling_ghazaryan/</guid>
       <description></description>
     </item>
     
@@ -77,10 +131,10 @@
     
     <item>
       <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</link>
+      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan_flare/</guid>
+      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</guid>
       <description></description>
     </item>
     
@@ -90,63 +144,6 @@
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_emnlp_svete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models</title>
-      <link>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_emnlp_marjanovic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Factcheck-Bench: Fine-Grained Evaluation Benchmark for Automatic Fact-Checkers</title>
-      <link>https://copenlu.github.io/publication/2024_emnlp_wang/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_emnlp_wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revealing Fine-Grained Values and Opinions in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2024_emnlp_wright/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_emnlp_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Bias Probing: Fairness Benchmarking for Language Models</title>
-      <link>https://copenlu.github.io/publication/2024_emnlp_manerba/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_emnlp_manerba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pepa has been appointed as a Tenure-Track Assistant Professor</title>
-      <link>https://copenlu.github.io/talk/2024_09_pepa/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2024_09_pepa/</guid>
-      <description>&lt;p&gt;We are delighted to share that Pepa, who has been a key member of the CopeNLU group during her PhD and postdoctoral fellowship, is now joining us as an Assistant Professor in the Department of Computer Science at the University of Copenhagen. Pepa&amp;rsquo;s research in Natural Language Processing has made significant progress in developing explainability techniques that enhance the fairness, transparency, and accountability of machine learning models. Her research, which aims to enhance the fairness, transparency, and accountability of machine learning models, particularly in the context of large language models, has already garnered significant recognition, including two prestigious awards (&lt;a href=&#34;https://ellis.eu/news/the-ellis-phd-award-2023-recognizes-two-young-scientists-from-the-universities-in-copenhagen-and-tubingen&#34;&gt;ELLIS&lt;/a&gt;, &lt;a href=&#34;https://www.informatics-europe.org/news/849-university-of-copenhagen-phd-graduate-wins-2023-best-dissertation-award.html&#34;&gt;Informatics Europe&lt;/a&gt;) for her PhD thesis.&lt;/p&gt;
-
-&lt;p&gt;In her new role, Pepa will not only continue her research but also contribute to DIKU’s educational initiatives, helping to provide essential data science skills to industry professionals. CopeNLU is excited to have her as a new faculty member and we look forward to her continued contributions to the academic community!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Claim Verification in the Age of Large Language Models: A Survey</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_dmonte/</link>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_dmonte/</guid>
       <description></description>
     </item>
     
