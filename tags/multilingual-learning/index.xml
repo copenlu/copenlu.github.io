@@ -6,10 +6,23 @@
     <description>Recent content in multilingual-learning on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/multilingual-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Papers Accepted to NAACL 2025</title>
+      <link>https://copenlu.github.io/talk/2025_01_naacl/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2025_01_naacl/</guid>
+      <description>4 papers by CopeNLU authors are accepted to appear at NAACL 2025, on topics including interpretability and computational social science.
+A Unified Framework for Input Feature Attribution Analysis. Jingyi Sun, Pepa Atanasova, Isabelle Augenstein.
+Investigating Human Values in Online Communities. Nadav Borenstein, Arnav Arora, Lucie-Aimée Kaffee , Isabelle Augenstein.
+Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations. Yong Cao, Arnav Arora, Isabelle Augenstein, Paul Röttger.
+Measuring and Benchmarking Large Language Models&amp;rsquo; Capabilities to Generate Persuasive Language.</description>
+    </item>
     
     <item>
       <title>5 Papers Accepted to EMNLP 2023</title>

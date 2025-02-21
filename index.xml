@@ -109,6 +109,28 @@
     </item>
     
     <item>
+      <title>4 Papers Accepted to NAACL 2025</title>
+      <link>https://copenlu.github.io/talk/2025_01_naacl/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2025_01_naacl/</guid>
+      <description>&lt;p&gt;4 papers by CopeNLU authors are accepted to appear at NAACL 2025, on topics including interpretability and computational social science.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_sun/&#34;&gt;A Unified Framework for Input Feature Attribution Analysis&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/jingyi-sun&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt; Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_borenstein/&#34;&gt;Investigating Human Values in Online Communities&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/&#34;&gt;Lucie-Aimée Kaffee &lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_cao/&#34;&gt;Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/yong-cao/&#34;&gt;Yong Cao&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/paul-r%C3%B6ttger/&#34;&gt;Paul Röttger&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_pauli/&#34;&gt;Measuring and Benchmarking Large Language Models&amp;rsquo; Capabilities to Generate Persuasive Language&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/amalie-brogaard-pauli/&#34;&gt;Amalie Brogaard Pauli&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ira-assent/&#34;&gt;Ira Assent&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD fellowship on Interpretable Machine Learning available</title>
       <link>https://copenlu.github.io/talk/2024_11_phd/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
@@ -135,15 +157,6 @@
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Transformers Learn n-gram Language Models?</title>
-      <link>https://copenlu.github.io/publication/2024_emnlp_svete/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_emnlp_svete/</guid>
       <description></description>
     </item>
     
