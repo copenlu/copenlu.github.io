@@ -47,15 +47,5 @@ A Survey on Stance Detection for Mis- and Disinformation Identification. Momchil
 Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models.</description>
     </item>
     
-    <item>
-      <title>Gender Bias Detection</title>
-      <link>https://copenlu.github.io/project/gender-bias/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/project/gender-bias/</guid>
-      <description>We are working on studying methods to detect gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
-Currently, we are interested in expanding the above to a cross-lingual study, as well as researching the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
-    </item>
-    
   </channel>
 </rss>

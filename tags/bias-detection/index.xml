@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bias-detection on CopeNLU</title>
+    <link>https://copenlu.github.io/tags/bias-detection/</link>
+    <description>Recent content in bias-detection on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/tags/bias-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Bias Detection</title>
+      <link>https://copenlu.github.io/project/bias-detection/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/project/bias-detection/</guid>
+      <description>We are working on studying methods to detect social biases. This includes detecting gendered language automatically using unsupervised learning methods, such as variational auto-encoders. The findings of our first paper on this (Hoyle et al., 2019) have been reported by 75+ international news outlets, including Forbes.
+We have also studied gender biases in cross-lingual settings, as well as the relationship between gender bias and attitudes towards entities on social media as part of a project funded by DFF.</description>
+    </item>
+    
+  </channel>
+</rss>
