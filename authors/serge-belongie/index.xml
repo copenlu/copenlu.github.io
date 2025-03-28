@@ -6,10 +6,19 @@
     <description>Recent content in Serge Belongie on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/serge-belongie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Modal Framing Analysis of News</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_arora/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revealing Fine-Grained Values and Opinions in Large Language Models</title>

@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Multi-Modal Framing Analysis of News</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_arora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Meta-Evaluation of Style and Attribute Transfer Metrics</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_pauli/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
@@ -149,15 +158,6 @@
 
 &lt;p&gt;The full call and application link can be found &lt;a href=&#34;https://employment.ku.dk/phd/?show=162869&#34;&gt;here&lt;/a&gt;; the application deadline is &lt;b&gt;January 15, 2025&lt;/b&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_sawar/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_sawar/</guid>
-      <description></description>
     </item>
     
   </channel>
