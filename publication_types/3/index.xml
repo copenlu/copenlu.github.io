@@ -6,10 +6,28 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
+      <link>https://copenlu.github.io/publication/2025_sigir_roitero/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_sigir_roitero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
+      <link>https://copenlu.github.io/publication/2025_plosone_wright/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_plosone_wright/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Modal Framing Analysis of News</title>
@@ -53,15 +71,6 @@
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_roitero/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_roitero/</guid>
       <description></description>
     </item>
     
@@ -116,15 +125,6 @@
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_arxiv_golovchenko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_wright/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_wright/</guid>
       <description></description>
     </item>
     

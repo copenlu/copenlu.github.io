@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
+      <link>https://copenlu.github.io/publication/2025_sigir_roitero/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_sigir_roitero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
+      <link>https://copenlu.github.io/publication/2025_plosone_wright/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_plosone_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Modal Framing Analysis of News</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
@@ -100,15 +118,6 @@
     </item>
     
     <item>
-      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_roitero/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_roitero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>With Great Backbones Comes Great Adversarial Transferability</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
@@ -145,18 +154,6 @@
 
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_pauli/&#34;&gt;Measuring and Benchmarking Large Language Models&amp;rsquo; Capabilities to Generate Persuasive Language&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/amalie-brogaard-pauli/&#34;&gt;Amalie Brogaard Pauli&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ira-assent/&#34;&gt;Ira Assent&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhD fellowship on Interpretable Machine Learning available</title>
-      <link>https://copenlu.github.io/talk/2024_11_phd/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2024_11_phd/</guid>
-      <description>&lt;p&gt;One PhD fellowship on Interpretable Machine Learning is available for a start in Autumn 2025. The successfull candidate will be supervised by Pepa Atanasova and Isabelle Augenstein, and will join the &lt;a href=&#34;https://di.ku.dk/english/research/nlp/&#34;&gt;Natural Language Processing Section&lt;/a&gt; at the Department of Computer Science, Faculty of Science, University of Copenhagen.&lt;/p&gt;
-
-&lt;p&gt;The full call and application link can be found &lt;a href=&#34;https://employment.ku.dk/phd/?show=162869&#34;&gt;here&lt;/a&gt;; the application deadline is &lt;b&gt;January 15, 2025&lt;/b&gt;.&lt;/p&gt;
 </description>
     </item>
     

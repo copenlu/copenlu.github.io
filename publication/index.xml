@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
+      <link>https://copenlu.github.io/publication/2025_sigir_roitero/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_sigir_roitero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
+      <link>https://copenlu.github.io/publication/2025_plosone_wright/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_plosone_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Modal Framing Analysis of News</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
@@ -98,15 +116,6 @@
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_naacl_cao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_roitero/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_roitero/</guid>
       <description></description>
     </item>
     
@@ -413,15 +422,6 @@
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2023_c3nlp_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
-      <link>https://copenlu.github.io/publication/2022_arxiv_wright/</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2022_arxiv_wright/</guid>
       <description></description>
     </item>
     
