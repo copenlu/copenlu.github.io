@@ -6,10 +6,28 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
+      <link>https://copenlu.github.io/publication/2025_cl_sawar/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_cl_sawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LEADING Guideline Reporting Standards for Expert Panel, Best-Estimate Diagnosis, and Longitudinal Expert All Data (LEAD) Studies</title>
+      <link>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Factuality Challenges in the Era of Large Language Models</title>

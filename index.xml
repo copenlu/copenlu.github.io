@@ -10,6 +10,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Reality Check on Context Utilisation for Retrieval-Augmented Generation</title>
+      <link>https://copenlu.github.io/publication/2025_acl_hagstro%CC%88m/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_acl_hagstro%CC%88m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Community Notes Replace Professional Fact-Checkers?</title>
+      <link>https://copenlu.github.io/publication/2025_acl_warren/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_acl_warren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
+      <link>https://copenlu.github.io/publication/2025_cl_sawar/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_cl_sawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LEADING Guideline Reporting Standards for Expert Panel, Best-Estimate Diagnosis, and Longitudinal Expert All Data (LEAD) Studies</title>
+      <link>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
       <link>https://copenlu.github.io/publication/2025_sigir_roitero/</link>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
@@ -42,15 +78,6 @@
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Community Notes Replace Professional Fact-Checkers?</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_borenstein/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_borenstein/</guid>
       <description></description>
     </item>
     
@@ -115,46 +142,6 @@
       
       <guid>https://copenlu.github.io/publication/2025_naacl_cao/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>With Great Backbones Comes Great Adversarial Transferability</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_arakelyan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages</title>
-      <link>https://copenlu.github.io/publication/2025_coling_ghazaryan/</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_coling_ghazaryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>4 Papers Accepted to NAACL 2025</title>
-      <link>https://copenlu.github.io/talk/2025_01_naacl/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/talk/2025_01_naacl/</guid>
-      <description>&lt;p&gt;4 papers by CopeNLU authors are accepted to appear at NAACL 2025, on topics including interpretability and computational social science.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_sun/&#34;&gt;A Unified Framework for Input Feature Attribution Analysis&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/jingyi-sun&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt; Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_borenstein/&#34;&gt;Investigating Human Values in Online Communities&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/&#34;&gt;Lucie-Aimée Kaffee &lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_cao/&#34;&gt;Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/yong-cao/&#34;&gt;Yong Cao&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/paul-r%C3%B6ttger/&#34;&gt;Paul Röttger&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_naacl_pauli/&#34;&gt;Measuring and Benchmarking Large Language Models&amp;rsquo; Capabilities to Generate Persuasive Language&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/amalie-brogaard-pauli/&#34;&gt;Amalie Brogaard Pauli&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ira-assent/&#34;&gt;Ira Assent&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

@@ -6,10 +6,46 @@
     <description>Recent content in Isabelle Augenstein on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Reality Check on Context Utilisation for Retrieval-Augmented Generation</title>
+      <link>https://copenlu.github.io/publication/2025_acl_hagstro%CC%88m/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_acl_hagstro%CC%88m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Community Notes Replace Professional Fact-Checkers?</title>
+      <link>https://copenlu.github.io/publication/2025_acl_warren/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_acl_warren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
+      <link>https://copenlu.github.io/publication/2025_cl_sawar/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_cl_sawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LEADING Guideline Reporting Standards for Expert Panel, Best-Estimate Diagnosis, and Longitudinal Expert All Data (LEAD) Studies</title>
+      <link>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
@@ -44,15 +80,6 @@
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Community Notes Replace Professional Fact-Checkers?</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_borenstein/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_borenstein/</guid>
       <description></description>
     </item>
     
@@ -134,15 +161,6 @@
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_coling_ghazaryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_sawar/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_sawar/</guid>
       <description></description>
     </item>
     
@@ -260,15 +278,6 @@
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_acl_wuehrl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The LEADING Guideline Reporting Standards for Expert Panel, Best-Estimate Diagnosis, and Longitudinal Expert All Data (LEAD) Studies</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_eijsbroek/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_eijsbroek/</guid>
       <description></description>
     </item>
     
