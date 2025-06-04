@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>https://copenlu.github.io/publication/2025_openreview_resck/</loc>
+      <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/post/pre-acl-ws/</loc>
+      <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://copenlu.github.io/publication/2025_arxiv_augenstein/</loc>
       <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     </url>
@@ -1950,7 +1966,7 @@
     <url>
     
       <loc>https://copenlu.github.io/publication_types/3/</loc>
-      <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+      <lastmod>2025-06-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1969,6 +1985,15 @@
     
       <loc>https://copenlu.github.io/publication_types/6/</loc>
       <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/tags/acl-2025/</loc>
+      <lastmod>2025-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2013,7 +2038,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/admin/</loc>
-      <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+      <lastmod>2025-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2221,6 +2246,15 @@
     
       <loc>https://copenlu.github.io/authors/anej-svete/</loc>
       <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/anna-korhonen/</loc>
+      <lastmod>2025-06-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3073,7 +3107,7 @@
     <url>
     
       <loc>https://copenlu.github.io/authors/isabelle-augenstein/</loc>
-      <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+      <lastmod>2025-06-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3407,6 +3441,15 @@
     
       <loc>https://copenlu.github.io/authors/lucas-chaves-lima/</loc>
       <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/authors/lucas-resck/</loc>
+      <lastmod>2025-06-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4324,7 +4367,7 @@
     <url>
     
       <loc>https://copenlu.github.io/tags/</loc>
-      <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+      <lastmod>2025-06-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

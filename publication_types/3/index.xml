@@ -6,10 +6,19 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Explainability and Interpretability of Multilingual Large Language Models: A Survey</title>
+      <link>https://copenlu.github.io/publication/2025_openreview_resck/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_openreview_resck/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Community Moderation and the New Epistemology of Fact Checking on Social Media</title>
