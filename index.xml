@@ -10,6 +10,41 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Open-topic PhD fellowships available as part of DARA</title>
+      <link>https://copenlu.github.io/talk/2025_7_dara/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/talk/2025_7_dara/</guid>
+      <description>&lt;p&gt;The Danish Advanced Research Academy (DARA) is &lt;a href=&#34;https://daracademy.dk/fellowship/fellowships-summer-2025&#34;&gt;calling for PhD fellowship applications on topics including AI&lt;/a&gt;.
+As the fellowship application process requires a letter of support from the prospective main supervisor, we are collecting and screening expressions of interest who would like to apply with Isabelle Augenstein as a main supervisor &lt;a href=&#34;https://forms.office.com/e/HZSmgR9nXB&#34;&gt;here&lt;/a&gt;. Selected interested candidates will be invited to submit full applications to the DARA fellowship programme with my support.
+Note that the PhD programme requires applicants to hold a Master&amp;rsquo;s degree or be in the process of completing a Master&amp;rsquo;s programme.&lt;/p&gt;
+
+&lt;p&gt;The timeline for recruitment is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;26 June - 20 July 2025: submission of expressions of interest via &lt;a href=&#34;https://forms.office.com/e/HZSmgR9nXB&#34;&gt;this form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;21 July - 9 August 2025: shortlisting and screening interviews&lt;/li&gt;
+&lt;li&gt;10 August 2025: a small number of selected candidates are informed&lt;/li&gt;
+&lt;li&gt;10 - 28 August 2025: each candidate prepares DARA fellowship materials with my support&lt;/li&gt;
+&lt;li&gt;29 August 14:00 CEST: deadline for submission of DARA fellowship materials&lt;/li&gt;
+&lt;li&gt;December 2025: DARA fellowship notification&lt;/li&gt;
+&lt;li&gt;1 February - 15 June 2026: start of PhD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. The official call for the PhD fellowships is up &lt;a href=&#34;https://daracademy.dk/fellowship/fellowships-summer-2025&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling Public Perceptions of Science in Media</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_pei/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_pei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Explainability and Interpretability of Multilingual Large Language Models: A Survey</title>
       <link>https://copenlu.github.io/publication/2025_openreview_resck/</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
@@ -184,24 +219,6 @@
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Meta-Evaluation of Style and Attribute Transfer Metrics</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_pauli/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presumed Cultural Identity: How Names Shape LLM Responses</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_pawar/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_pawar/</guid>
       <description></description>
     </item>
     
