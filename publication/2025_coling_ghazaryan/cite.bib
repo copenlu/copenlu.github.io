@@ -1,6 +1,21 @@
-@inproceedings{ghazaryan2024syndarinsynthesisingdatasetsautomated,
-      title={{SynDARin: Synthesising Datasets for Automated Reasoning in Low-Resource Languages}},
-      author={Gayane Ghazaryan and Erik Arakelyan and Pasquale Minervini and Isabelle Augenstein},
-      year={2025},
-      booktitle = {Proceedings of Coling},
+@inproceedings{ghazaryan-etal-2025-syndarin,
+    title = {{{S}yn{DAR}in: Synthesising Datasets for Automated Reasoning in Low-Resource Languages}},
+    author = "Ghazaryan, Gayane  and
+      Arakelyan, Erik  and
+      Augenstein, Isabelle  and
+      Minervini, Pasquale",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.430/",
+    pages = "6459--6466",
+    abstract = "Question Answering (QA) datasets have been instrumental in developing and evaluating Large Language Model (LLM) capabilities. However, such datasets are scarce for languages other than English due to the cost and difficulties of collection and manual annotation. This means that producing novel models and measuring the performance of multilingual LLMs in low-resource languages is challenging. To mitigate this, we propose \textbf{S}yn\textbf{DAR}in, a method for generating and validating QA datasets for low-resoucre languages. We utilize parallel content mining to obtain \textit{human-curated} paragraphs between English and the target language. We use the English data as context to \textit{generate} synthetic multiple-choice (MC) question-answer pairs, which are automatically translated and further validated for quality. Combining these with their designated non-English \textit{human-curated} paragraphs form the final QA dataset. The method allows to maintain content quality, reduces the likelihood of factual errors, and circumvents the need for costly annotation. To test the method, we created a QA dataset with 1.2K samples for the Armenian language. The human evaluation shows that 98{\%} of the generated English data maintains quality and diversity in the question types and topics, while the translation validation pipeline can filter out {\textasciitilde}70{\%} of data with poor quality. We use the dataset to benchmark state-of-the-art LLMs, showing their inability to achieve human accuracy with some model performances closer to random chance. This shows that the generated dataset is non-trivial and can be used to evaluate reasoning capabilities in low-resource language."
 }

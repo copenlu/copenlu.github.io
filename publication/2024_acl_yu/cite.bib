@@ -1,7 +1,18 @@
-@inproceedings{yu2024revealing,
-      title={Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods},
-      author={Haeun Yu and Pepa Atanasova and Isabelle Augenstein},
-      booktitle = {Proceedings of ACL},
-      publisher = {Association for Computational Linguistics},
-      year = 2024
+@inproceedings{yu-etal-2024-revealing,
+    title = {{Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods}},
+    author = "Yu, Haeun  and
+      Atanasova, Pepa  and
+      Augenstein, Isabelle",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.444/",
+    doi = "10.18653/v1/2024.acl-long.444",
+    pages = "8173--8186",
+    abstract = "Language Models (LMs) acquire parametric knowledge from their training process, embedding it within their weights. The increasing scalability of LMs, however, poses significant challenges for understanding a model{'}s inner workings and further for updating or correcting this embedded knowledge without the significant cost of retraining. This underscores the importance of unveiling exactly what knowledge is stored and its association with specific model components. Instance Attribution (IA) and Neuron Attribution (NA) offer insights into this training-acquired knowledge, though they have not been compared systematically. Our study introduces a novel evaluation framework to quantify and compare the knowledge revealed by IA and NA. To align the results of the methods we introduce the attribution method NA-Instances to apply NA for retrieving influential training instances, and IA-Neurons to discover important neurons of influential instances discovered by IA. We further propose a comprehensive list of faithfulness tests to evaluate the comprehensiveness and sufficiency of the explanations provided by both methods. Through extensive experiments and analysis, we demonstrate that NA generally reveals more diverse and comprehensive information regarding the LM{'}s parametric knowledge compared to IA. Nevertheless, IA provides unique and valuable insights into the LM{'}s parametric knowledge, which are not revealed by NA. Our findings further suggest the potential of a synergistic approach of combining the diverse findings of IA and NA for a more holistic understanding of an LM{'}s parametric knowledge."
 }

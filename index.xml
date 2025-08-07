@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Reliable Evaluation Protocol for Low-Precision Retrieval</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_yang/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Open-topic PhD fellowships available as part of DARA</title>
       <link>https://copenlu.github.io/talk/2025_7_dara/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
@@ -170,10 +179,10 @@ Note that the PhD programme requires applicants to hold a Master&amp;rsquo;s deg
     
     <item>
       <title>Can Community Notes Replace Professional Fact-Checkers?</title>
-      <link>https://copenlu.github.io/publication/2025_acl_warren/</link>
+      <link>https://copenlu.github.io/publication/2025_acl_borenstein/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2025_acl_warren/</guid>
+      <guid>https://copenlu.github.io/publication/2025_acl_borenstein/</guid>
       <description></description>
     </item>
     
@@ -210,15 +219,6 @@ Note that the PhD programme requires applicants to hold a Master&amp;rsquo;s deg
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_plosone_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Modal Framing Analysis of News</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_arora/</guid>
       <description></description>
     </item>
     

@@ -1,8 +1,15 @@
-@article{wright2025multiview,
-      title={{Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization}},
-      author={Dustin Wright and Isabelle Augenstein},
-      year={2025},
-note = {to appear},
-journal = {PLoS ONE},
-month = {april}
+@article{10.1371/journal.pone.0323064,
+    doi = {10.1371/journal.pone.0323064},
+    author = {Wright, Dustin AND Augenstein, Isabelle},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Aggregating soft labels from crowd annotations improves uncertainty estimation under distribution shift},
+    year = {2025},
+    month = {06},
+    volume = {20},
+    url = {https://doi.org/10.1371/journal.pone.0323064},
+    pages = {1-28},
+    abstract = {Selecting an effective training signal for machine learning tasks is difficult: expert annotations are expensive, and crowd-sourced annotations may not be reliable. Recent work has demonstrated that learning from a distribution over labels acquired from crowd annotations can be effective both for performance and uncertainty estimation. However, this has mainly been studied using a limited set of soft-labeling methods in an in-domain setting. Additionally, no one method has been shown to consistently perform well across tasks, making it difficult to know a priori which to choose. To fill these gaps, this paper provides the first large-scale empirical study on learning from crowd labels in the out-of-domain setting, systematically analyzing 8 soft-labeling methods on 4 language and vision tasks. Additionally, we propose to aggregate soft-labels via a simple average in order to achieve consistent performance across tasks. We demonstrate that this yields classifiers with improved predictive uncertainty estimation in most settings while maintaining consistent raw performance compared to learning from individual soft-labeling methods or taking a majority vote of the annotations. We additionally highlight that in regimes with abundant or minimal training data, the selection of soft labeling method is less important, while for highly subjective labels and moderate amounts of training data, aggregation yields significant improvements in uncertainty estimation over individual methods. Code can be found at https://github.com/copenlu/aggregating-crowd-annotations-ood},
+    number = {6},
+
 }
