@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Siddhesh Pawar on CopeNLU</title>
-    <link>https://copenlu.github.io/authors/siddhesh-pawar/</link>
-    <description>Recent content in Siddhesh Pawar on CopeNLU</description>
+    <title>Seogyeong Jeong on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/seogyeong-jeong/</link>
+    <description>Recent content in Seogyeong Jeong on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://copenlu.github.io/authors/siddhesh-pawar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://copenlu.github.io/authors/seogyeong-jeong/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presumed Cultural Identity: How Names Shape LLM Responses</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_pawar/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_pawar/</guid>
       <description></description>
     </item>
     

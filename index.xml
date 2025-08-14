@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_yu/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reliable Evaluation Protocol for Low-Precision Retrieval</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_yang/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
@@ -201,24 +219,6 @@ Note that the PhD programme requires applicants to hold a Master&amp;rsquo;s deg
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_comprehensive-psychiatry_eijsbroek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collecting Cost-Effective, High-Quality Truthfulness Assessments with LLM Summarized Evidence</title>
-      <link>https://copenlu.github.io/publication/2025_sigir_roitero/</link>
-      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_sigir_roitero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-View Knowledge Distillation from Crowd Annotations for Out-of-Domain Generalization</title>
-      <link>https://copenlu.github.io/publication/2025_plosone_wright/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_plosone_wright/</guid>
       <description></description>
     </item>
     

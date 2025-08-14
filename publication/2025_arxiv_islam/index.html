@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="Understanding biases and stereotypes encoded in the weights of Large Language Models (LLMs) is crucial for developing effective mitigation strategies. Biased behaviour is often subtle and non-trivial to isolate, even when deliberately elicited, making systematic analysis and debiasing particularly challenging. To address this, we introduce BiasGym, a simple, cost-effective, and generalizable framework for reliably injecting, analyzing, and mitigating conceptual associations within LLMs. BiasGym consists of two components: BiasInject, which injects specific biases into the model via token-based fine-tuning while keeping the model frozen, and BiasScope, which leverages these injected signals to identify and steer the components responsible for biased behavior. Our method enables consistent bias elicitation for mechanistic analysis, supports targeted debiasing without degrading performance on downstream tasks, and generalizes to biases unseen during training. We demonstrate the effectiveness of BiasGym in reducing real-world stereotypes (e.g., people from a country being `reckless drivers&#39;) and in probing fictional associations (e.g., people from a country having `blue skin&#39;), showing its utility for both safety interventions and interpretability research.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/authors/haeun-yu/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2025_arxiv_islam/">
 
   
 
@@ -99,15 +99,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/authors/haeun-yu/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/authors/haeun-yu/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/authors/haeun-yu/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2025_arxiv_islam/">
 
   
   
@@ -121,19 +121,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/authors/haeun-yu/">
-  <meta property="og:title" content="Haeun Yu | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2025_arxiv_islam/">
+  <meta property="og:title" content="BiasGym: Fantastic Biases and How to Find (and Remove) Them | CopeNLU">
+  <meta property="og:description" content="Understanding biases and stereotypes encoded in the weights of Large Language Models (LLMs) is crucial for developing effective mitigation strategies. Biased behaviour is often subtle and non-trivial to isolate, even when deliberately elicited, making systematic analysis and debiasing particularly challenging. To address this, we introduce BiasGym, a simple, cost-effective, and generalizable framework for reliably injecting, analyzing, and mitigating conceptual associations within LLMs. BiasGym consists of two components: BiasInject, which injects specific biases into the model via token-based fine-tuning while keeping the model frozen, and BiasScope, which leverages these injected signals to identify and steer the components responsible for biased behavior. Our method enables consistent bias elicitation for mechanistic analysis, supports targeted debiasing without degrading performance on downstream tasks, and generalizes to biases unseen during training. We demonstrate the effectiveness of BiasGym in reducing real-world stereotypes (e.g., people from a country being `reckless drivers&#39;) and in probing fictional associations (e.g., people from a country having `blue skin&#39;), showing its utility for both safety interventions and interpretability research."><meta property="og:image" content="https://copenlu.github.io/publication/2025_arxiv_islam/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-08-13T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-08-13T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2025-08-13T00:00:00&#43;00:00">
   
 
   
 
   
 
-  <title>Haeun Yu | CopeNLU</title>
+  <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,7 +348,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
+  
 
 
 
@@ -363,58 +367,285 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">BiasGym: Fantastic Biases and How to Find (and Remove) Them</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/sekh-mainul-islam/">Sekh Mainul Islam</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/nadav-borenstein/">Nadav Borenstein</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/siddhesh-milind-pawar/">Siddhesh Milind Pawar</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/haeun-yu/">Haeun Yu</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/arnav-arora/">Arnav Arora</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2025-08-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2025-08-13 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      13 Aug 2025
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=BiasGym%3a%20Fantastic%20Biases%20and%20How%20to%20Find%20%28and%20Remove%29%20Them&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_islam%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_islam%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_islam%2f&amp;title=BiasGym%3a%20Fantastic%20Biases%20and%20How%20to%20Find%20%28and%20Remove%29%20Them"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_islam%2f&amp;title=BiasGym%3a%20Fantastic%20Biases%20and%20How%20to%20Find%20%28and%20Remove%29%20Them"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=BiasGym%3a%20Fantastic%20Biases%20and%20How%20to%20Find%20%28and%20Remove%29%20Them&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_islam%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Haeun Yu</h1>
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2508.08855" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2025_arxiv_islam/cite.bib">
+  Cite
+</button>
+
+
+
+
 
   
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/bias-detection/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/explainability/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<section id="about" class="home-section">
-  <div class="container">
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Understanding biases and stereotypes encoded in the weights of Large Language Models (LLMs) is crucial for developing effective mitigation strategies. Biased behaviour is often subtle and non-trivial to isolate, even when deliberately elicited, making systematic analysis and debiasing particularly challenging. To address this, we introduce BiasGym, a simple, cost-effective, and generalizable framework for reliably injecting, analyzing, and mitigating conceptual associations within LLMs. BiasGym consists of two components: BiasInject, which injects specific biases into the model via token-based fine-tuning while keeping the model frozen, and BiasScope, which leverages these injected signals to identify and steer the components responsible for biased behavior. Our method enables consistent bias elicitation for mechanistic analysis, supports targeted debiasing without degrading performance on downstream tasks, and generalizes to biases unseen during training. We demonstrate the effectiveness of BiasGym in reducing real-world stereotypes (e.g., people from a country being <code>reckless drivers') and in probing fictional associations (e.g., people from a country having</code>blue skin&rsquo;), showing its utility for both safety interventions and interpretability research.</p>
     
+
     
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_arxiv_islam/">BiasGym: Fantastic Biases and How to Find (and Remove) Them</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_arxiv_yu/">Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_arxiv_hagstr%C3%B6m/">CUB: Benchmarking Context Utilisation Techniques for Language Models</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_acl_hagstr%C3%B6m/">A Reality Check on Context Utilisation for Retrieval-Augmented Generation</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2024_emnlp_marjanovic/">DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2024_acl_yu/">Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#3">
+              Manuscript
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">CoRR, abs/2508.08855</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            August, 2025
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
+
 
 
 <div class="container">
