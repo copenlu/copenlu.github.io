@@ -12,6 +12,60 @@
     
     
     <item>
+      <title>A Meta-Evaluation of Style and Attribute Transfer Metrics</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_pauli/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainability and Interpretability of Multilingual Large Language Models: A Survey</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_resck/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_resck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_arakelyan/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_arakelyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-Guided Textual Explanation Generation Framework</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_yuan/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal Framing Analysis of News</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_arora/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_arora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unstructured Evidence Attribution for Long Context Query Focused Summarization</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_wright/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
@@ -44,15 +98,6 @@
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_pei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explainability and Interpretability of Multilingual Large Language Models: A Survey</title>
-      <link>https://copenlu.github.io/publication/2025_openreview_resck/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_openreview_resck/</guid>
       <description></description>
     </item>
     
@@ -138,38 +183,11 @@
     </item>
     
     <item>
-      <title>Multi-Modal Framing Analysis of News</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Meta-Evaluation of Style and Attribute Transfer Metrics</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_pauli/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Presumed Cultural Identity: How Names Shape LLM Responses</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_pawar/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_pawar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unstructured Evidence Attribution for Long Context Query Focused Summarization</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
       <description></description>
     </item>
     
@@ -233,15 +251,6 @@
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_coling_ghazaryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</guid>
       <description></description>
     </item>
     

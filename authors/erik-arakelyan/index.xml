@@ -6,10 +6,19 @@
     <description>Recent content in Erik Arakelyan on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/erik-arakelyan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_arakelyan/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_arakelyan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>With Great Backbones Comes Great Adversarial Transferability</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_coling_ghazaryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_arakelyan/</guid>
       <description></description>
     </item>
     

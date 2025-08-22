@@ -6,10 +6,19 @@
     <description>Recent content in Arnav Arora on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/arnav-arora/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Modal Framing Analysis of News</title>
+      <link>https://copenlu.github.io/publication/2025_emnlp_arora/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_emnlp_arora/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
@@ -35,15 +44,6 @@
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_cl_sawar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Modal Framing Analysis of News</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_arora/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_arora/</guid>
       <description></description>
     </item>
     
