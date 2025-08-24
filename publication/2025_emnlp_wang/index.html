@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="With the rapid development of large language models (LLMs), natural language explanations (NLEs) have become increasingly important for understanding model predictions. However, these explanations often fail to faithfully represent the model&#39;s actual reasoning process. While existing work has demonstrated that LLMs can self-critique and refine their initial outputs for various tasks, this capability remains unexplored for improving explanation faithfulness. To address this gap, we introduce Self-critique and Refinement for Natural Language Explanations (SR-NLE), a framework that enables models to improve the faithfulness of their own explanations -- specifically, post-hoc NLEs -- through an iterative critique and refinement process without external supervision. Our framework leverages different feedback mechanisms to guide the refinement process, including natural language self-feedback and, notably, a novel feedback approach based on feature attribution that highlights important input words. Our experiments across three datasets and four state-of-the-art LLMs demonstrate that SR-NLE significantly reduces unfaithfulness rates, with our best method achieving an average unfaithfulness rate of 36.02%, compared to 54.81% for baseline -- an absolute reduction of 18.79%. These findings reveal that the investigated LLMs can indeed refine their explanations to better reflect their actual reasoning process, requiring only appropriate guidance through feedback without additional training or fine-tuning.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2025_emnlp_wang/">
 
   
 
@@ -99,15 +99,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2025_emnlp_wang/">
 
   
   
@@ -121,19 +121,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/">
-  <meta property="og:title" content="Lucie-Aimée Kaffee | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2025_emnlp_wang/">
+  <meta property="og:title" content="Self-Critique and Refinement for Faithful Natural Language Explanations | CopeNLU">
+  <meta property="og:description" content="With the rapid development of large language models (LLMs), natural language explanations (NLEs) have become increasingly important for understanding model predictions. However, these explanations often fail to faithfully represent the model&#39;s actual reasoning process. While existing work has demonstrated that LLMs can self-critique and refine their initial outputs for various tasks, this capability remains unexplored for improving explanation faithfulness. To address this gap, we introduce Self-critique and Refinement for Natural Language Explanations (SR-NLE), a framework that enables models to improve the faithfulness of their own explanations -- specifically, post-hoc NLEs -- through an iterative critique and refinement process without external supervision. Our framework leverages different feedback mechanisms to guide the refinement process, including natural language self-feedback and, notably, a novel feedback approach based on feature attribution that highlights important input words. Our experiments across three datasets and four state-of-the-art LLMs demonstrate that SR-NLE significantly reduces unfaithfulness rates, with our best method achieving an average unfaithfulness rate of 36.02%, compared to 54.81% for baseline -- an absolute reduction of 18.79%. These findings reveal that the investigated LLMs can indeed refine their explanations to better reflect their actual reasoning process, requiring only appropriate guidance through feedback without additional training or fine-tuning."><meta property="og:image" content="https://copenlu.github.io/publication/2025_emnlp_wang/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-08-21T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-08-21T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2025-08-21T00:00:00&#43;00:00">
   
 
   
 
   
 
-  <title>Lucie-Aimée Kaffee | CopeNLU</title>
+  <title>Self-Critique and Refinement for Faithful Natural Language Explanations | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,7 +348,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
+  
 
 
 
@@ -363,62 +367,259 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Self-Critique and Refinement for Faithful Natural Language Explanations</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/yingming-wang/">Yingming Wang</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>
+      </span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2025-08-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2025-08-21 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      21 Aug 2025
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Self-Critique%20and%20Refinement%20for%20Faithful%20Natural%20Language%20Explanations&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_emnlp_wang%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_emnlp_wang%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_emnlp_wang%2f&amp;title=Self-Critique%20and%20Refinement%20for%20Faithful%20Natural%20Language%20Explanations"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_emnlp_wang%2f&amp;title=Self-Critique%20and%20Refinement%20for%20Faithful%20Natural%20Language%20Explanations"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Self-Critique%20and%20Refinement%20for%20Faithful%20Natural%20Language%20Explanations&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_emnlp_wang%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Lucie-Aimée Kaffee</h1>
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2505.22823" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2025_emnlp_wang/cite.bib">
+  Cite
+</button>
+
+
+
+
 
   
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/explainability/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<section id="about" class="home-section">
-  <div class="container">
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">With the rapid development of large language models (LLMs), natural language explanations (NLEs) have become increasingly important for understanding model predictions. However, these explanations often fail to faithfully represent the model&rsquo;s actual reasoning process. While existing work has demonstrated that LLMs can self-critique and refine their initial outputs for various tasks, this capability remains unexplored for improving explanation faithfulness. To address this gap, we introduce Self-critique and Refinement for Natural Language Explanations (SR-NLE), a framework that enables models to improve the faithfulness of their own explanations &ndash; specifically, post-hoc NLEs &ndash; through an iterative critique and refinement process without external supervision. Our framework leverages different feedback mechanisms to guide the refinement process, including natural language self-feedback and, notably, a novel feedback approach based on feature attribution that highlights important input words. Our experiments across three datasets and four state-of-the-art LLMs demonstrate that SR-NLE significantly reduces unfaithfulness rates, with our best method achieving an average unfaithfulness rate of 36.02%, compared to 54.81% for baseline &ndash; an absolute reduction of 18.79%. These findings reveal that the investigated LLMs can indeed refine their explanations to better reflect their actual reasoning process, requiring only appropriate guidance through feedback without additional training or fine-tuning.</p>
     
+
     
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_emnlp_pawar/">Presumed Cultural Identity: How Names Shape LLM Responses</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_arxiv_kaffee/">Local Differences, Global Lessons: Insights from Organisation Policies for International Legislation</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_naacl_borenstein/">Investigating Human Values in Online Communities</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2023_emnlp_kaffee-dual/">Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2023_emnlp_kaffee-wikipedia/">Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2023_c3nlp_arora/">Probing Pre-Trained Language Models for Cross-Cultural Differences in Values</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_neurips_zaporojets/">TempEL: Linking Dynamically Evolving and Newly Emerging Entities</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            August, 2025
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
+
 
 
 <div class="container">
