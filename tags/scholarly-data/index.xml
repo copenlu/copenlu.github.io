@@ -13,10 +13,10 @@
     
     <item>
       <title>2 Papers Accepted to EMNLP 2022</title>
-      <link>https://copenlu.github.io/talk/2022_11_emnlp/</link>
+      <link>https://copenlu.github.io/news/2-papers-accepted-to-emnlp-2022/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/talk/2022_11_emnlp/</guid>
+      <guid>https://copenlu.github.io/news/2-papers-accepted-to-emnlp-2022/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at EMNLP 2022, which are on scholarly document understanding.
 Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection. Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein.
 Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings. Malte Ostendorff, Nils Rethmeier, Isabelle Augenstein, Bela Gipp, Georg Rehm.</description>
@@ -24,10 +24,10 @@ Neighborhood Contrastive Learning for Scientific Document Representations with C
     
     <item>
       <title>2 Papers Accepted to ACL 2021</title>
-      <link>https://copenlu.github.io/talk/2021_04_acl/</link>
+      <link>https://copenlu.github.io/news/2-papers-accepted-to-acl-2021/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/talk/2021_04_acl/</guid>
+      <guid>https://copenlu.github.io/news/2-papers-accepted-to-acl-2021/</guid>
       <description>2 papers by CopeNLU authors are accepted to appear at ACL 2021. One paper is on interpretability, examining how sparsity affects our ability to use attention as an explainability tool; whereas the other one is on scientific document understanding, introducing a new dataset for the task of cite-worthiness detection in scientific articles.
 Is Sparse Attention more Interpretable? Clara Meister, Stefan Lazov, Isabelle Augenstein, Ryan Cotterell.
 CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding.</description>
