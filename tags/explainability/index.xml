@@ -25,6 +25,18 @@ Measuring and Benchmarking Large Language Models&amp;rsquo; Capabilities to Gene
     </item>
     
     <item>
+      <title>5 Papers Accepted to EMNLP 2024</title>
+      <link>https://copenlu.github.io/news/5-papers-accepted-to-emnlp-2024/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/news/5-papers-accepted-to-emnlp-2024/</guid>
+      <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2024, on topics including factuality and probing for bias.
+Social Bias Probing: Fairness Benchmarking for Language Models. Marta Marchiori Manerba, Karolina Stańczak, Riccardo Guidotti, Isabelle Augenstein.
+Can Transformers Learn n-gram Language Models?. Anej Svete, Nadav Borenstein, Mike Zhou, Isabelle Augenstein, Ryan Cotterell.
+DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models. Sara Vera Marjanović, Haeun Yu, Pepa Atanasova, Maria Maistro, Maria Maistro, Christina Lioma, Isabelle Augenstein.</description>
+    </item>
+    
+    <item>
       <title>Outstanding paper award at EACL 2024</title>
       <link>https://copenlu.github.io/news/outstanding-paper-award-at-eacl-2024/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
@@ -45,18 +57,6 @@ Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of 
 Explaining Interactions Between Text Spans. Sagnik Ray Choudhury, Pepa Atanasova, Isabelle Augenstein.
 Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions. Lucie-Aimée Kaffee, Arnav Arora, Isabelle Augenstein.
 Thorny Roses: Investigating the Dual Use Dilemma in Natural Language Processing. Lucie-Aimée Kaffee, Arnav Arora, Zeerak Talat, Isabelle Augenstein.</description>
-    </item>
-    
-    <item>
-      <title>5 Papers Accepted to EMNLP 2024</title>
-      <link>https://copenlu.github.io/news/5-papers-accepted-to-emnlp-2024/</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/5-papers-accepted-to-emnlp-2024/</guid>
-      <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2023, on topics including factuality and probing for bias.
-Social Bias Probing: Fairness Benchmarking for Language Models. Marta Marchiori Manerba, Karolina Stańczak, Riccardo Guidotti, Isabelle Augenstein.
-Can Transformers Learn n-gram Language Models?. Anej Svete, Nadav Borenstein, Mike Zhou, Isabelle Augenstein, Ryan Cotterell.
-DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models. Sara Vera Marjanović, Haeun Yu, Pepa Atanasova, Maria Maistro, Maria Maistro, Christina Lioma, Isabelle Augenstein.</description>
     </item>
     
     <item>
