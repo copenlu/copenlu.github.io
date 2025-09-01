@@ -109,28 +109,31 @@
     </item>
     
     <item>
-      <title>Open-topic PhD fellowships available as part of DARA</title>
-      <link>https://copenlu.github.io/news/open-topic-phd-fellowships-available-as-part-of-dara/</link>
+      <title>PhD fellowships for start in Spring or Autumn 2026</title>
+      <link>https://copenlu.github.io/news/phd-fellowships-for-start-in-spring-or-autumn-2026/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/news/open-topic-phd-fellowships-available-as-part-of-dara/</guid>
-      <description>&lt;p&gt;The Danish Advanced Research Academy (DARA) is &lt;a href=&#34;https://daracademy.dk/fellowship/fellowships-summer-2025&#34;&gt;calling for PhD fellowship applications on topics including AI&lt;/a&gt;.
-As the fellowship application process requires a letter of support from the prospective main supervisor, we are collecting and screening expressions of interest of candidates who would like to apply with Isabelle Augenstein as a main supervisor &lt;a href=&#34;https://forms.office.com/e/HZSmgR9nXB&#34;&gt;here&lt;/a&gt;. Selected interested candidates will be invited to submit full applications to the DARA fellowship programme with my support.
-Note that the PhD programme requires applicants to hold a Master&amp;rsquo;s degree or be in the process of completing a Master&amp;rsquo;s programme.&lt;/p&gt;
+      <guid>https://copenlu.github.io/news/phd-fellowships-for-start-in-spring-or-autumn-2026/</guid>
+      <description>
 
-&lt;p&gt;The timeline for recruitment is as follows:&lt;/p&gt;
+&lt;p&gt;Would you like to join our lab as a PhD student in 2026? We have several openings. Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;26 June - 20 July 2025: submission of expressions of interest via &lt;a href=&#34;https://forms.office.com/e/HZSmgR9nXB&#34;&gt;this form&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;21 July - 9 August 2025: shortlisting and screening interviews&lt;/li&gt;
-&lt;li&gt;10 August 2025: a small number of selected candidates are informed&lt;/li&gt;
-&lt;li&gt;10 - 28 August 2025: each candidate prepares DARA fellowship materials with my support&lt;/li&gt;
-&lt;li&gt;29 August 14:00 CEST: deadline for submission of DARA fellowship materials&lt;/li&gt;
-&lt;li&gt;December 2025: DARA fellowship notification&lt;/li&gt;
-&lt;li&gt;1 February - 15 June 2026: start of PhD&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;start-in-spring-2026&#34;&gt;Start in Spring 2026&lt;/h2&gt;
 
-&lt;p&gt;Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;. The official call for the PhD fellowships is up &lt;a href=&#34;https://daracademy.dk/fellowship/fellowships-summer-2025&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A fully funded 3-year PhD fellowship on &lt;strong&gt;explainable natural language understanding&lt;/strong&gt; for a start in &lt;strong&gt;Spring 2026&lt;/strong&gt; is available as part of the &amp;lsquo;&lt;a href=&#34;https://erc.europa.eu/news/erc-2021-starting-grants-results&#34;&gt;ExplainYourself project&lt;/a&gt; on Explainable and Robust Automatic Fact Checking. The position requires a Master&amp;rsquo;s degree. The successful candidate will be supervised by &lt;a href=&#34;http://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and co-supervised by &lt;a href=&#34;https://apepa.github.io/&#34;&gt;Pepa Atanasova&lt;/a&gt;.
+Read more about the position and apply &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&amp;departmentId=18970&amp;ProjectId=164789&amp;MediaId=5&amp;SkipAdvertisement=false&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;31 October 2025&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The project is funded by an ERC Starting Grant, a highly competitive funding program by the &lt;a href=&#34;https://erc.europa.eu/homepage&#34;&gt;European Research Council&lt;/a&gt; which supports the most talented early-career scientists in Europe with funding for a period of 5 years for blue-skies research to build up or expand their research groups.&lt;/p&gt;
+
+&lt;p&gt;ExplainYourself proposes to study explainable automatic fact checking, the task of automatically predicting the veracity of textual claims using machine learning (ML) methods, while also producing explanations about how the model arrived at the prediction. Automatic fact checking methods often use opaque deep neural network models, whose inner workings cannot easily be explained. Especially for complex tasks such as automatic fact checking, this hinders greater adoption, as it is unclear to users when the models&amp;rsquo; predictions can be trusted. Existing explainable ML methods partly overcome this by reducing the task of explanation generation to highlighting the right rationale. While a good first step, this does not fully explain how a ML model arrived at a prediction. For knowledge intensive natural language understanding (NLU) tasks such as fact checking, a ML model needs to learn complex relationships between the claim, multiple evidence documents, and common sense knowledge in addition to retrieving the right evidence. There is currently no explainability method that aims to illuminate this highly complex process. In addition, existing approaches are unable to produce diverse explanations, geared towards users with different information needs. ExplainYourself radically departs from existing work in proposing methods for explainable fact checking that more accurately reflect how fact checking models make decisions, and are useful to diverse groups of end users. It is expected that these innovations will apply to explanation generation for other knowledge-intensive NLU tasks, such as question answering or entity linking.&lt;/p&gt;
+
+&lt;p&gt;In addition to the principle investigator, PhD students and postdocs, the project team includes collaborators from CopeNLU as well as external collaborators. Two PhD students as well as a postdoc have already been recruited as a result of earlier calls, and the project officially &lt;a href=&#34;https://copenlu.github.io/talk/2023_09_explainyourself/&#34;&gt;kicked off in September 2023&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;start-in-autumn-2026&#34;&gt;Start in Autumn 2026&lt;/h2&gt;
+
+&lt;p&gt;For a start in &lt;strong&gt;Autumn 2026&lt;/strong&gt;, we are considering candidates on any topic aligned with the &lt;a href=&#34;https://www.copenlu.com/#projects&#34;&gt;focus areas of our lab&lt;/a&gt;. Candidates should express their interest by applying to the &lt;a href=&#34;https://ellis.eu/news/ellis-phd-program-call-for-applications-2025&#34;&gt;ELLIS PhD programme&lt;/a&gt; by &lt;strong&gt;31 October 2025&lt;/strong&gt;, naming Isabelle Augenstein as a supervisor. ELLIS is a pan-European recruitment vehicle for PhD students and does not provide funded PhD fellowships, though it offers networking opportunities, and opportunities to obtain travel funding.&lt;/p&gt;
+
+&lt;p&gt;Successful candidates will be supported in applying for funded fellowship opportunities, including those offered by the &lt;a href=&#34;https://ddsa.dk/about-ddsa-fellowship-programme/&#34;&gt;Danish Data Science Academy (DDSA)&lt;/a&gt; and the &lt;a href=&#34;https://www.daracademy.dk/fellowships&#34;&gt;Danish Advanced Research Academy (DARA)&lt;/a&gt;. Additional fully funded PhD positions may become available through the &lt;a href=&#34;https://www.aicentre.dk/jobs&#34;&gt;Pioneer Centre for AI&lt;/a&gt;. Candidates without Master&amp;rsquo;s degrees may be eligible.&lt;/p&gt;
 </description>
     </item>
     
