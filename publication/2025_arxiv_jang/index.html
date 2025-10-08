@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Copenhagen University NLU research group">
+  <meta name="description" content="Chain-of-thought (CoT) rationale enables language models to use additional task-related text for problem-solving, benefiting not only from detailed reasoning steps but also from the expanded computational space of longer inputs. Prior work has trained filler or special tokens to serve as additional computation spaces. In this study, we investigate whether language models can leverage artificially inserted sequences of filler tokens solely at inference. We first identify effective token types, numbers, and insertion locations, then examine at what stage of training models begin to exploit the expanded computation space, and finally analyze dynamics within these spaces via attention maps. Experiments on models ranging from 1.7B to 32B across open-domain QA and math tasks show that appropriate token types and counts vary, but placing filler tokens directly before the final &#39;Answer:&#39; token is most effective. Smaller models benefit most, up to 12.372 percentage points in SmolLM2-1.7B-Instruct, indicating that these spaces act as additional computational capacity rather than redundant input. Attention maps reveal that expanded spaces often continue the original attention mechanism and sometimes focus on questions or answer options, suggesting meaningful computation for problem-solving.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/authors/pepa-atanasova/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2025_arxiv_jang/">
 
   
 
@@ -99,15 +99,15 @@
   
 
   
-  <link rel="alternate" href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" type="application/rss+xml" title="CopeNLU">
-  <link rel="feed" href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="alternate" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
+  <link rel="feed" href="https://copenlu.github.io/index.xml" type="application/rss+xml" title="CopeNLU">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/authors/pepa-atanasova/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2025_arxiv_jang/">
 
   
   
@@ -121,19 +121,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/authors/pepa-atanasova/">
-  <meta property="og:title" content="Pepa Atanasova | CopeNLU">
-  <meta property="og:description" content="Copenhagen University NLU research group"><meta property="og:image" content="https://copenlu.github.io/img/avatar.png">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2025_arxiv_jang/">
+  <meta property="og:title" content="Expanding Computation Spaces of LLMs at Inference Time | CopeNLU">
+  <meta property="og:description" content="Chain-of-thought (CoT) rationale enables language models to use additional task-related text for problem-solving, benefiting not only from detailed reasoning steps but also from the expanded computational space of longer inputs. Prior work has trained filler or special tokens to serve as additional computation spaces. In this study, we investigate whether language models can leverage artificially inserted sequences of filler tokens solely at inference. We first identify effective token types, numbers, and insertion locations, then examine at what stage of training models begin to exploit the expanded computation space, and finally analyze dynamics within these spaces via attention maps. Experiments on models ranging from 1.7B to 32B across open-domain QA and math tasks show that appropriate token types and counts vary, but placing filler tokens directly before the final &#39;Answer:&#39; token is most effective. Smaller models benefit most, up to 12.372 percentage points in SmolLM2-1.7B-Instruct, indicating that these spaces act as additional computational capacity rather than redundant input. Attention maps reveal that expanded spaces often continue the original attention mechanism and sometimes focus on questions or answer options, suggesting meaningful computation for problem-solving."><meta property="og:image" content="https://copenlu.github.io/publication/2025_arxiv_jang/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-10-03T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-09-29T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2025-09-29T00:00:00&#43;00:00">
   
 
   
 
   
 
-  <title>Pepa Atanasova | CopeNLU</title>
+  <title>Expanding Computation Spaces of LLMs at Inference Time | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -346,7 +348,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
+  
 
 
 
@@ -363,106 +367,265 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Expanding Computation Spaces of LLMs at Inference Time</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/yoonna-jang/">Yoonna Jang</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/kisu-yang/">Kisu Yang</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2025-09-29 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2025-09-29 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      29 Sep 2025
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Expanding%20Computation%20Spaces%20of%20LLMs%20at%20Inference%20Time&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_jang%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_jang%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_jang%2f&amp;title=Expanding%20Computation%20Spaces%20of%20LLMs%20at%20Inference%20Time"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_jang%2f&amp;title=Expanding%20Computation%20Spaces%20of%20LLMs%20at%20Inference%20Time"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Expanding%20Computation%20Spaces%20of%20LLMs%20at%20Inference%20Time&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_jang%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Pepa Atanasova</h1>
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2509.24884" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2025_arxiv_jang/cite.bib">
+  Cite
+</button>
+
+
+
+
 
   
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/limited-data/">
+    
+      Limited Data Project
+    
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<section id="about" class="home-section">
-  <div class="container">
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Chain-of-thought (CoT) rationale enables language models to use additional task-related text for problem-solving, benefiting not only from detailed reasoning steps but also from the expanded computational space of longer inputs. Prior work has trained filler or special tokens to serve as additional computation spaces. In this study, we investigate whether language models can leverage artificially inserted sequences of filler tokens solely at inference. We first identify effective token types, numbers, and insertion locations, then examine at what stage of training models begin to exploit the expanded computation space, and finally analyze dynamics within these spaces via attention maps. Experiments on models ranging from 1.7B to 32B across open-domain QA and math tasks show that appropriate token types and counts vary, but placing filler tokens directly before the final &lsquo;Answer:&rsquo; token is most effective. Smaller models benefit most, up to 12.372 percentage points in SmolLM2-1.7B-Instruct, indicating that these spaces act as additional computational capacity rather than redundant input. Attention maps reveal that expanded spaces often continue the original attention mechanism and sometimes focus on questions or answer options, suggesting meaningful computation for problem-solving.</p>
     
+
     
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/">Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_emnlp_yuan/">Graph-Guided Textual Explanation Generation Framework</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_emnlp_wang/">Self-Critique and Refinement for Faithful Natural Language Explanations</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_acl_hagstr%C3%B6m/">A Reality Check on Context Utilisation for Retrieval-Augmented Generation</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_arxiv_kaffee/">Local Differences, Global Lessons: Insights from Organisation Policies for International Legislation</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2025_naacl_sun/">A Unified Framework for Input Feature Attribution Analysis</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2024_emnlp_marjanovic/">DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2024_acl_yu/">Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2023_emnlp_choudhury/">Explaining Interactions Between Text Spans</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2023_acl_atanasova/">Faithfulness Tests for Natural Language Explanations</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_information_jolly/">Generating Fluent Fact Checking Explanations with Unsupervised Post-Editing</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_tacl_atanasova/">Fact Checking with Insufficient Evidence</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_aaai_atanasova/">Diagnostics-Guided Explanation Generation</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2022_csl_debruyne/">Joint Emotion Label Space Modelling for Affect Lexica</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2021_ijcai_ostrowski/">Multi-Hop Fact Checking of Political Claims</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2020_emnlp_atanasova_diagnostic/">A Diagnostic Study of Explainability Techniques for Text Classification</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2020_emnlp_atanasova_generating/">Generating Label Cohesive and Well-Formed Adversarial Claims</a>
-        </li>
-        
-        <li>
-          <a href="https://copenlu.github.io/publication/2020_acl_atanasova/">Generating Fact Checking Explanations</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#3">
+              Manuscript
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">CoRR, abs/2509.24884</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            September, 2025
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
+
 
 
 <div class="container">

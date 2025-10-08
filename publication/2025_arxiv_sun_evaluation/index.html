@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Context utilisation, the ability of Language Models (LMs) to incorporate relevant information from the provided context when generating responses, remains largely opaque to users, who cannot determine whether models draw from parametric memory or provided context, nor identify which specific context pieces inform the response. Highlight explanations (HEs) offer a natural solution as they can point the exact context pieces and tokens that influenced model outputs. However, no existing work evaluates their effectiveness in accurately explaining context utilisation. We address this gap by introducing the first gold standard HE evaluation framework for context attribution, using controlled test cases with known ground-truth context usage, which avoids the limitations of existing indirect proxy evaluations. To demonstrate the framework&#39;s broad applicability, we evaluate four HE methods -- three established techniques and MechLight, a mechanistic interpretability approach we adapt for this task -- across four context scenarios, four datasets, and five LMs. Overall, we find that MechLight performs best across all context scenarios. However, all methods struggle with longer contexts and exhibit positional biases, pointing to fundamental challenges in explanation accuracy that require new approaches to deliver reliable context utilisation explanations at scale.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/people/yova/">
+  <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/">
 
   
 
@@ -107,7 +107,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://copenlu.github.io/people/yova/">
+  <link rel="canonical" href="https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/">
 
   
   
@@ -121,21 +121,21 @@
   <meta property="twitter:creator" content="@https://twitter.com/CopeNLU">
   
   <meta property="og:site_name" content="CopeNLU">
-  <meta property="og:url" content="https://copenlu.github.io/people/yova/">
-  <meta property="og:title" content="Yova Kementchedjhieva | CopeNLU">
-  <meta property="og:description" content=""><meta property="og:image" content="https://copenlu.github.io/people/yova/featured.jpg">
+  <meta property="og:url" content="https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/">
+  <meta property="og:title" content="Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models | CopeNLU">
+  <meta property="og:description" content="Context utilisation, the ability of Language Models (LMs) to incorporate relevant information from the provided context when generating responses, remains largely opaque to users, who cannot determine whether models draw from parametric memory or provided context, nor identify which specific context pieces inform the response. Highlight explanations (HEs) offer a natural solution as they can point the exact context pieces and tokens that influenced model outputs. However, no existing work evaluates their effectiveness in accurately explaining context utilisation. We address this gap by introducing the first gold standard HE evaluation framework for context attribution, using controlled test cases with known ground-truth context usage, which avoids the limitations of existing indirect proxy evaluations. To demonstrate the framework&#39;s broad applicability, we evaluate four HE methods -- three established techniques and MechLight, a mechanistic interpretability approach we adapt for this task -- across four context scenarios, four datasets, and five LMs. Overall, we find that MechLight performs best across all context scenarios. However, all methods struggle with longer contexts and exhibit positional biases, pointing to fundamental challenges in explanation accuracy that require new approaches to deliver reliable context utilisation explanations at scale."><meta property="og:image" content="https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2017-01-25T17:07:01&#43;00:00">
+  <meta property="article:published_time" content="2025-10-03T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2017-01-25T17:07:01&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2025-10-03T00:00:00&#43;00:00">
   
 
   
 
-  <title>Yova Kementchedjhieva | CopeNLU</title>
+  
+
+  <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -348,8 +348,7 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
@@ -364,179 +363,59 @@
 
 
 
-
-<div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/people/yova/featured_hu9475e40123017607cf3e014e405fbc8c_205993_800x0_resize_q75_box.jpg');"></div>
   
-</div>
 
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</h1>
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">Yova Kementchedjhieva</h1>
+  
 
-        
-
-        
+  
+    
 
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
   
-
-  <span class="article-date">
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/jingyi-sun/">Jingyi Sun</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/pepa-atanasova/">Pepa Atanasova</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/sagnik-ray-choudhury/">Sagnik Ray Choudhury</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/sekh-mainul-islam/">Sekh Mainul Islam</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/isabelle-augenstein/">Isabelle Augenstein</a>
+      </span>
+    </span>
     
-    <meta content="2017-01-25 17:07:01 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2017-01-25 17:07:01 &#43;0000 UTC" itemprop="dateModified">
-      25 Jan 2017
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  <a class="btn btn-outline-primary my-1" href="https://yovakem.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
-  
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Yova%20Kementchedjhieva&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f&amp;title=Yova%20Kementchedjhieva"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f&amp;title=Yova%20Kementchedjhieva"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Yova%20Kementchedjhieva&amp;body=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/people/yova/featured_hu9475e40123017607cf3e014e405fbc8c_205993_680x500_fill_q90_box_smart1.jpg" itemprop="image" alt="">
-        
-      </div>
-    </div>
   </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Yova Kementchedjhieva</h1>
-
-  
-
-  
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="">
-  </span>
   
 
   <span class="article-date">
     
-    <meta content="2017-01-25 17:07:01 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2017-01-25 17:07:01 &#43;0000 UTC" itemprop="dateModified">
-      25 Jan 2017
+    <meta content="2025-10-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2025-10-03 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      3 Oct 2025
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -556,35 +435,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Yova%20Kementchedjhieva&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f"
+         href="https://twitter.com/intent/tweet?text=Evaluation%20Framework%20for%20Highlight%20Explanations%20of%20Context%20Utilisation%20in%20Language%20Models&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_sun_evaluation%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_sun_evaluation%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f&amp;title=Yova%20Kementchedjhieva"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_sun_evaluation%2f&amp;title=Evaluation%20Framework%20for%20Highlight%20Explanations%20of%20Context%20Utilisation%20in%20Language%20Models"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f&amp;title=Yova%20Kementchedjhieva"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_sun_evaluation%2f&amp;title=Evaluation%20Framework%20for%20Highlight%20Explanations%20of%20Context%20Utilisation%20in%20Language%20Models"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Yova%20Kementchedjhieva&amp;body=https%3a%2f%2fcopenlu.github.io%2fpeople%2fyova%2f">
+         href="mailto:?subject=Evaluation%20Framework%20for%20Highlight%20Explanations%20of%20Context%20Utilisation%20in%20Language%20Models&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2025_arxiv_sun_evaluation%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -596,6 +475,13 @@
 
 </div>
 
+    
+
+
+
+
+
+
 
   
 
@@ -604,20 +490,12 @@
 
 
 
-
   
-
-
-
-
-
 
 
 
 <div class="btn-links mb-3">
   
-  <a class="btn btn-outline-primary my-1" href="https://yovakem.github.io/" target="_blank" rel="noopener">Go to Project Site</a>
-  
   
 
 
@@ -627,13 +505,36 @@
 
 
   
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2510.02629" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2025_arxiv_sun_evaluation/cite.bib">
+  Cite
+</button>
 
 
 
 
 
+  
+    
+  
 
-
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
+    
+      Fact Checking Project
+    
+  </a>
+  
 
 
 
@@ -647,71 +548,99 @@
 </div>
 
 
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Context utilisation, the ability of Language Models (LMs) to incorporate relevant information from the provided context when generating responses, remains largely opaque to users, who cannot determine whether models draw from parametric memory or provided context, nor identify which specific context pieces inform the response. Highlight explanations (HEs) offer a natural solution as they can point the exact context pieces and tokens that influenced model outputs. However, no existing work evaluates their effectiveness in accurately explaining context utilisation. We address this gap by introducing the first gold standard HE evaluation framework for context attribution, using controlled test cases with known ground-truth context usage, which avoids the limitations of existing indirect proxy evaluations. To demonstrate the framework&rsquo;s broad applicability, we evaluate four HE methods &ndash; three established techniques and MechLight, a mechanistic interpretability approach we adapt for this task &ndash; across four context scenarios, four datasets, and five LMs. Overall, we find that MechLight performs best across all context scenarios. However, all methods struggle with longer contexts and exhibit positional biases, pointing to fundamental challenges in explanation accuracy that require new approaches to deliver reliable context utilisation explanations at scale.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            <a href="/publication/#3">
+              Manuscript
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
-
+    <div class="d-md-none space-below"></div>
     
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/alumni/">Alumni</a>
-  
-</div>
-
-
-
     
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/people/ana/">Ana Valeria González</a></li>
-        
-        <li><a href="/people/andrea/">Andrea Lekkas</a></li>
-        
-        <li><a href="/people/johannes/">Johannes Bjerva</a></li>
-        
-        <li><a href="/people/liesbeth/">Liesbeth Allein</a></li>
-        
-        <li><a href="/people/wei/">Wei Zhao</a></li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">CoRR, abs/2510.02629</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            October, 2025
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
+
+
+
     
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
 
 
   </div>
-</article>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">

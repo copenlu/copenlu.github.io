@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding Computation Spaces of LLMs at Inference Time</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_jang/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_jang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Meta-Evaluation of Style and Attribute Transfer Metrics</title>
       <link>https://copenlu.github.io/publication/2025_emnlp_pauli/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
@@ -100,6 +118,15 @@
     </item>
     
     <item>
+      <title>Epistemic Diversity and Knowledge Collapse in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reliable Evaluation Protocol for Low-Precision Retrieval</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_yang/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
@@ -145,84 +172,6 @@ Read more about the position and apply &lt;a href=&#34;https://candidate.hr-mana
 
 &lt;p&gt;Successful candidates will be supported in applying for funded fellowship opportunities, including those offered by the &lt;a href=&#34;https://ddsa.dk/about-ddsa-fellowship-programme/&#34;&gt;Danish Data Science Academy (DDSA)&lt;/a&gt; and the &lt;a href=&#34;https://www.daracademy.dk/fellowships&#34;&gt;Danish Advanced Research Academy (DARA)&lt;/a&gt;. Additional fully funded PhD positions may become available through the &lt;a href=&#34;https://www.aicentre.dk/jobs&#34;&gt;Pioneer Centre for AI&lt;/a&gt;. Candidates without Master&amp;rsquo;s degrees may be eligible, depending on the conditions of the respective fellowship.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Modeling Public Perceptions of Science in Media</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_pei/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_pei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pre-ACL 2025 Workshop in Copenhagen</title>
-      <link>https://copenlu.github.io/post/pre-acl-ws/</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/post/pre-acl-ws/</guid>
-      <description>&lt;p&gt;We’re excited to welcome researchers and practitioners in Natural Language Processing, Generative AI, and Language Technology to a one-day workshop on 26 July 2025 – just ahead of ACL 2025 in Vienna.&lt;/p&gt;
-
-&lt;p&gt;This is a unique opportunity to connect the Danish NLP community with leading international experts through a dynamic programme of talks, poster sessions, and round-table discussions designed to inspire collaboration and spark new ideas. 💡🤝&lt;/p&gt;
-
-&lt;p&gt;Invited speakers include: 🎙️&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Professor Thamar Solorio (MBUZAI)&lt;/li&gt;
-&lt;li&gt;Professor Mausam (IIT Delhi)&lt;/li&gt;
-&lt;li&gt;Associate Professor Smaranda Muresan (Columbia University)&lt;/li&gt;
-&lt;li&gt;Associate Professor David Jurgens (University of Michigan)&lt;/li&gt;
-&lt;li&gt;Associate Professor Tanu Mitra (UW)&lt;/li&gt;
-&lt;li&gt;Assistant Professor Nanyun Peng (UCLA)&lt;/li&gt;
-&lt;li&gt;Assistant Professor Danish Pruthi (IISc Bangalore)&lt;/li&gt;
-&lt;li&gt;Associate Professor Kai-Wei Chang (UCLA &amp;amp; Amazon Scholar)&lt;/li&gt;
-&lt;li&gt;Assistant Professor Anjalie Field (Johns Hopkins University)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;📝 Registration is free, but spots are limited!&lt;/p&gt;
-
-&lt;p&gt;📅 Sign-up deadline: 5 July 2025&lt;/p&gt;
-
-&lt;p&gt;🔗 Register here: &lt;a href=&#34;https://www.aicentre.dk/events/pre-acl-2025-workshop&#34; target=&#34;_blank&#34;&gt;https://www.aicentre.dk/events/pre-acl-2025-workshop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;🎯 Interested in presenting a poster? Submit your proposal by 16 June 2025.&lt;/p&gt;
-
-&lt;p&gt;The Pre-ACL 2025 Workshop is supported by the DDSA - Danish Data Science Academy and Pioneer Centre for AI and is organised by Isabelle Augenstein, Pepa Atanasova, Arnav Arora, Dustin Wright, and Yoonna Jang.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://copenlu.github.io/post/pre-acl-ws/gallery/Pre-ACL-Workshop-2025.png&#34; &gt;
-  &lt;img src=&#34;https://copenlu.github.io/post/pre-acl-ws/gallery/Pre-ACL-Workshop-2025.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Community Moderation and the New Epistemology of Fact Checking on Social Media</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_augenstein/</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_augenstein/</guid>
-      <description></description>
     </item>
     
   </channel>
