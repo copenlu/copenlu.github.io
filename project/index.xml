@@ -38,7 +38,7 @@ Multi3Generation is a COST Action that funds collaboration of researchers in Eur
       
       <guid>https://copenlu.github.io/project/explainability/</guid>
       <description>We are interested in studying method to explain relationships between inputs and outputs of black-box machine learning models, particularly in the context of challenging NLU tasks such as fact checking.
-We are researching methods for explainable stance detection in the context of a DFF Sapere Aude Research Leader project, and explainable fact checking as part of an ERC Starting Grant project.
+We are researching methods for explainable fact checking as part of an ERC Starting Grant project, as well as methods for human-centered explainable retrieval-augmented LLMs as part of a DFF AI project.
 Moreover, we are investigating fair and accountable Natural Language Processing methods to understand what influences the employer images that organisations project in job ads, as part of a Carlsberg-funded project.</description>
     </item>
     
