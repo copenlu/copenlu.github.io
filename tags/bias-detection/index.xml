@@ -6,10 +6,35 @@
     <description>Recent content in bias-detection on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/tags/bias-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>8 Papers Accepted to EMNLP 2025</title>
+      <link>https://copenlu.github.io/news/8-papers-accepted-to-emnlp-2025/</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/news/8-papers-accepted-to-emnlp-2025/</guid>
+      <description>8 papers by CopeNLU authors are accepted to appear at EMNLP 2025, on topics including explainability and cross-cultural NLP.
+Graph-Guided Textual Explanation Generation Framework. Shuzhou Yuan, Jingyi Sun, Michael Färber, Steffen Eger, Pepa Atanasova, Isabelle Augenstein.
+Self-Critique and Refinement for Faithful Natural Language Explanations. Yingming Wang, Pepa Atanasova.
+FLARE: Faithful Logic-Aided Reasoning and Exploration. Erik Arakelyan, Pasquale Minervini, Pat Verga, Patrick Lewis, Isabelle Augenstein.
+Explainability and Interpretability of Multilingual Large Language Models: A Survey.</description>
+    </item>
+    
+    <item>
+      <title>5 Papers Accepted to EMNLP 2024</title>
+      <link>https://copenlu.github.io/news/5-papers-accepted-to-emnlp-2024/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/news/5-papers-accepted-to-emnlp-2024/</guid>
+      <description>5 papers by CopeNLU authors are accepted to appear at EMNLP 2024, on topics including factuality and probing for bias.
+Social Bias Probing: Fairness Benchmarking for Language Models. Marta Marchiori Manerba, Karolina Stańczak, Riccardo Guidotti, Isabelle Augenstein.
+Can Transformers Learn n-gram Language Models?. Anej Svete, Nadav Borenstein, Mike Zhou, Isabelle Augenstein, Ryan Cotterell.
+DYNAMICQA: Tracing Internal Knowledge Conflicts in Language Models. Sara Vera Marjanović, Haeun Yu, Pepa Atanasova, Maria Maistro, Maria Maistro, Christina Lioma, Isabelle Augenstein.</description>
+    </item>
     
     <item>
       <title>Social Bias Detection</title>
