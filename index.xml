@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
+      <link>https://copenlu.github.io/publication/2025_arxiv_muhajid/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_arxiv_muhajid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>8 Papers Accepted to EMNLP 2025</title>
       <link>https://copenlu.github.io/news/8-papers-accepted-to-emnlp-2025/</link>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
@@ -154,15 +163,6 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epistemic Diversity and Knowledge Collapse in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
       <description></description>
     </item>
     
