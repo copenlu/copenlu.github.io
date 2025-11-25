@@ -10,6 +10,36 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Funded PhD and postdoc positions for start Autumn 2026</title>
+      <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</guid>
+      <description>
+
+&lt;p&gt;Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new interdisciplinary project on &lt;a href=&#34;https://dff.dk/en/our-funded-projects/see-an-overview-of-supported-research/?Bevilling.PolitiskTemaDK=Research%20on%20artificial%20intelligence&amp;Bevilling.Finanslovsaar=2025&amp;page=1&#34;&gt;&amp;ldquo;Human-Centered Explainable Retrieval-Augmented LLMs&amp;rdquo;&lt;/a&gt; funded by the &lt;a href=&#34;https://dff.dk/en/&#34;&gt;Independent Research Foundation Denmark&lt;/a&gt;, led by &lt;a href=&#34;https://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein and &lt;a href=&#34;https://scholar.google.com/citations?user=ufIlFCIAAAAJ&amp;hl=en&#34;&gt;Irina Shklovski&lt;/a&gt;. Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;phd-position&#34;&gt;PhD position&lt;/h2&gt;
+
+&lt;p&gt;The PhD position is fully funded for three years and open to candidates with a Master&amp;rsquo;s degree or equivalent in Computer Science or a related field.
+The PhD student’s research is expected to focus on explanation steering for human-centric RAG. The ideal candidate would thus have an educational background, prior research or work experience in ML or NLP.&lt;/p&gt;
+
+&lt;p&gt;The PhD student would be supervised by Isabelle Augenstein and co-supervised by Irina Shklovski, and also collaborate with the larger project team. In addition to a postdoc to be recruited, this includes external collaborators, including in information retrieval.&lt;/p&gt;
+
+&lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://employment.ku.dk/phd/?show=153280&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;1 February 2026&lt;/strong&gt; to be considered.&lt;/p&gt;
+
+&lt;h2 id=&#34;postdoc-position&#34;&gt;Postdoc position&lt;/h2&gt;
+
+&lt;p&gt;The postdoc position is also offered for three years and open to candidates with a PhD degree in Computer Science or another relevant field.
+The postdoc’s duties will be to conduct research on user-centric RAG and information needs of people interacting with AI. The ideal candidate would thus have an educational background, prior research or work experience at the intersection of Human-Computer Interaction and Natural Language Processing.&lt;/p&gt;
+
+&lt;p&gt;The postdoc would work with Irina Shklovski and Isabelle Augenstein, and also collaborate with the larger project team.&lt;/p&gt;
+
+&lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://jobportal.ku.dk/videnskabelige-stillinger/?show=153139&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;1 February 2026&lt;/strong&gt; to be considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_muhajid/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
@@ -154,15 +184,6 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_yu/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_yu/</guid>
       <description></description>
     </item>
     
