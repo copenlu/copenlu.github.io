@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pauli/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Funded PhD and postdoc positions for start Autumn 2026</title>
       <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
@@ -175,15 +184,6 @@ The postdoc’s duties will be to conduct research on user-centric RAG and infor
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_emnlp_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
       <description></description>
     </item>
     
