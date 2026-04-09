@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryo Hachiuma on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/ryo-hachiuma/</link>
+    <description>Recent content in Ryo Hachiuma on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/ryo-hachiuma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interpretable Debiasing of Vision-Language Models for Social Fairness</title>
+      <link>https://copenlu.github.io/publication/2026_cvpr_an/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_cvpr_an/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
