@@ -6,10 +6,19 @@
     <description>Recent content in Greta Warren on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/greta-warren/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Explaining Sources of Uncertainty in Automated Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2026_acl_sun/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl_sun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
@@ -26,15 +35,6 @@
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_augenstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining Sources of Uncertainty in Automated Fact-Checking</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_sun/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_sun/</guid>
       <description></description>
     </item>
     

@@ -10,20 +10,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</title>
+      <link>https://copenlu.github.io/publication/2026_acl_pauli/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl_pauli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUB: Benchmarking Context Utilisation Techniques for Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_acl_hagstr%C3%B6m/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl_hagstr%C3%B6m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining Sources of Uncertainty in Automated Fact-Checking</title>
+      <link>https://copenlu.github.io/publication/2026_acl_sun/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Evaluation Protocol for Low-Precision Retrieval</title>
+      <link>https://copenlu.github.io/publication/2026_acl_yang/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl_yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
+      <link>https://copenlu.github.io/publication/2026_acl_muhajid/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl_muhajid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
       <link>https://copenlu.github.io/publication/2026_arxiv_warren/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_arxiv_warren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_pauli/</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_pauli/</guid>
       <description></description>
     </item>
     
@@ -55,15 +91,6 @@ The postdoc’s duties will be to conduct research on user-centric RAG and infor
 
 &lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://jobportal.ku.dk/videnskabelige-stillinger/?show=153139&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;1 February 2026&lt;/strong&gt; to be considered.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_muhajid/</link>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_muhajid/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -99,10 +126,10 @@ The postdoc’s duties will be to conduct research on user-centric RAG and infor
     
     <item>
       <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/</link>
+      <link>https://copenlu.github.io/publication/2025_cl_sun_evaluation/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2025_arxiv_sun_evaluation/</guid>
+      <guid>https://copenlu.github.io/publication/2025_cl_sun_evaluation/</guid>
       <description></description>
     </item>
     
@@ -157,33 +184,6 @@ The postdoc’s duties will be to conduct research on user-centric RAG and infor
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_emnlp_yuan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Modal Framing Analysis of News</title>
-      <link>https://copenlu.github.io/publication/2025_emnlp_arora/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_emnlp_arora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presumed Cultural Identity: How Names Shape LLM Responses</title>
-      <link>https://copenlu.github.io/publication/2025_emnlp_pawar/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_emnlp_pawar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Critique and Refinement for Faithful Natural Language Explanations</title>
-      <link>https://copenlu.github.io/publication/2025_emnlp_wang/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_emnlp_wang/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in 2 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
+      <link>https://copenlu.github.io/publication/2025_cl_sun_evaluation/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2025_cl_sun_evaluation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Survey of Cultural Awareness in Language Models: Text and Beyond</title>
