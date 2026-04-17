@@ -6,10 +6,19 @@
     <description>Recent content in 1 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
+      <link>https://copenlu.github.io/publication/2026_facct_warren/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_facct_warren/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</title>
@@ -58,10 +67,10 @@
     
     <item>
       <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
-      <link>https://copenlu.github.io/publication/2026_acl_muhajid/</link>
+      <link>https://copenlu.github.io/publication/2026_acl_mujahid/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2026_acl_muhajid/</guid>
+      <guid>https://copenlu.github.io/publication/2026_acl_mujahid/</guid>
       <description></description>
     </item>
     

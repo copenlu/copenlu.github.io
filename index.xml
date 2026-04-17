@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
+      <link>https://copenlu.github.io/publication/2026_facct_warren/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_facct_warren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</title>
       <link>https://copenlu.github.io/publication/2026_acl_pauli/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
@@ -24,6 +33,15 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_acl_hagstr%C3%B6m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</guid>
       <description></description>
     </item>
     
@@ -56,19 +74,65 @@
     
     <item>
       <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
-      <link>https://copenlu.github.io/publication/2026_acl_muhajid/</link>
+      <link>https://copenlu.github.io/publication/2026_acl_mujahid/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2026_acl_muhajid/</guid>
+      <guid>https://copenlu.github.io/publication/2026_acl_mujahid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_warren/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <title>6 Papers to be Presented at ACL 2026</title>
+      <link>https://copenlu.github.io/news/6-papers-to-be-presented-at-acl-2026/</link>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2026_arxiv_warren/</guid>
+      <guid>https://copenlu.github.io/news/6-papers-to-be-presented-at-acl-2026/</guid>
+      <description>&lt;p&gt;Six papers by CopeNLU authors have been accepted for presentation at ACL 2026, on topics including fact-checking and uncertainty, evaluation protocols for retrieval, factual consistency in long-document summarization, context utilisation in language models, and gender bias in LLM-generated persuasive text.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_hagström/&#34;&gt;CUB: Benchmarking Context Utilisation Techniques for Language Models&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/lovisa-hagström/&#34;&gt;Lovisa Hagström&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/youna-kim/&#34;&gt;Youna Kim&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/haeun-yu/&#34;&gt;Haeun Yu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/sang-goo-lee/&#34;&gt;Sang-goo Lee&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/richard-johansson/&#34;&gt;Richard Johansson&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hyunsoo-cho/&#34;&gt;Hyunsoo Cho&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_sun/&#34;&gt;Explaining Sources of Uncertainty in Automated Fact-Checking&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/jingyi-sun/&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/greta-warren/&#34;&gt;Greta Warren&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/irina-shklovski/&#34;&gt;Irina Shklovski&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_yang/&#34;&gt;Reliable Evaluation Protocol for Low-Precision Retrieval&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/kisu-yang/&#34;&gt;Kisu Yang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/yoonna-jang/&#34;&gt;Yoonna Jang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hwanseok-jang/&#34;&gt;Hwanseok Jang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/kenneth-choi/&#34;&gt;Kenneth Choi&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/heuiseok-lim/&#34;&gt;Heuiseok Lim&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_mujahid/&#34;&gt;Stress Testing Factual Consistency Metrics for Long-Document Summarization&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/zain-muhammad-mujahid/&#34;&gt;Zain Muhammad Mujahid&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_pauli/&#34;&gt;Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/amalie-brogaard-pauli/&#34;&gt;Amalie Brogaard Pauli&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/maria-barrett/&#34;&gt;Maria Barrett&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/max-müller-eberstein/&#34;&gt;Max Müller-Eberstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ira-assent/&#34;&gt;Ira Assent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_cl_sun_evaluation/&#34;&gt;Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models&lt;/a&gt;.
+&lt;a href=&#34;https://copenlu.github.io/authors/jingyi-sun/&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/sagnik-ray-choudhury/&#34;&gt;Sagnik Ray Choudhury&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/sekh-mainul-islam/&#34;&gt;Sekh Mainul Islam&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Francesco Pierri</title>
+      <link>https://copenlu.github.io/people/francesco/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/francesco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amalie Brogaard Pauli</title>
+      <link>https://copenlu.github.io/people/amalie/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/amalie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dustin Wright</title>
+      <link>https://copenlu.github.io/people/dustin/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/dustin/</guid>
       <description></description>
     </item>
     
@@ -134,56 +198,11 @@ The postdoc’s duties will be to conduct research on user-centric RAG and infor
     </item>
     
     <item>
-      <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
-      <link>https://copenlu.github.io/publication/2025_cl_sun_evaluation/</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <title>Qianli Wang</title>
+      <link>https://copenlu.github.io/people/qianli/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2025_cl_sun_evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expanding Computation Spaces of LLMs at Inference Time</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_jang/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_jang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Meta-Evaluation of Style and Attribute Transfer Metrics</title>
-      <link>https://copenlu.github.io/publication/2025_emnlp_pauli/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_emnlp_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explainability and Interpretability of Multilingual Large Language Models: A Survey</title>
-      <link>https://copenlu.github.io/publication/2025_emnlp_resck/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_emnlp_resck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FLARE: Faithful Logic-Aided Reasoning and Exploration</title>
-      <link>https://copenlu.github.io/publication/2025_emnlp_arakelyan/</link>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_emnlp_arakelyan/</guid>
+      <guid>https://copenlu.github.io/people/qianli/</guid>
       <description></description>
     </item>
     
