@@ -10,6 +10,40 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Funded PhD and postdoc positions for start in Autumn 2026</title>
+      <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-in-autumn-2026/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-in-autumn-2026/</guid>
+      <description>
+
+&lt;p&gt;Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new project titled &lt;a href=&#34;https://dff.dk/en/about-the-fund/news-and-press/all-news/news-uk/2026/maj/296-million-dkk-for-independent-curiosity-driven-research/&#34;&gt;&amp;ldquo;A Mechanistic Framework for Mitigating the Susceptibility of LLMs to Learning False Information&amp;rdquo;&lt;/a&gt; funded by the &lt;a href=&#34;https://dff.dk/en/&#34;&gt;Independent Research Foundation Denmark&lt;/a&gt;, led by &lt;a href=&#34;https://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and &lt;a href=&#34;https://apepa.github.io/&#34;&gt;Pepa Atanasova&lt;/a&gt;. The project goal’s will be to develop a novel theoretical frameworks for LLM security, new mechanistic interpretability methods, and new evaluation protocols, developed through research at the intersection of Natural Language Processing, LLM Security, and Explainable AI. In addition to the PIs, the postdoc and PhD student, the project also offers the opportunity to apply as an academic collaborator with NVIDIA as part of an existing relationship.&lt;/p&gt;
+
+&lt;p&gt;Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;phd-position&#34;&gt;PhD position&lt;/h2&gt;
+
+&lt;p&gt;The PhD position is fully funded for three years and open to candidates with a Master&amp;rsquo;s degree or equivalent in Computer Science or a related field.
+The PhD student’s research is expected to focus on researching mechanistic interpretability methods to curb the effects of false information attacks on LLMs at different stages of the model lifecycle.&lt;br /&gt;
+The ideal candidate would thus have an educational background, prior research or work experience in ML or NLP.&lt;/p&gt;
+
+&lt;p&gt;The PhD student will be supervised by Isabelle Augenstein and co-supervised by Pepa Atanasova, and also collaborate with the larger project team.&lt;/p&gt;
+
+&lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://employment.ku.dk/phd/?show=160571&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;31 May 2026&lt;/strong&gt; to be considered. The start date is September 2026 or as soon as possible thereafter.&lt;/p&gt;
+
+&lt;h2 id=&#34;postdoc-position&#34;&gt;Postdoc position&lt;/h2&gt;
+
+&lt;p&gt;The postdoc position is also offered for three years and open to candidates with a PhD degree in Computer Science or another relevant field.
+The postdoc’s duties will be to characterise the spectrum of false information used by LLMs at different stages of their life cycle, in order to develop mitigation methods and prevent false information attacks on LLMs.&lt;br /&gt;
+The ideal candidate would thus have an educational background, prior research or work experience on Natural Language Processing, LLM Security, and/or Explainable AI.&lt;/p&gt;
+
+&lt;p&gt;The postdoc will work with Isabelle Augenstein and Pepa Atanasova, and also collaborate with the larger project team.&lt;/p&gt;
+
+&lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://employment.ku.dk/faculty/?show=160569&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;31 May 2026&lt;/strong&gt; to be considered. The start date is September 2026 or as soon as possible thereafter.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
       <link>https://copenlu.github.io/publication/2026_facct_warren/</link>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
@@ -134,36 +168,6 @@
       
       <guid>https://copenlu.github.io/people/dustin/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Funded PhD and postdoc positions for start Autumn 2026</title>
-      <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</guid>
-      <description>
-
-&lt;p&gt;Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new interdisciplinary project on &lt;a href=&#34;https://dff.dk/en/our-funded-projects/see-an-overview-of-supported-research/?Bevilling.PolitiskTemaDK=Research%20on%20artificial%20intelligence&amp;Bevilling.Finanslovsaar=2025&amp;page=1&#34;&gt;&amp;ldquo;Human-Centered Explainable Retrieval-Augmented LLMs&amp;rdquo;&lt;/a&gt; funded by the &lt;a href=&#34;https://dff.dk/en/&#34;&gt;Independent Research Foundation Denmark&lt;/a&gt;, led by &lt;a href=&#34;https://isabelleaugenstein.github.io/&#34;&gt;Isabelle Augenstein&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=ufIlFCIAAAAJ&amp;hl=en&#34;&gt;Irina Shklovski&lt;/a&gt;. Read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;phd-position&#34;&gt;PhD position&lt;/h2&gt;
-
-&lt;p&gt;The PhD position is fully funded for three years and open to candidates with a Master&amp;rsquo;s degree or equivalent in Computer Science or a related field.
-The PhD student’s research is expected to focus on explanation steering for human-centric RAG. The ideal candidate would thus have an educational background, prior research or work experience in ML or NLP.&lt;/p&gt;
-
-&lt;p&gt;The PhD student would be supervised by Isabelle Augenstein and co-supervised by Irina Shklovski, and also collaborate with the larger project team. In addition to a postdoc to be recruited, this includes external collaborators, including in information retrieval.&lt;/p&gt;
-
-&lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://employment.ku.dk/phd/?show=153280&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;1 February 2026&lt;/strong&gt; to be considered.&lt;/p&gt;
-
-&lt;h2 id=&#34;postdoc-position&#34;&gt;Postdoc position&lt;/h2&gt;
-
-&lt;p&gt;The postdoc position is also offered for three years and open to candidates with a PhD degree in Computer Science or another relevant field.
-The postdoc’s duties will be to conduct research on user-centric RAG and information needs of people interacting with AI. The ideal candidate would thus have an educational background, prior research or work experience at the intersection of Human-Computer Interaction and Natural Language Processing.&lt;/p&gt;
-
-&lt;p&gt;The postdoc would work with Irina Shklovski and Isabelle Augenstein, and also collaborate with the larger project team.&lt;/p&gt;
-
-&lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://jobportal.ku.dk/videnskabelige-stillinger/?show=153139&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;1 February 2026&lt;/strong&gt; to be considered.&lt;/p&gt;
-</description>
     </item>
     
     <item>

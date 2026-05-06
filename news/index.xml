@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Funded PhD and postdoc positions for start in Autumn 2026</title>
+      <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-in-autumn-2026/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-in-autumn-2026/</guid>
+      <description>Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new project titled &amp;ldquo;A Mechanistic Framework for Mitigating the Susceptibility of LLMs to Learning False Information&amp;rdquo; funded by the Independent Research Foundation Denmark, led by Isabelle Augenstein and Pepa Atanasova. The project goal’s will be to develop a novel theoretical frameworks for LLM security, new mechanistic interpretability methods, and new evaluation protocols, developed through research at the intersection of Natural Language Processing, LLM Security, and Explainable AI.</description>
+    </item>
+    
+    <item>
       <title>6 Papers to be Presented at ACL 2026</title>
       <link>https://copenlu.github.io/news/6-papers-to-be-presented-at-acl-2026/</link>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
@@ -20,16 +29,6 @@
       <description>Six papers by CopeNLU authors have been accepted for presentation at ACL 2026, on topics including fact-checking and uncertainty, evaluation protocols for retrieval, factual consistency in long-document summarization, context utilisation in language models, and gender bias in LLM-generated persuasive text.
 CUB: Benchmarking Context Utilisation Techniques for Language Models. Lovisa Hagström, Youna Kim, Haeun Yu, Sang-goo Lee, Richard Johansson, Hyunsoo Cho, Isabelle Augenstein.
 Explaining Sources of Uncertainty in Automated Fact-Checking. Jingyi Sun, Greta Warren, Irina Shklovski, Isabelle Augenstein.</description>
-    </item>
-    
-    <item>
-      <title>Funded PhD and postdoc positions for start Autumn 2026</title>
-      <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-autumn-2026/</guid>
-      <description>Would you like to join our lab as a PhD student or postdoc in autumn 2026? We have openings on a new interdisciplinary project on &amp;ldquo;Human-Centered Explainable Retrieval-Augmented LLMs&amp;rdquo; funded by the Independent Research Foundation Denmark, led by Isabelle Augenstein and Irina Shklovski. Read more about reasons to join CopeNLU here.
-PhD position The PhD position is fully funded for three years and open to candidates with a Master&amp;rsquo;s degree or equivalent in Computer Science or a related field.</description>
     </item>
     
     <item>
@@ -43,18 +42,6 @@ Graph-Guided Textual Explanation Generation Framework. Shuzhou Yuan, Jingyi Sun,
 Self-Critique and Refinement for Faithful Natural Language Explanations. Yingming Wang, Pepa Atanasova.
 FLARE: Faithful Logic-Aided Reasoning and Exploration. Erik Arakelyan, Pasquale Minervini, Pat Verga, Patrick Lewis, Isabelle Augenstein.
 Explainability and Interpretability of Multilingual Large Language Models: A Survey.</description>
-    </item>
-    
-    <item>
-      <title>PhD fellowships for start in Spring or Autumn 2026</title>
-      <link>https://copenlu.github.io/news/phd-fellowships-for-start-in-spring-or-autumn-2026/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/phd-fellowships-for-start-in-spring-or-autumn-2026/</guid>
-      <description>Would you like to join our lab as a PhD student in 2026? We have several openings. Read more about reasons to join CopeNLU here.
-Start in Spring 2026 We have two fully funded 3-year PhD fellowships available for a start in Spring 2026:
-Position 1: Explainable Natural Language Understanding
-A fully funded 3-year PhD fellowship on explainable natural language understanding for a start in Spring 2026 is available as part of the ExplainYourself project on Explainable and Robust Automatic Fact Checking.</description>
     </item>
     
     <item>
@@ -133,16 +120,6 @@ Interview participants will be offered an online gift voucher to the value of 50
       <description>We are honoured to share that our paper on measuring the fragility of natural language inference models has won an outstanding paper award at EACL 2024. The paper is based on the MSc thesis of Zhaoqi Liu, who was supervised by Isabelle Augenstein and Erik Arakelyan.
 Semantic Sensitivities and Inconsistent Predictions: Measuring the Fragility of NLI Models. Erik Arakelyan, Zhaoqi Liu, Isabelle Augenstein.
    </description>
-    </item>
-    
-    <item>
-      <title>PhD and postdoc positions available at Pioneer Centre for AI</title>
-      <link>https://copenlu.github.io/news/phd-and-postdoc-positions-available-at-pioneer-centre-for-ai/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/phd-and-postdoc-positions-available-at-pioneer-centre-for-ai/</guid>
-      <description>A PhD and two postdoc positions on natural language understanding are available. The positions are funded by the Pioneer Centre for AI. Read more about reasons to join us here. You can read more about the positions at the Pioneer Centre here.
-PhD Fellowship on Factual Text Generation While recent large language models demonstrate surprising fluency and predictive capabilities in their generated text, they have been demonstrated to generate factual inaccuracies even when they have encoded truthful information.</description>
     </item>
     
     <item>
