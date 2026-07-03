@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>Claim Verification in the Age of Large Language Models: A Survey</title>
+      <link>https://copenlu.github.io/publication/2026_acl-srw_dmonte/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_acl-srw_dmonte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Expanding Computation Spaces of LLMs at Inference Time</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_jang/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
@@ -368,15 +377,6 @@
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2024_emnlp_manerba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claim Verification in the Age of Large Language Models: A Survey</title>
-      <link>https://copenlu.github.io/publication/2024_arxiv_dmonte/</link>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2024_arxiv_dmonte/</guid>
       <description></description>
     </item>
     
