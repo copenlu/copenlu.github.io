@@ -6,10 +6,37 @@
     <description>Recent content in Peoples on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:07:01 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anna Sacchet</title>
+      <link>https://copenlu.github.io/people/anna/</link>
+      <pubDate>Tue, 30 Jun 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/anna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadya Yuki Wangsajaya</title>
+      <link>https://copenlu.github.io/people/yuki/</link>
+      <pubDate>Sun, 31 May 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/yuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Masud</title>
+      <link>https://copenlu.github.io/people/sarah/</link>
+      <pubDate>Sun, 31 May 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/sarah/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Francesco Pierri</title>
@@ -363,15 +390,6 @@
     </item>
     
     <item>
-      <title>Sarah Masud</title>
-      <link>https://copenlu.github.io/people/sarah/</link>
-      <pubDate>Tue, 25 Dec 2018 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/sarah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zain Muhammad Mujahid</title>
       <link>https://copenlu.github.io/people/zain/</link>
       <pubDate>Mon, 24 Dec 2018 16:07:01 +0000</pubDate>
@@ -462,20 +480,20 @@
     </item>
     
     <item>
-      <title>Anna Sacchet</title>
-      <link>https://copenlu.github.io/people/anna/</link>
+      <title>Bao Dinh</title>
+      <link>https://copenlu.github.io/people/bao/</link>
       <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/people/anna/</guid>
+      <guid>https://copenlu.github.io/people/bao/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nadya Yuki Wangsajaya</title>
-      <link>https://copenlu.github.io/people/yuki/</link>
+      <title>Leo Raphael Rodrigues</title>
+      <link>https://copenlu.github.io/people/leo/</link>
       <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/people/yuki/</guid>
+      <guid>https://copenlu.github.io/people/leo/</guid>
       <description></description>
     </item>
     

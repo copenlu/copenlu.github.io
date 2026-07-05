@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Anna Sacchet</title>
+      <link>https://copenlu.github.io/people/anna/</link>
+      <pubDate>Tue, 30 Jun 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/anna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
       <link>https://copenlu.github.io/publication/2026_arxiv_dawar/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
@@ -51,6 +60,24 @@
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_arxiv_borah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadya Yuki Wangsajaya</title>
+      <link>https://copenlu.github.io/people/yuki/</link>
+      <pubDate>Sun, 31 May 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/yuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Masud</title>
+      <link>https://copenlu.github.io/people/sarah/</link>
+      <pubDate>Sun, 31 May 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/sarah/</guid>
       <description></description>
     </item>
     
@@ -139,33 +166,6 @@ The ideal candidate would thus have an educational background, prior research or
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explaining Sources of Uncertainty in Automated Fact-Checking</title>
-      <link>https://copenlu.github.io/publication/2026_acl_sun/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_acl_sun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interpretable Debiasing of Vision-Language Models for Social Fairness</title>
-      <link>https://copenlu.github.io/publication/2026_cvpr_an/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_cvpr_an/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reliable Evaluation Protocol for Low-Precision Retrieval</title>
-      <link>https://copenlu.github.io/publication/2026_acl_yang/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_acl_yang/</guid>
       <description></description>
     </item>
     
