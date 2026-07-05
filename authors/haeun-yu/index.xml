@@ -6,10 +6,19 @@
     <description>Recent content in Haeun Yu on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/haeun-yu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_yuki/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_yuki/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CUB: Benchmarking Context Utilisation Techniques for Language Models</title>

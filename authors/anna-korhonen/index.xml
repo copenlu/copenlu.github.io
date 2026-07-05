@@ -6,10 +6,19 @@
     <description>Recent content in Anna Korhonen on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/anna-korhonen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_resck/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_resck/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explainability and Interpretability of Multilingual Large Language Models: A Survey</title>

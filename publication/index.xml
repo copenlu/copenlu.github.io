@@ -12,6 +12,69 @@
     
     
     <item>
+      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_dawar/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_dawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pawar/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding helpfulness and harmless tension in reward models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_tanwar/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_tanwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_yuki/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_yuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_borah/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_borah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_resck/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_resck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Interplay between Contextual and Parametric Chain-of-Thought Faithfulness under Optimization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_sun/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
       <link>https://copenlu.github.io/publication/2026_facct_warren/</link>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
@@ -89,6 +152,15 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_acl-srw_dmonte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_wang/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_wang/</guid>
       <description></description>
     </item>
     

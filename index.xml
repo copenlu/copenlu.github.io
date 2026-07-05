@@ -10,6 +10,69 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_dawar/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_dawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pawar/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding helpfulness and harmless tension in reward models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_tanwar/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_tanwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_yuki/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_yuki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_borah/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_borah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_resck/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_resck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Interplay between Contextual and Parametric Chain-of-Thought Faithfulness under Optimization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_sun/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Funded PhD and postdoc positions for start in Autumn 2026</title>
       <link>https://copenlu.github.io/news/funded-phd-and-postdoc-positions-for-start-in-autumn-2026/</link>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -104,113 +167,6 @@ The ideal candidate would thus have an educational background, prior research or
       
       <guid>https://copenlu.github.io/publication/2026_acl_yang/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Stress Testing Factual Consistency Metrics for Long-Document Summarization</title>
-      <link>https://copenlu.github.io/publication/2026_acl_mujahid/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_acl_mujahid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claim Verification in the Age of Large Language Models: A Survey</title>
-      <link>https://copenlu.github.io/publication/2026_acl-srw_dmonte/</link>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_acl-srw_dmonte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>7 Papers to be Presented at ACL 2026</title>
-      <link>https://copenlu.github.io/news/7-papers-to-be-presented-at-acl-2026/</link>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/7-papers-to-be-presented-at-acl-2026/</guid>
-      <description>&lt;p&gt;Seven papers by CopeNLU authors have been accepted for presentation at ACL 2026, on topics including fact-checking and uncertainty, evaluation protocols for retrieval, factual consistency in long-document summarization, context utilisation in language models, and gender bias in LLM-generated persuasive text.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_cl_sun_evaluation/&#34;&gt;Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/jingyi-sun/&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/sagnik-ray-choudhury/&#34;&gt;Sagnik Ray Choudhury&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/sekh-mainul-islam/&#34;&gt;Sekh Mainul Islam&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. Computational Linguistics.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_hagström/&#34;&gt;CUB: Benchmarking Context Utilisation Techniques for Language Models&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/lovisa-hagström/&#34;&gt;Lovisa Hagström&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/youna-kim/&#34;&gt;Youna Kim&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/haeun-yu/&#34;&gt;Haeun Yu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/sang-goo-lee/&#34;&gt;Sang-goo Lee&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/richard-johansson/&#34;&gt;Richard Johansson&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hyunsoo-cho/&#34;&gt;Hyunsoo Cho&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. ACL main.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_sun/&#34;&gt;Explaining Sources of Uncertainty in Automated Fact-Checking&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/jingyi-sun/&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/greta-warren/&#34;&gt;Greta Warren&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/irina-shklovski/&#34;&gt;Irina Shklovski&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. ACL main.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_yang/&#34;&gt;Reliable Evaluation Protocol for Low-Precision Retrieval&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/kisu-yang/&#34;&gt;Kisu Yang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/yoonna-jang/&#34;&gt;Yoonna Jang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hwanseok-jang/&#34;&gt;Hwanseok Jang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/kenneth-choi/&#34;&gt;Kenneth Choi&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/heuiseok-lim/&#34;&gt;Heuiseok Lim&lt;/a&gt;. ACL main.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_mujahid/&#34;&gt;Stress Testing Factual Consistency Metrics for Long-Document Summarization&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/zain-muhammad-mujahid/&#34;&gt;Zain Muhammad Mujahid&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. ACL main.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl_pauli/&#34;&gt;Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/amalie-brogaard-pauli/&#34;&gt;Amalie Brogaard Pauli&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/maria-barrett/&#34;&gt;Maria Barrett&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/max-müller-eberstein/&#34;&gt;Max Müller-Eberstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ira-assent/&#34;&gt;Ira Assent&lt;/a&gt;. ACL Findings.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_acl-srw_dmonte/&#34;&gt;Claim Verification in the Age of Large Language Models: A Survey&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/alphaeus-dmonte/&#34;&gt;Alphaeus Dmonte&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/roland-oruche/&#34;&gt;Roland Oruche&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/marcos-zampieri/&#34;&gt;Marcos Zampieri&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/prasad-calyam&#34;&gt;Prasad Calyam&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. ACL SRW.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Francesco Pierri</title>
-      <link>https://copenlu.github.io/people/francesco/</link>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/francesco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amalie Brogaard Pauli</title>
-      <link>https://copenlu.github.io/people/amalie/</link>
-      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/amalie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dustin Wright</title>
-      <link>https://copenlu.github.io/people/dustin/</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/dustin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>8 Papers Accepted to EMNLP 2025</title>
-      <link>https://copenlu.github.io/news/8-papers-accepted-to-emnlp-2025/</link>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/8-papers-accepted-to-emnlp-2025/</guid>
-      <description>&lt;p&gt;8 papers by CopeNLU authors are accepted to appear at EMNLP 2025, on topics including explainability and cross-cultural NLP.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_yuan/&#34;&gt;Graph-Guided Textual Explanation Generation Framework&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/shuzhou-yuan/&#34;&gt;Shuzhou Yuan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/jingyi-sun/&#34;&gt;Jingyi Sun&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/michael-f%C3%A4rber/&#34;&gt;Michael Färber&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/steffen-eger/&#34;&gt;Steffen Eger&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_wang/&#34;&gt;Self-Critique and Refinement for Faithful Natural Language Explanations&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/yingming-wang/&#34;&gt;Yingming Wang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_arakelyan/&#34;&gt;FLARE: Faithful Logic-Aided Reasoning and Exploration&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/erik-arakelyan/&#34;&gt;Erik Arakelyan&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pasquale-minervini/&#34;&gt;Pasquale Minervini&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pat-verga/&#34;&gt;Pat Verga&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/patrick-lewis/&#34;&gt; Patrick Lewis&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_resck/&#34;&gt;Explainability and Interpretability of Multilingual Large Language Models: A Survey&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/lucas-resck/&#34;&gt;Lucas Resck&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/anna-korhonen/&#34;&gt;Anna Korhonen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_arora/&#34;&gt;Multi-Modal Framing Analysis of News&lt;/a&gt;. &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/srishti-yadav/&#34;&gt;Srishti Yadav&lt;/a&gt;,  &lt;a href=&#34;https://copenlu.github.io/authors/maria-antoniak/&#34;&gt;Maria Antoniak&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/serge-belongie/&#34;&gt;Serge Belognie&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_pawar/&#34;&gt;Presumed Cultural Identity: How Names Shape LLM Responses&lt;/a&gt;. &lt;a href=&#34;https://copenlu.github.io/authors/siddhesh-pawar/&#34;&gt;Siddesh Pawar&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;,  &lt;a href=&#34;https://copenlu.github.io/authors/lucie-aim%C3%A9e-kaffee/&#34;&gt;Lucie-Aimée Kaffee&lt;/a&gt;,  &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_wright/&#34;&gt;Unstructured Evidence Attribution for Long Context Query Focused Summarization&lt;/a&gt;. &lt;a href=&#34;https://copenlu.github.io/authors/dustin-wright/&#34;&gt;Dustin Wright&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/zain-muhammad-mujahid/&#34;&gt;Zain Muhammad Mujahid&lt;/a&gt;,  &lt;a href=&#34;https://copenlu.github.io/authors/lu-wang/&#34;&gt;Lu Wang&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/david-jurgens/&#34;&gt;David Jurgens&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2025_emnlp_pauli/&#34;&gt;A Meta-Evaluation of Style and Attribute Transfer Metrics&lt;/a&gt;.
-&lt;a href=&#34;https://copenlu.github.io/authors/amalie-brogaard-pauli/&#34;&gt;Amalie Brogaard Pauli&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/ira-assent/&#34;&gt;Ira Assent&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

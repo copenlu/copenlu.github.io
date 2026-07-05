@@ -6,10 +6,19 @@
     <description>Recent content in Jingyi Sun on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/jingyi-sun/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating the Interplay between Contextual and Parametric Chain-of-Thought Faithfulness under Optimization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_sun/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_sun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>

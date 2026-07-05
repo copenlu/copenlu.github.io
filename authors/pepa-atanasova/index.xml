@@ -6,10 +6,28 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding helpfulness and harmless tension in reward models</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_tanwar/</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_tanwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Interplay between Contextual and Parametric Chain-of-Thought Faithfulness under Optimization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_sun/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_sun/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
@@ -17,6 +35,15 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_wang/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_wang/</guid>
       <description></description>
     </item>
     
