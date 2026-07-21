@@ -6,10 +6,28 @@
     <description>Recent content in Peoples on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 16:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:07:01 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leo Raphael Rodrigues</title>
+      <link>https://copenlu.github.io/people/leo/</link>
+      <pubDate>Sat, 11 Jul 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/leo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoonna Jang</title>
+      <link>https://copenlu.github.io/people/yoonna/</link>
+      <pubDate>Fri, 10 Jul 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/yoonna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anna Sacchet</title>
@@ -399,15 +417,6 @@
     </item>
     
     <item>
-      <title>Yoonna Jang</title>
-      <link>https://copenlu.github.io/people/yoonna/</link>
-      <pubDate>Sun, 23 Dec 2018 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/yoonna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yijun Bian</title>
       <link>https://copenlu.github.io/people/yijun/</link>
       <pubDate>Sat, 22 Dec 2018 16:07:01 +0000</pubDate>
@@ -485,15 +494,6 @@
       <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/bao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leo Raphael Rodrigues</title>
-      <link>https://copenlu.github.io/people/leo/</link>
-      <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/leo/</guid>
       <description></description>
     </item>
     

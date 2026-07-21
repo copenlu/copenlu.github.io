@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Leo Raphael Rodrigues</title>
+      <link>https://copenlu.github.io/people/leo/</link>
+      <pubDate>Sat, 11 Jul 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/leo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoonna Jang</title>
+      <link>https://copenlu.github.io/people/yoonna/</link>
+      <pubDate>Fri, 10 Jul 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/yoonna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anna Sacchet</title>
       <link>https://copenlu.github.io/people/anna/</link>
       <pubDate>Tue, 30 Jun 2026 16:07:01 +0000</pubDate>
@@ -148,24 +166,6 @@ The ideal candidate would thus have an educational background, prior research or
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_acl_pauli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CUB: Benchmarking Context Utilisation Techniques for Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_acl_hagstr%C3%B6m/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_acl_hagstr%C3%B6m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</guid>
       <description></description>
     </item>
     
