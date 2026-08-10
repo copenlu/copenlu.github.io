@@ -10,6 +10,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Nadav Borenstein</title>
+      <link>https://copenlu.github.io/people/nadav/</link>
+      <pubDate>Fri, 31 Jul 2026 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nadav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yijun Bian</title>
+      <link>https://copenlu.github.io/people/yijun/</link>
+      <pubDate>Fri, 31 Jul 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/yijun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Leo Raphael Rodrigues</title>
       <link>https://copenlu.github.io/people/leo/</link>
       <pubDate>Sat, 11 Jul 2026 16:07:01 +0000</pubDate>
@@ -149,24 +167,6 @@ The ideal candidate would thus have an educational background, prior research or
 
 &lt;p&gt;Read more about the position and apply &lt;a href=&#34;https://employment.ku.dk/faculty/?show=160569&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;31 May 2026&lt;/strong&gt; to be considered. The start date is September 2026 or as soon as possible thereafter.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</title>
-      <link>https://copenlu.github.io/publication/2026_facct_warren/</link>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_facct_warren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns</title>
-      <link>https://copenlu.github.io/publication/2026_acl_pauli/</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_acl_pauli/</guid>
-      <description></description>
     </item>
     
   </channel>
