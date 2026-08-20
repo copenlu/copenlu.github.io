@@ -435,24 +435,6 @@
     </item>
     
     <item>
-      <title>Ryan Cotterell</title>
-      <link>https://copenlu.github.io/people/ryan/</link>
-      <pubDate>Sun, 21 Jan 2018 17:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/ryan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lenka Tětková</title>
-      <link>https://copenlu.github.io/people/lenka/</link>
-      <pubDate>Tue, 16 Jan 2018 17:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/lenka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sara Vera Marjanovic</title>
       <link>https://copenlu.github.io/people/sara/</link>
       <pubDate>Mon, 15 Jan 2018 17:07:01 +0000</pubDate>
@@ -480,20 +462,20 @@
     </item>
     
     <item>
+      <title>Lenka Tětková</title>
+      <link>https://copenlu.github.io/people/lenka/</link>
+      <pubDate>Wed, 10 Jan 2018 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/lenka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jean Seo</title>
       <link>https://copenlu.github.io/people/jean/</link>
       <pubDate>Tue, 26 Dec 2017 16:08:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/jean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Philip Müller</title>
-      <link>https://copenlu.github.io/people/philip/</link>
-      <pubDate>Mon, 25 Dec 2017 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/philip/</guid>
       <description></description>
     </item>
     
@@ -512,6 +494,15 @@
       <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/bao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip Müller</title>
+      <link>https://copenlu.github.io/people/philip/</link>
+      <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/philip/</guid>
       <description></description>
     </item>
     
