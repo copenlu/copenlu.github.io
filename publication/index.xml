@@ -12,20 +12,65 @@
     
     
     <item>
-      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_dawar/</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_islam/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2026_arxiv_dawar/</guid>
+      <guid>https://copenlu.github.io/publication/2026_emnlp_islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_wang/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_hakimi/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_hakimi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_pawar/</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <link>https://copenlu.github.io/publication/2026_emnlp_pawar/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar/</guid>
+      <guid>https://copenlu.github.io/publication/2026_emnlp_pawar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What and Whose Knowledge? Measuring Epistemic Diversity in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_wright/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_borah/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_borah/</guid>
       <description></description>
     </item>
     
@@ -44,15 +89,6 @@
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_arxiv_yuki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_borah/</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_borah/</guid>
       <description></description>
     </item>
     
@@ -156,29 +192,11 @@
     </item>
     
     <item>
-      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_wang/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Expanding Computation Spaces of LLMs at Inference Time</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_jang/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_jang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</guid>
       <description></description>
     </item>
     
@@ -255,29 +273,11 @@
     </item>
     
     <item>
-      <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_yu/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epistemic Diversity and Knowledge Collapse in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
       <description></description>
     </item>
     

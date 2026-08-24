@@ -6,10 +6,28 @@
     <description>Recent content in Sekh Mainul Islam on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/sekh-mainul-islam/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_islam/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models</title>
@@ -17,24 +35,6 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
       <description></description>
     </item>
     
