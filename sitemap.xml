@@ -2004,16 +2004,37 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>https://copenlu.github.io/people/bao/</loc>
       <lastmod>2017-12-25T16:07:01+00:00</lastmod>
+=======
+      <loc>https://copenlu.github.io/people/philip/</loc>
+      <lastmod>2017-12-24T16:07:01+00:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://copenlu.github.io/people/philip/</loc>
-      <lastmod>2017-12-24T16:07:01+00:00</lastmod>
+      <loc>https://copenlu.github.io/people/jeremy/</loc>
+      <lastmod>2017-12-23T16:07:01+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/bao/</loc>
+      <lastmod>2017-11-24T16:07:01+00:00</lastmod>
+>>>>>>> 77a710306ef0ec53db0cd7ee8148db000f6a4e78
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://copenlu.github.io/people/ali/</loc>
+      <lastmod>2017-11-24T16:07:01+00:00</lastmod>
     </url>
     
   
