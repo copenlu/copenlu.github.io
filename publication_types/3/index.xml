@@ -6,28 +6,10 @@
     <description>Recent content in 3 on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_dawar/</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_dawar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_pawar/</link>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Understanding helpfulness and harmless tension in reward models</title>
@@ -44,15 +26,6 @@
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_arxiv_yuki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_borah/</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_borah/</guid>
       <description></description>
     </item>
     
@@ -75,15 +48,6 @@
     </item>
     
     <item>
-      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_wang/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Expanding Computation Spaces of LLMs at Inference Time</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_jang/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
@@ -93,38 +57,11 @@
     </item>
     
     <item>
-      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models</title>
       <link>https://copenlu.github.io/publication/2025_arxiv_yu/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2025_arxiv_yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epistemic Diversity and Knowledge Collapse in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_wright/</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_wright/</guid>
       <description></description>
     </item>
     

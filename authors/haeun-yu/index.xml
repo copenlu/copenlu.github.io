@@ -6,10 +6,19 @@
     <description>Recent content in Haeun Yu on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/haeun-yu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_islam/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_islam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_acl_hagstr%C3%B6m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiasGym: Fantastic Biases and How to Find (and Remove) Them</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam/</guid>
       <description></description>
     </item>
     

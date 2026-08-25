@@ -6,10 +6,28 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_wang/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
+      <link>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding helpfulness and harmless tension in reward models</title>
@@ -35,24 +53,6 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_cl_sun_evaluation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_wang/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_arxiv_wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
-      <link>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2025_arxiv_islam_rank2/</guid>
       <description></description>
     </item>
     
