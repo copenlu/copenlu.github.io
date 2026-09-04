@@ -489,11 +489,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>Bao Dinh</title>
-      <link>https://copenlu.github.io/people/bao/</link>
-      <pubDate>Mon, 25 Dec 2017 16:07:01 +0000</pubDate>
-=======
       <title>Philip Müller</title>
       <link>https://copenlu.github.io/people/philip/</link>
       <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
@@ -515,7 +510,6 @@
       <title>Bao Dinh</title>
       <link>https://copenlu.github.io/people/bao/</link>
       <pubDate>Fri, 24 Nov 2017 16:07:01 +0000</pubDate>
->>>>>>> 77a710306ef0ec53db0cd7ee8148db000f6a4e78
       
       <guid>https://copenlu.github.io/people/bao/</guid>
       <description></description>
@@ -527,24 +521,6 @@
       <pubDate>Fri, 24 Nov 2017 16:07:01 +0000</pubDate>
       
       <guid>https://copenlu.github.io/people/ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syed Ali Redha Alsagoff</title>
-      <link>https://copenlu.github.io/people/ali/</link>
-      <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeremy Herbst</title>
-      <link>https://copenlu.github.io/people/jeremy/</link>
-      <pubDate>Sat, 23 Dec 2017 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/jeremy/</guid>
       <description></description>
     </item>
     

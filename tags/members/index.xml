@@ -102,18 +102,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>Bao Dinh</title>
-      <link>https://copenlu.github.io/people/bao/</link>
-      <pubDate>Mon, 25 Dec 2017 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/bao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-=======
->>>>>>> 77a710306ef0ec53db0cd7ee8148db000f6a4e78
       <title>Philip Müller</title>
       <link>https://copenlu.github.io/people/philip/</link>
       <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
@@ -123,18 +111,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>Syed Ali Redha Alsagoff</title>
-      <link>https://copenlu.github.io/people/ali/</link>
-      <pubDate>Sun, 24 Dec 2017 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-=======
->>>>>>> 77a710306ef0ec53db0cd7ee8148db000f6a4e78
       <title>Jeremy Herbst</title>
       <link>https://copenlu.github.io/people/jeremy/</link>
       <pubDate>Sat, 23 Dec 2017 16:07:01 +0000</pubDate>
@@ -143,8 +119,6 @@
       <description></description>
     </item>
     
-<<<<<<< HEAD
-=======
     <item>
       <title>Bao Dinh</title>
       <link>https://copenlu.github.io/people/bao/</link>
@@ -163,6 +137,5 @@
       <description></description>
     </item>
     
->>>>>>> 77a710306ef0ec53db0cd7ee8148db000f6a4e78
   </channel>
 </rss>
