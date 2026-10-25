@@ -6,10 +6,37 @@
     <description>Recent content in Pepa Atanasova on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/pepa-atanasova/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Reality Check of Inference-Time Context Augmentation Methods</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_yu/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_islam/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claim Framing as a Driver of LLM Sycophancy</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_seo/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_seo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations</title>

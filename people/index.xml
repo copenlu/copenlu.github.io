@@ -6,10 +6,19 @@
     <description>Recent content in Peoples on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:07:01 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bao Dinh</title>
+      <link>https://copenlu.github.io/people/bao/</link>
+      <pubDate>Sat, 24 Oct 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/bao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arnav Arora</title>
@@ -525,20 +534,20 @@
     </item>
     
     <item>
-      <title>Bao Dinh</title>
-      <link>https://copenlu.github.io/people/bao/</link>
-      <pubDate>Tue, 24 Oct 2017 16:07:01 +0000</pubDate>
+      <title>Syed Ali Redha Alsagoff</title>
+      <link>https://copenlu.github.io/people/ali/</link>
+      <pubDate>Thu, 21 Dec 2017 16:07:01 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/people/bao/</guid>
+      <guid>https://copenlu.github.io/people/ali/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Syed Ali Redha Alsagoff</title>
-      <link>https://copenlu.github.io/people/ali/</link>
-      <pubDate>Tue, 24 Oct 2017 16:07:01 +0000</pubDate>
+      <title>Andrew Wan Ju Kang</title>
+      <link>https://copenlu.github.io/people/andrew/</link>
+      <pubDate>Wed, 20 Dec 2017 16:07:01 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/people/ali/</guid>
+      <guid>https://copenlu.github.io/people/andrew/</guid>
       <description></description>
     </item>
     

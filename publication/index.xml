@@ -12,6 +12,69 @@
     
     
     <item>
+      <title>A Reality Check of Inference-Time Context Augmentation Methods</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_yu/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Multi-Cultural Value Selection Biases in LLMs</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pawar_cultural/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar_cultural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unintended Side Effects of Value Training in LLMs</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pawar_sideeffects/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar_sideeffects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaping the Document, Not the Model: Optimized Suffixes for Context Following</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_dinh/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_dinh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_resck_reliance/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_resck_reliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_islam/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claim Framing as a Driver of LLM Sycophancy</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_seo/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation</title>
       <link>https://copenlu.github.io/publication/2026_arxiv_borenstein/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
@@ -21,7 +84,7 @@
     </item>
     
     <item>
-      <title>Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation</title>
+      <title>BiasGym: A Simple and Generalizable Framework for Analyzing and Removing Biases through Injection</title>
       <link>https://copenlu.github.io/publication/2026_emnlp_islam/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
@@ -39,7 +102,7 @@
     </item>
     
     <item>
-      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
+      <title>Do We Still Need Humans in the Loop? Human vs. LLM Annotation in Active Learning for TikTok Hate Speech Detection</title>
       <link>https://copenlu.github.io/publication/2026_emnlp_hakimi/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
@@ -57,7 +120,7 @@
     </item>
     
     <item>
-      <title>Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims</title>
+      <title>Not What, But How: A Communicative Audit of LLM Response Framing</title>
       <link>https://copenlu.github.io/publication/2026_emnlp_pawar/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
@@ -94,10 +157,10 @@
     
     <item>
       <title>Emergence of Context Characteristics Sensitivity in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_arxiv_yuki/</link>
+      <link>https://copenlu.github.io/publication/2026_arxiv_wangsajaya/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://copenlu.github.io/publication/2026_arxiv_yuki/</guid>
+      <guid>https://copenlu.github.io/publication/2026_arxiv_wangsajaya/</guid>
       <description></description>
     </item>
     

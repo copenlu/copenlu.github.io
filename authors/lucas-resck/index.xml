@@ -6,10 +6,19 @@
     <description>Recent content in Lucas Resck on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/lucas-resck/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_resck_reliance/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_resck_reliance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation</title>

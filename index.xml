@@ -10,6 +10,78 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bao Dinh</title>
+      <link>https://copenlu.github.io/people/bao/</link>
+      <pubDate>Sat, 24 Oct 2026 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/bao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reality Check of Inference-Time Context Augmentation Methods</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_yu/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Multi-Cultural Value Selection Biases in LLMs</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pawar_cultural/</link>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar_cultural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unintended Side Effects of Value Training in LLMs</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_pawar_sideeffects/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_pawar_sideeffects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaping the Document, Not the Model: Optimized Suffixes for Context Following</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_dinh/</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_dinh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_resck_reliance/</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_resck_reliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_islam/</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claim Framing as a Driver of LLM Sycophancy</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_seo/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation</title>
       <link>https://copenlu.github.io/publication/2026_arxiv_borenstein/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
@@ -53,13 +125,13 @@
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_borah/&#34;&gt;Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/angana-borah/&#34;&gt;Angana Borah&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/rada-mihalcea/&#34;&gt;Rada Mihalcea&lt;/a&gt;. EMNLP main.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_islam/&#34;&gt;Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement&lt;/a&gt;.
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_islam_rank2/&#34;&gt;Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/sekh-mainul-islam/&#34;&gt;Sekh Mainul Islam&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/pepa-atanasova/&#34;&gt;Pepa Atanasova&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. EMNLP Findings.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_islam_rank2/&#34;&gt;Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation&lt;/a&gt;.
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_islam/&#34;&gt;BiasGym: A Simple and Generalizable Framework for Analyzing and Removing Biases through Injection&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/sekh-mainul-islam/&#34;&gt;Sekh Mainul Islam&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/nadav-borenstein/&#34;&gt;Nadav Borenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/siddhesh-milind-pawar/&#34;&gt;Siddhesh Milind Pawar&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/haeun-yu/&#34;&gt;Haeun Yu&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/arnav-arora/&#34;&gt;Arnav Arora&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;. EMNLP Findings.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_hakimi/&#34;&gt;Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection&lt;/a&gt;.
+&lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_hakimi/&#34;&gt;Do We Still Need Humans in the Loop? Human vs. LLM Annotation in Active Learning for TikTok Hate Speech Detection&lt;/a&gt;.
 &lt;a href=&#34;https://copenlu.github.io/authors/ahmad-dawar-hakimi/&#34;&gt;Ahmad Dawar Hakimi&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/lea-hirlimann/&#34;&gt;Lea Hirlimann&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/isabelle-augenstein/&#34;&gt;Isabelle Augenstein&lt;/a&gt;, &lt;a href=&#34;https://copenlu.github.io/authors/hinrich-schütze/&#34;&gt;Hinrich Schütze&lt;/a&gt;. EMNLP Findings.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://copenlu.github.io/publication/2026_emnlp_wang/&#34;&gt;Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations&lt;/a&gt;.
@@ -68,7 +140,7 @@
     </item>
     
     <item>
-      <title>Bias to Debias: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation</title>
+      <title>BiasGym: A Simple and Generalizable Framework for Analyzing and Removing Biases through Injection</title>
       <link>https://copenlu.github.io/publication/2026_emnlp_islam/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
@@ -86,90 +158,11 @@
     </item>
     
     <item>
-      <title>Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection</title>
+      <title>Do We Still Need Humans in the Loop? Human vs. LLM Annotation in Active Learning for TikTok Hate Speech Detection</title>
       <link>https://copenlu.github.io/publication/2026_emnlp_hakimi/</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://copenlu.github.io/publication/2026_emnlp_hakimi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace Disentanglement</title>
-      <link>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_emnlp_islam_rank2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims</title>
-      <link>https://copenlu.github.io/publication/2026_emnlp_pawar/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_emnlp_pawar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What and Whose Knowledge? Measuring Epistemic Diversity in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_emnlp_wright/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_emnlp_wright/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whose Norms? Disentangling Cultural and Personal Alignment in Large Language Models</title>
-      <link>https://copenlu.github.io/publication/2026_emnlp_borah/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/publication/2026_emnlp_borah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open postdoc position on Mechanistic Understanding of AI Reasoning</title>
-      <link>https://copenlu.github.io/news/open-postdoc-position-on-mechanistic-understanding-of-ai-reasoning/</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/news/open-postdoc-position-on-mechanistic-understanding-of-ai-reasoning/</guid>
-      <description>&lt;p&gt;Are you passionate about foundational research on mechanistic interpretability and AI reasoning and are looking for postdoctoral opportunities? We have an open two-year position embedded in the &lt;a href=&#34;https://erc.europa.eu/apply-grant/starting-grant&#34;&gt;European Research Council (ERC)&lt;/a&gt;-funded project &amp;ldquo;&lt;a href=&#34;https://cordis.europa.eu/project/id/101077481&#34;&gt;Explainable and Robust Automatic Fact Checking (ExplainYourself)&lt;/a&gt;&amp;rdquo;, as well the &lt;a href=&#34;https://www.aicentre.dk/&#34;&gt;Pioneer Centre for AI&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The postdoc position is offered for two years and open to candidates with a PhD degree in Computer Science or another relevant field.
-Their core duty will be to advance our understanding of how LLMs acquire, integrate and reason over evolving, pluralistic knowledge using mechanistic interpretability methods. This can involve the development of novel conceptual frameworks, methods, or empirical studies. The postdoc’s duties will also to a small degree include teaching or supervision.
-The ideal candidate would have an educational background, prior research or work experience on Natural Language Processing, Machine Learning, and/or Explainable AI. The postdoctoral researcher will work with Isabelle Augenstein, and also collaborate with the larger project team.&lt;/p&gt;
-
-&lt;p&gt;You can read more about reasons to join CopeNLU &lt;a href=&#34;https://copenlu.github.io/post/why-ucph/&#34;&gt;here&lt;/a&gt; and apply &lt;a href=&#34;https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=3010&amp;departmentId=19976&amp;ProjectId=167176&amp;MediaId=4917&amp;SkipAdvertisement=false&#34;&gt;here&lt;/a&gt; by &lt;strong&gt;30 September 2026&lt;/strong&gt; to be considered. The start date is 1 February 2027 or as close to this date as possible.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jingyi Sun</title>
-      <link>https://copenlu.github.io/people/jingyi/</link>
-      <pubDate>Fri, 31 Jul 2026 17:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/jingyi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nadav Borenstein</title>
-      <link>https://copenlu.github.io/people/nadav/</link>
-      <pubDate>Fri, 31 Jul 2026 17:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/nadav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yijun Bian</title>
-      <link>https://copenlu.github.io/people/yijun/</link>
-      <pubDate>Fri, 31 Jul 2026 16:07:01 +0000</pubDate>
-      
-      <guid>https://copenlu.github.io/people/yijun/</guid>
       <description></description>
     </item>
     
