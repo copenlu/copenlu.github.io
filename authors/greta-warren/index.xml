@@ -6,10 +6,19 @@
     <description>Recent content in Greta Warren on CopeNLU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://copenlu.github.io/authors/greta-warren/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots</title>
+      <link>https://copenlu.github.io/publication/2026_arxiv_warren/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2026_arxiv_warren/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation</title>

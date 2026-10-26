@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Although much research has focused on AI explanations to support decisions in complex information-seeking tasks such as fact-checking, the role of evidence is surprisingly under-researched. In our study, we systematically varied explanation type, AI prediction certainty, and correctness of AI system advice for non-expert participants, who evaluated the veracity of claims and AI system predictions. Participants were provided the option of easily inspecting the underlying evidence. We found that participants consistently relied on evidence to validate AI claims across all experimental conditions. When participants were presented with natural language explanations, evidence was used less frequently although they relied on it when these explanations seemed insufficient or flawed. Qualitative data suggests that participants attempted to infer evidence source reliability, despite source identities being deliberately omitted. Our results demonstrate that evidence is a key ingredient in how people evaluate the reliability of information presented by an AI system and, in combination with natural language explanations, offers valuable support for decision-making. Further research is urgently needed to understand how evidence ought to be presented and how people engage with it in practice.">
+  <meta name="description" content="Generative AI systems increasingly mediate how people seek information, yet communicating AI factuality to laypeople remains challenging. Through a mixed-methods investigation involving interviews (N=8), a survey (N=1,000), and an experiment (N=5,151), we examine how people evaluate AI-generated information for gardening, mathematical, and medical queries, and how factuality indicators (confidence and sources) shape perceptions. Our interviews and survey show people selectively verify AI responses using external and AI-provided evidence, moderated by contextual factors. Although confidence-indicators affected trust and accuracy perceptions, people hold diverse, ambiguous interpretations of AI confidence. Sources were viewed as crucial, yet users raised concerns about source reliability and verification effort. Our experiment showed that confidence and source-based indicators influenced initial perceptions, but effects disappeared once participants learned the response&#39;s correctness. Medical queries elicited skepticism regardless of indicator. Findings motivate helping users interpret model confidence and integrating source information into the interface to support calibrated trust in AI-supported information-seeking.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://copenlu.github.io/publication/2026_arxiv_warren/">
@@ -122,20 +122,20 @@
   
   <meta property="og:site_name" content="CopeNLU">
   <meta property="og:url" content="https://copenlu.github.io/publication/2026_arxiv_warren/">
-  <meta property="og:title" content="Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking | CopeNLU">
-  <meta property="og:description" content="Although much research has focused on AI explanations to support decisions in complex information-seeking tasks such as fact-checking, the role of evidence is surprisingly under-researched. In our study, we systematically varied explanation type, AI prediction certainty, and correctness of AI system advice for non-expert participants, who evaluated the veracity of claims and AI system predictions. Participants were provided the option of easily inspecting the underlying evidence. We found that participants consistently relied on evidence to validate AI claims across all experimental conditions. When participants were presented with natural language explanations, evidence was used less frequently although they relied on it when these explanations seemed insufficient or flawed. Qualitative data suggests that participants attempted to infer evidence source reliability, despite source identities being deliberately omitted. Our results demonstrate that evidence is a key ingredient in how people evaluate the reliability of information presented by an AI system and, in combination with natural language explanations, offers valuable support for decision-making. Further research is urgently needed to understand how evidence ought to be presented and how people engage with it in practice."><meta property="og:image" content="https://copenlu.github.io/publication/2026_arxiv_warren/featured.png">
+  <meta property="og:title" content="When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots | CopeNLU">
+  <meta property="og:description" content="Generative AI systems increasingly mediate how people seek information, yet communicating AI factuality to laypeople remains challenging. Through a mixed-methods investigation involving interviews (N=8), a survey (N=1,000), and an experiment (N=5,151), we examine how people evaluate AI-generated information for gardening, mathematical, and medical queries, and how factuality indicators (confidence and sources) shape perceptions. Our interviews and survey show people selectively verify AI responses using external and AI-provided evidence, moderated by contextual factors. Although confidence-indicators affected trust and accuracy perceptions, people hold diverse, ambiguous interpretations of AI confidence. Sources were viewed as crucial, yet users raised concerns about source reliability and verification effort. Our experiment showed that confidence and source-based indicators influenced initial perceptions, but effects disappeared once participants learned the response&#39;s correctness. Medical queries elicited skepticism regardless of indicator. Findings motivate helping users interpret model confidence and integrating source information into the interface to support calibrated trust in AI-supported information-seeking."><meta property="og:image" content="https://copenlu.github.io/publication/2026_arxiv_warren/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2026-01-19T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2026-10-26T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2026-01-19T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2026-10-26T00:00:00&#43;00:00">
   
 
   
 
-  <title>Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking | CopeNLU</title>
+  
+
+  <title>When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots | CopeNLU</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -369,7 +369,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking</h1>
+  <h1 itemprop="name">When Should I Trust This? Designing and Evaluating Factuality Indicators for LLM-based Chatbots</h1>
 
   
 
@@ -389,12 +389,22 @@
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
-        <a href="/authors/jingyi-sun/">Jingyi Sun</a>
+        <a href="/authors/jessica-heal/">Jessica Heal</a>
       </span>
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
-        <a href="/authors/irina-shklovski/">Irina Shklovski</a>
+        <a href="/authors/sila-eser/">Sila Eser</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/denise-m.-leto/">Denise M. Leto</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/christine-m.-lehane/">Christine M. Lehane</a>
       </span>
     </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
@@ -408,9 +418,9 @@
 
   <span class="article-date">
     
-    <meta content="2026-01-19 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2026-01-19 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      19 Jan 2026
+    <meta content="2026-10-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2026-10-26 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      26 Oct 2026
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -430,7 +440,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Show%20me%20the%20evidence%3a%20Evaluating%20the%20role%20of%20evidence%20and%20natural%20language%20explanations%20in%20AI-supported%20fact-checking&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f"
+         href="https://twitter.com/intent/tweet?text=When%20Should%20I%20Trust%20This%3f%20Designing%20and%20Evaluating%20Factuality%20Indicators%20for%20LLM-based%20Chatbots&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -444,21 +454,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f&amp;title=Show%20me%20the%20evidence%3a%20Evaluating%20the%20role%20of%20evidence%20and%20natural%20language%20explanations%20in%20AI-supported%20fact-checking"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f&amp;title=When%20Should%20I%20Trust%20This%3f%20Designing%20and%20Evaluating%20Factuality%20Indicators%20for%20LLM-based%20Chatbots"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f&amp;title=Show%20me%20the%20evidence%3a%20Evaluating%20the%20role%20of%20evidence%20and%20natural%20language%20explanations%20in%20AI-supported%20fact-checking"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f&amp;title=When%20Should%20I%20Trust%20This%3f%20Designing%20and%20Evaluating%20Factuality%20Indicators%20for%20LLM-based%20Chatbots"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Show%20me%20the%20evidence%3a%20Evaluating%20the%20role%20of%20evidence%20and%20natural%20language%20explanations%20in%20AI-supported%20fact-checking&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f">
+         href="mailto:?subject=When%20Should%20I%20Trust%20This%3f%20Designing%20and%20Evaluating%20Factuality%20Indicators%20for%20LLM-based%20Chatbots&amp;body=https%3a%2f%2fcopenlu.github.io%2fpublication%2f2026_arxiv_warren%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -504,7 +514,7 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2601.11387" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2610.32883" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -520,17 +530,17 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/explainability/">
     
-      Fact Checking Project
+      Explainability Project
     
   </a>
   
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/explainability/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/fact-checking/">
     
-      Explainability Project
+      Fact Checking Project
     
   </a>
   
@@ -556,7 +566,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Although much research has focused on AI explanations to support decisions in complex information-seeking tasks such as fact-checking, the role of evidence is surprisingly under-researched. In our study, we systematically varied explanation type, AI prediction certainty, and correctness of AI system advice for non-expert participants, who evaluated the veracity of claims and AI system predictions. Participants were provided the option of easily inspecting the underlying evidence. We found that participants consistently relied on evidence to validate AI claims across all experimental conditions. When participants were presented with natural language explanations, evidence was used less frequently although they relied on it when these explanations seemed insufficient or flawed. Qualitative data suggests that participants attempted to infer evidence source reliability, despite source identities being deliberately omitted. Our results demonstrate that evidence is a key ingredient in how people evaluate the reliability of information presented by an AI system and, in combination with natural language explanations, offers valuable support for decision-making. Further research is urgently needed to understand how evidence ought to be presented and how people engage with it in practice.</p>
+    <p class="pub-abstract" itemprop="text">Generative AI systems increasingly mediate how people seek information, yet communicating AI factuality to laypeople remains challenging. Through a mixed-methods investigation involving interviews (N=8), a survey (N=1,000), and an experiment (N=5,151), we examine how people evaluate AI-generated information for gardening, mathematical, and medical queries, and how factuality indicators (confidence and sources) shape perceptions. Our interviews and survey show people selectively verify AI responses using external and AI-provided evidence, moderated by contextual factors. Although confidence-indicators affected trust and accuracy perceptions, people hold diverse, ambiguous interpretations of AI confidence. Sources were viewed as crucial, yet users raised concerns about source reliability and verification effort. Our experiment showed that confidence and source-based indicators influenced initial perceptions, but effects disappeared once participants learned the response&rsquo;s correctness. Medical queries elicited skepticism regardless of indicator. Findings motivate helping users interpret model confidence and integrating source information into the interface to support calibrated trust in AI-supported information-seeking.</p>
     
 
     
@@ -585,7 +595,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">CoRR, abs/2601.11387</div>
+          <div class="col-12 col-md-9">CoRR, abs/2610.32883</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -599,7 +609,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            January, 2026
+            October, 2026
           </div>
         </div>
       </div>
